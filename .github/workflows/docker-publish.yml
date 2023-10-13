@@ -1,0 +1,38 @@
+name: Docker
+
+on:
+  push:
+    branches: [ "main" ]
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: read
+      packages: write
+    steps:
+    - name: Docker Login
+      uses: docker/login-action@v1
+      with:
+        registry: ghcr.io
+        username: ${{ github.actor }}
+        password: ${{ secrets.GITHUB_TOKEN }}
+    - name: Get Version Tags
+      id: versions
+      run: |
+        echo "FRONTEND_VERSION=$(node -p "require('./frontend/variable-mapper/package.json').version")" >> "$GITHUB_OUTPUT"
+        echo "BACKEND_VERSION=0.0.1 >> "$GITHUB_OUTPUT"
+    - name: Build & push frontend
+      uses: docker/build-push-action@v5
+      with:
+        push: true
+        context: ./frontend
+        file: ./frontend/Dockerfile
+        tags: ghcr.io/scai-bio/ad-mapper:latest, ghcr.io/scai-bio/ad-mapper:${{ steps.versions.outputs.FRONTEND_VERSION }}    
+    - name: Build & push backend
+      uses: docker/build-push-action@v2
+      with:
+        push: true
+        context: ./backend
+        file: ./backend/Dockerfile
+        tags: ghcr.io/${{ github.repository }}/backend:latest, ghcr.io/${{ github.repository }}/backend:${{ steps.versions.outputs.BACKEND_VERSION }}
