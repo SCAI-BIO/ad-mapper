@@ -1,0 +1,49 @@
+True;prediction;input;description
+Right Pars Orbitalis Gray Matter Volume;right lingual grey matter volume;RPARORB;
+Left Frontal Pole Area;left frontal pole thickness;lh_(frontalpole)SurfArea;
+Left Gyrus Pariet Inf-Supramar Volume From Qdec;right gyrus pariet inf-supramar volume from qdec;(G_pariet_inf-Supramar)GrayVol;
+Right Superiorparietal Mean Cortical Thickness;right superiorfrontal mean cortical thickness;RSUPPARM;
+Right Paracentral Grey Matter Volume;right fusiform gray matter volume;RPARCEN;
+Right Superior Temporal Mean Cortical Thickness;right superiorparietal mean cortical thickness;rh_superiortemporal_thickness;Right_superiortemporal_thickness_from_Qdec_rh.aparc.thickness.stats_file
+Right Pars Triangularis Gray Matter Volume;right parahippocampal gray matter volume;RPARTRI;
+Hearing;ears, nose and throat;ears_nose_throat_results;
+Left Sulcus Interm Prim-Jensen Area From Qdec;right sulcus interm prim-jensen area from qdec;(S_interm_prim-Jensen)SurfArea;
+Right Superior Temporal Area;right paracentral area;ST117SA;Surface Area (aparc.stats) of RightSuperiorTemporal
+Left Rostral Anterior Cingulate Mean Cortical Thickness;right superior temporal gray matter volume;LROSANCM;
+Right Sulcus Circular Insula Anterior Meancurv From Qdec;left sulcus circular insula anterior meancurv from qdec;(S_circular_insula_ant)MeanCurv;
+Right Gyrus And Sulcus Cingul-Mid-Ant Volume From Qdec;right gyrus and sulcus cingul-mid-post area from qdec;(G_and_S_cingul-Mid-Ant)GrayVol;
+Left Gyrus And Sulcus Frontomargin Area From Qdec;right gyrus and sulcus frontomargin volume from qdec;(G_and_S_frontomargin)SurfArea;
+CC Mid Posterior From Qdec Aseg;left paracentral area;CC_Mid_Posterior;CC_Mid_Posterior_from_Qdec_aseg.volume.stats_file
+Right Sulcus Subparietal Volume From Qdec;left sulcus subparietal volume from qdec;(S_subparietal)GrayVol;
+Left Gyrus And Sulcus Subcentral Volume From Qdec;right gyrus and sulcus subcentral area from qdec;(G_and_S_subcentral)GrayVol;
+Rey Auditory Verbal Learning Test - Delayed;right superiorfrontal mean cortical thickness;AVDELTOT;
+Smoking;boston naming test (bnt);TOBAC30;
+White-matter-left-middletemporal-from Qdec Wmparc;white-matter-right-middletemporal-from qdec wmparc;wm-lh-middletemporal;
+Right Sulcus Calcarine Meancurv From Qdec;left sulcus calcarine meancurv from qdec;(S_calcarine)MeanCurv;
+Right Pole Occipital Meancurv From Qdec;left pole occipital meancurv from qdec;(Pole_occipital)MeanCurv;
+Glucose_metabolism in left hippocampus (Pons_Normalized);glucose metabolism in right hippocampus (pons_normalized);Hipp_Hypo_Sx_Gluc_(Pons_Normalized);
+Left Supramarginal Gray Matter Volume;left gyrus frontal sup volume from qdec;llsuprgv;
+Right Posteriorcingulate Meancurv From Qdec;left posteriorcingulate meancurv from qdec;lh_(posteriorcingulate)MeanCurv;
+Left Middletemporal Area;left superiortemporal area;ST40SA;Surface Area (aparc.stats) of LeftMiddleTemporal
+Dyslipidemia;headache;medical_history_term;
+Left Gyrus Temporal Inferior Area From Qdec;right gyrus pariet inf-angular volume from qdec;(G_temporal_inf)SurfArea;
+Left Pericalcarine Mean Cortical Thickness;right temporal pole gray matter volume;LPERCALM;
+Left Entorightinal Mean Cortical Thickness;left lingual mean cortical thickness;lh_entorhinal_thickness;
+AV45 PET;left fusiform mean cortical thickness;AV45;
+Right Inferior Lateral Ventricle Volume;right lateral ventricle volume;Right-Inf-Lat-Vent;
+Left Temporal Pole Area;left temporal pole thickness;lh_(temporalpole)SurfArea;
+Right Sulcus Circular Insula Anterior Thickness From Qdec;right sulcus circular insula sup thickness from qdec;rh_S_circular_insula_ant_thickness;
+Left Sulcus Interm Prim-Jensen Volume From Qdec;right sulcus interm prim-jensen volume from qdec;(S_interm_prim-Jensen)GrayVol;
+Brain Stem Grey Matter Volume;brainsegvol from qdec aseg;Brain-Stem;Brain-Stem_from_Qdec_aseg.volume.stats_file-FreeSurfer(v5.3)
+Left Entorightinal Mean Cortical Thickness;left insula mean cortical thickness;ST24TA;Thickness Average (aparc.stats) of LeftEntorhinal
+Left Sulcus Calcarine Thickness From Qdec;right sulcus calcarine thickness from qdec;(S_calcarine)ThickAvg;
+Left Sulcus And Gyrus Paracentral Area;left gyrus and sulcus subcentral area from qdec;lh_G_and_S_paracentral_area;Left_gyrus_and_sulcus_paracentral_area_from_Qdec_lh.aparc.a2009s.area.stats_file-FreeSurfer(v5.3)
+Left Gyrus Frontal Inf-Opercular Volume From Qdec;right gyrus frontal inf-opercular volume from qdec;(G_front_inf-Opercular)GrayVol;
+Right Gyrus And Sulcus Frontomargin Area From Qdec;right gyrus and sulcus frontomargin volume from qdec;(G_and_S_frontomargin)SurfArea;
+Logical Memory - Delayed Recall;left cortical gray matter volume;LM_Delayed_recall_Tot_Score;
+Right Sulcus Frontal Inferior Area From Qdec;right sulcus precentral-inf-part area from qdec;rh_S_front_inf_area;
+Clinical Dementia Rating (CDR);clinical dementia rating scale sum of boxes (cdrsb);cdrtotal;CDR Total score
+CC Mid Anterior From Qdec Aseg;left sulcus frontal inferior volume from qdec;(CC_Mid_Anterior)Volume_mm3;
+Left Gyrus Orbital Thickness From Qdec;right gyrus orbital thickness from qdec;(G_orbital)ThickAvg;
+Participant ID;ptau in csf;PTID;
+PET-hypoperfusion: temporal right;right temporal pole thickness;PET-ROI-temporal_right;

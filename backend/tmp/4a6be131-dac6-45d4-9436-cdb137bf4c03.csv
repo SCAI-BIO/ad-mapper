@@ -1,0 +1,4 @@
+,Variable,Description,target,OMOP,A4,ABVIB,ADNI,AIBL,ANM,ARWIBO,BRACE,C-Surv,DOD-ADNI,EDSD,EMIF,EPAD,I-ADNI,JADNI,NACC,Neuronet,OASIS,PREVENT-AD,PharmaCog,ROSMAP,VASCULAR,VITA,WMH-AD,ALFA
+0,gender,,biological sex,4135376.0,PTGENDER,SEX,PTGENDER,Demographic.Sex,Sex,Gender,F011Gender,SEX,PTGENDER,Gender,Gender,sex,Gender,PTGENDER,SEX,sex,Gender,Sex,Gender,msex,sex,Gender,Gender,Gender
+1,Left hippocampus,The volume of the hippocampus (left),left hippocampus volume,,LeftHippocampus,,ST29SV,,Left-Hippocampus,Hippo_Vol_Sx(mm^3),,T1VOLGRYHIPPOL,ST29SV,Hippo_Vol_Sx(mm^3),Lhippo_FS_adj,lhvl,Hippo_Vol_Sx(mm^3),(Left-Hippocampus)Volume_mm3,LHIPPO,,Hippo_Vol_Sx(mm^3),,Hippo_Vol_Sx(mm^3),,Left_Hippocampus,Hippo_Vol_Sx(mm^3),Hippo_Vol_Sx(mm^3),
+2,clock_draw,Clock drawing test,clock drawing test,,,,CLOCKSCOR,Neuropsych.Clock Score,,cdt,CLOX1 R SC,,CLOCKSCOR,CDT,,,,CLOCKSCOR,,,,,Clock_Drawing_score,,,,,

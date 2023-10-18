@@ -1,0 +1,46 @@
+{
+  "name": "ad-mapper",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "serve": "vue-cli-service serve",
+    "build": "vue-cli-service build",
+    "production" : "vue-cli-service serve --mode production",
+    "lint": "vue-cli-service lint"
+  },
+  "dependencies": {
+    "@achrinza/node-ipc": "^10.1.7",
+    "@fortawesome/fontawesome-svg-core": "^6.2.0",
+    "@headlessui/vue": "^1.6.4",
+    "@heroicons/vue": "^1.0.6",
+    "@tailwindcss/forms": "^0.5.3",
+    "@vue-hero-icons/outline": "^1.7.2",
+    "@vue-hero-icons/solid": "^1.7.2",
+    "axios": "^0.27.2",
+    "core-js": "^3.8.3",
+    "heroicons-vue3": "^1.0.2",
+    "oh-vue-icons": "^1.0.0-rc3",
+    "serve": "^14.2.1",
+    "supertokens-web-js": "^0.1.1",
+    "vue": "^3.2.13",
+    "vue-router": "^4.0.3",
+    "vue3-easy-data-table": "^1.5.47"
+  },
+  "devDependencies": {
+    "@typescript-eslint/eslint-plugin": "^5.4.0",
+    "@typescript-eslint/parser": "^5.4.0",
+    "@vue/cli-plugin-babel": "~5.0.0",
+    "@vue/cli-plugin-eslint": "~5.0.0",
+    "@vue/cli-plugin-router": "~5.0.0",
+    "@vue/cli-plugin-typescript": "~5.0.0",
+    "@vue/cli-service": "~5.0.0",
+    "@vue/eslint-config-typescript": "^9.1.0",
+    "autoprefixer": "^10.4.7",
+    "eslint": "^7.32.0",
+    "eslint-plugin-vue": "^8.0.3",
+    "postcss": "^8.4.14",
+    "tailwindcss": "^3.1.0",
+    "typescript": "~4.5.5",
+    "vue-cli-plugin-vuetify": "~2.5.8"
+  }
+}

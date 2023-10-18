@@ -1,0 +1,1563 @@
+var_1,description_1,var_2,description_2,label
+Left Gyrus Temporal Inferior Thickness From Qdec,,lh_(lateraloccipital)MeanCurv,,0
+Left Pars Orbitalis Area,,lh_(parsorbitalis)SurfArea,,1
+Right Sulcus Orbital Med-olfact Meancurv From Qdec,,lh_G_and_S_occipital_inf_volume,Left_gyrus_and_sulcus_occipital_inferior_volume_from_Qdec_lh.aparc.a2009s.volume_file,0
+Right Insula Volume From Qdec aparc,,rh_parstriangularis_area,Right_parstriangularis_area_from_Qdec_rh.aparc.area_file-FreeSurfer(v5.3),0
+Right Gyrus Pariet Inf-Supramar Thickness From Qdec,,(G_and_S_transv_frontopol)ThickAvg,,0
+Left Sulcus Suborbital Area From Qdec,,lh_G_temp_sup-Plan_polar_volume,,0
+Right Lateraloccipital Mean Cortical Thickness,,rh_(lateraloccipital)ThickAvg,,1
+Right Superior Frontal Gray Matter Volume,,rh_parstriangularis_volume,Right_parstriangularis_volume_from_Qdec_rh.aparc.volume.stats_file,0
+Non-White-matter-hypointensities,,non-WM-hypointensities,Non-White-matter-hypointensities_from_Qdec_aseg.volume.stats_file,1
+Right Gyrus Frontal Sup Volume From Qdec,,lh_G_and_S_cingul-Mid-Post_meancurv,Left_gyrus_and_sulcus_cingul-Mid-Post_meancurv_from_Qdec_lh.aparc.a2009s.meancurv_file,0
+White-matter-Right-insula-from Qdec Wmparc,White-matter-Right-insula-from_Qdec_wmparc.volume.stats_file,lh_S_pericallosal_meancurv,Left_sulcus_pericallosal_meancurv_from_Qdec_lh.aparc.a2009s.meancurv_file-FreeSurfer(v5.3),0
+Left Isthmus Cingulate Mean Cortical Thickness,,lh_isthmuscingulate_thickness,Left_isthmuscingulate_thickness_from_Qdec_lh.aparc.thickness.stats_file,1
+Right Supramarginal Mean Cortical Thickness,,RSUPMARM,,1
+Left Sulcus Frontal Middle Meancurv From Qdec,,lh_S_front_middle_meancurv,,1
+Right Gyrus Orbital Meancurv From Qdec,,rh_(parahippocampal)GrayVol,,0
+Left Supramarginal Meancurv From Qdec,,lh_supramarginal_meancurv,,1
+Right Gyrus Oc-temp Med-Parahip Thickness From Qdec,,lh_S_oc-temp_lat_thickness,Left_sulcus_oc-temp_lat_thickness_from_Qdec_lh.aparc.a2009s.thickness_file,0
+Right Gyrus Oc-temp Med-Lingual Meancurv From Qdec,,rh_G_oc-temp_med-Lingual_meancurv,Right_gyrus_oc-temp_med-Lingual_meancurv_from_Qdec_rh.aparc.a2009s.meancurv_file-FreeSurfer(v5.3),1
+Left Gyrus Frontal Sup Area From Qdec,,(G_front_sup)SurfArea,,1
+Right Transverse Temporal Area,,lh_G_cuneus_area,,0
+Right Sulcus Precentral-sup-part Meancurv From Qdec,,(S_precentral-sup-part)MeanCurv,,1
+Left Inferiorparietal Mean Cortical Thickness,,LINFPARM,,1
+Right Parsorbitalis Mean Cortical Thickness,,lh_Lat_Fis-ant-Vertical_meancurv,Left_Lat_Fis-ant-Vertical_meancurv_from_Qdec_lh.aparc.a2009s.meancurv_file-FreeSurfer(v5.3),0
+Left Frontal Pole Gray Matter Volume,,lh_frontalpole_volume,Left_frontalpole_volume_from_Qdec_lh.aparc.volume.stats_file,1
+Right Caudalanteriorcingulate Meancurv From Qdec,,rh_(caudalanteriorcingulate)MeanCurv,,1
+Right Sulcus Postcentral Area From Qdec,,rh_S_postcentral_area,,1
+Right Sulcus Oc-temp Lat Meancurv From Qdec,,rh_S_oc-temp_lat_meancurv,,1
+White-matter-Right-medialorbitofrontal-from Qdec Wmparc,,rh_S_suborbital_volume,Right_sulcus_suborbital_volume_from_Qdec_rh.aparc.a2009s.volume_file,0
+Left Sulcus Orbital Lateral Volume From Qdec,,(S_orbital_lateral)GrayVol,,1
+Left Parstriangularis Meancurv From Qdec,,nasgol,Past_pathological_anamnesis:_ask_to_the_patient:_do_you_suffers_for_nose/throat,0
+White-matter-Right-postcentral-from Qdec Wmparc,White-matter-Right-postcentral-from_Qdec_wmparc.volume.stats_file,rh_fusiform_area,Right_fusiform_area_from_Qdec_rh.aparc.area_file,0
+Left Putamen Volume,,(S_oc-temp_med_and_Lingual)ThickAvg,,0
+Right Cerebellum Gray Matter Volume,,(Right-Cerebellum-Cortex)Volume_mm3,,1
+Left Sulcus Circular Insula Inferior Area From Qdec,,lh_inferiorparietal_thickness,Left_inferiorparietal_thickness_from_Qdec_lh.aparc.thickness.stats_file,0
+Left Supramarginal Gray Matter Volume,,ST59CV,Cortical Volume (aparc.stats) of LeftSupramarginal,1
+Right Supramarginal Meancurv From Qdec,,(S_central)GrayVol,,0
+Left Accumbens Area Volume,,apoe_genotype,,0
+Left Rostral Middle Frontal Mean Cortical Thickness,,rh_G_and_S_cingul-Ant_volume,Right_gyrus_and_sulcus_cingul-Ant_volume_from_Qdec_rh.aparc.a2009s.volume_file-FreeSurfer(v5.3),0
+Right Middle Temporal Gray Matter Volume,,lh_(temporalpole)GrayVol,,0
+Left Pars Opercularis Mean Cortical Thickness,,ST45TA,Thickness Average (aparc.stats) of LeftParsOpercularis,1
+Month of Birth,The month in which a person was born.,RLINGM,,0
+Right Medialorbitofrontal Meancurv From Qdec,,rh_medialorbitofrontal_meancurv,Right_medialorbitofrontal_meancurv_from_Qdec_rh.aparc.meancurv_file,1
+Left Sulcus Intrapariet And P Trans Meancurv From Qdec,,(S_intrapariet_and_P_trans)MeanCurv,,1
+Right Sulcus Frontal Inferior Meancurv From Qdec,,rh_G_temporal_middle_thickness,,0
+Left Fusiform Mean Cortical Thickness,,lh_fusiform_thickness,Left_fusiform_thickness_from_Qdec_lh.aparc.thickness.stats_file-FreeSurfer(v5.3),1
+Right Sulcus Circular Insula Anterior Thickness From Qdec,,rh_G_and_S_paracentral_meancurv,Right_gyrus_and_sulcus_paracentral_meancurv_from_Qdec_rh.aparc.a2009s.meancurv_file,0
+Right Gyrus And Sulcus Paracentral Meancurv From Qdec,,rh_posteriorcingulate_thickness,Right_posteriorcingulate_thickness_from_Qdec_rh.aparc.thickness.stats_file-FreeSurfer(v5.3),0
+Right Gyrus And Sulcus Frontomargin Thickness From Qdec,,rh_G_and_S_frontomargin_thickness,,1
+Left Molecular Layer HP Volume,Left_molecular_layer_HP,lh_paracentral_meancurv,Left_paracentral_meancurv_from_Qdec_lh.aparc.meancurv_file,0
+Left Gyrus Rectus Thickness From Qdec,,lh_G_Ins_lg_and_S_cent_ins_volume,,0
+Left Gyrus Oc-temp Lat-fusifor Meancurv From Qdec,,lh_G_oc-temp_lat-fusifor_meancurv,Left_gyrus_oc-temp_lat-fusifor_meancurv_from_Qdec_lh.aparc.a2009s.meancurv_file,1
+Right Gyrus Oc-temp Med-Lingual Area From Qdec,,rh_G_oc-temp_med-Lingual_area,Right_gyrus_oc-temp_med-Lingual_area_from_Qdec_rh.aparc.a2009s.area.stats_file-FreeSurfer(v5.3),1
+Right Gyrus Oc-temp Med-Parahip Area From Qdec,,rh_G_oc-temp_med-Parahip_area,Right_gyrus_oc-temp_med-Parahip_area_from_Qdec_rh.aparc.a2009s.area.stats_file,1
+Right Sulcus Central Volume From Qdec,,rh_rostralmiddlefrontal_meancurv,Right_rostralmiddlefrontal_meancurv_from_Qdec_rh.aparc.meancurv_file,0
+Left Postcentral Area,,ST49SA,Surface Area (aparc.stats) of LeftPostcentral,1
+Right Transverse Temporal Mean Cortical Thickness,,RLINGM,,0
+Left Gyrus Temp Sup-G T Transv Thickness From Qdec,,Right_Putamen,,0
+Boston Naming Test (BNT),-,lh_S_precentral-inf-part_area,,0
+Right CA1 Volume,Right_CA1,right_CA1,Right_CA1-FreeSurfer(v6Beta),1
+White-matter-Right-parsopercularis-from Qdec Wmparc,White-matter-Right-parsopercularis-from_Qdec_wmparc.volume.stats_file,wm-rh-parsopercularis,,1
+Right Sulcus Calcarine Thickness From Qdec,,lh_bankssts_volume,Left_banks_of_the_superior_temoral_sulcus_volume_from_Qdec_lh.aparc.volume.stats_file-FreeSurfer(v5.3),0
+White-matter-Right-parsopercularis-from Qdec Wmparc,White-matter-Right-parsopercularis-from_Qdec_wmparc.volume.stats_file,ST93SA,Surface Area (aparc.stats) of RightIsthmusCingulate,0
+Right Gyrus Temp Sup-Plan Polar Area From Qdec,,rh_(parsopercularis)MeanCurv,,0
+Left Lingual Mean Cortical Thickness,,ST38TA,Thickness Average (aparc.stats) of LeftLingual,1
+Right Pallidum Volume,,lh_G_temporal_middle_meancurv,Left_gyrus_temporal_middle_meancurv_from_Qdec_lh.aparc.a2009s.meancurv_file,0
+Diagnosis,"The investigation, analysis and recognition of the presence and nature of disease, condition, or injury from expressed signs and symptoms; also, the scientific determination of any kind; the concise results of such an investigation.",lh_G_and_S_cingul-Mid-Ant_meancurv,Left_gyrus_and_sulcus_cingul-Mid-Ant_meancurv_from_Qdec_lh.aparc.a2009s.meancurv_file,0
+Right Pars Orbitalis Gray Matter Volume,,rh_superiorparietal_volume,Right_superiorparietal_volume_from_Qdec_rh.aparc.volume.stats_file-FreeSurfer(v5.3),0
+tTau in CSF,"Is a quantification of total tau protein, a biomarker for Alzheimer's disease.",wm-lh-caudalanteriorcingulate,,0
+Right Gyrus And Sulcus Subcentral Meancurv From Qdec,,rh_S_oc-temp_lat_meancurv,Right_sulcus_oc-temp_lat_meancurv_from_Qdec_rh.aparc.a2009s.meancurv_file,0
+Right Sulcus Frontal Inferior Volume From Qdec,,(S_temporal_sup)SurfArea,,0
+Right Gyrus Temp Sup-G T Transv Volume From Qdec,,rh_G_temp_sup-G_T_transv_volume,,1
+Right Gyrus And Sulcus Subcentral Meancurv From Qdec,,lh_precentral_meancurv,Left_precentral_meancurv_from_Qdec_lh.aparc.meancurv_file,0
+Right Fusiform Area,,rh_fusiform_area,Right_fusiform_area_from_Qdec_rh.aparc.area_file,1
+Right Gyrus Subcallosal Thickness From Qdec,,lh_supramarginal_meancurv,Left_supramarginal_meancurv_from_Qdec_lh.aparc.meancurv_file,0
+Right Parsorbitalis Mean Cortical Thickness,,left_hippocampal-fissure,Left_hippocampal-fissure,0
+Left Entorhinal Area,,rh_S_circular_insula_inf_meancurv,Right_sulcus_circular_insula_inferior_meancurv_from_Qdec_rh.aparc.a2009s.meancurv_file-FreeSurfer(v5.3),0
+Left Temporalpole Meancurv From Qdec,,BrainSegVol-to-eTIV,BrainSegVol-to-eTIV_from_Qdec_aseg.volume.stats_file-FreeSurfer(v5.3),0
+Left Parstriangularis Meancurv From Qdec,,lh_parstriangularis_meancurv,,1
+Right Gyrus Pariet Inf-Supramar Volume From Qdec,,rh_S_oc_middle_and_Lunatus_area,,0
+Right Isthmus Cingulate Mean Cortical Thickness,,rh_isthmuscingulate_thickness,Right_isthmuscingulate_thickness_from_Qdec_rh.aparc.thickness.stats_file-FreeSurfer(v5.3),1
+Right Gyrus And Sulcus Cingul-Mid-Post Area From Qdec,,(G_and_S_cingul-Mid-Post)SurfArea,,1
+Right Sulcus Collat Transv Anterior Thickness From Qdec,,rh_S_collat_transv_ant_thickness,Right_sulcus_collat_transv_anterior_thickness_from_Qdec_rh.aparc.a2009s.thickness_file,1
+Left Caudal Anterior Cingulate Area,,ST14SA,Surface Area (aparc.stats) of LeftCaudalAnteriorCingulate,1
+White-matter-left-parsorbitalis-from Qdec Wmparc,,lh_lateraloccipital_volume,,0
+Right Postcentral Grey Matter Volume,,rh_(postcentral)GrayVol,,1
+Right Lingual Meancurv From Qdec,,rh_S_pericallosal_volume,,0
+Right Parasubiculum Volume,Right_parasubiculum,right_parasubiculum,Right_parasubiculum,1
+Right Isthmuscingulate Area From Qdec,,lh_cuneus_volume,Left_cuneus_volume_from_Qdec_lh.aparc.volume.stats_file,0
+White-matter-left-parsorbitalis-from Qdec Wmparc,,lh_(medialorbitofrontal)MeanCurv,,0
+Right Sulcus Frontal Sup Volume From Qdec,,(G_precuneus)MeanCurv,,0
+Left Hippocampus Volume,,Hippo_Vol_Sx(mm^3),Left_hippocampal_volume_from_Qdec_aseg.volume.stats_file,1
+Left Lateraloccipital Area,,lh_S_precentral-inf-part_meancurv,,0
+Alzheimer’s Disease Assessment Scale 13-item (ADAS13),"Alzheimer's Disease Assessment Scale-Cognitive CDISC Version (ADAS-Cog CDISC Version) Word recognition task for word 13 Trials 1, 2, 3.",ST104CV,Cortical Volume (aparc.stats) of RightParsOpercularis,0
+Right-vessel From Qdec,,Right-vessel,Right-vessel_from_Qdec_aseg.volume.stats_file-FreeSurfer(v5.3),1
+CC Anterior From Qdec Aseg,,(CC_Anterior)Volume_mm3,,1
+Right Gyrus Oc-temp Med-Parahip Volume From Qdec,,CDRSUM,,0
+Right Sulcus Frontal Sup Area From Qdec,,lh_lingual_meancurv,,0
+Left Gyrus Occipital Sup Volume From Qdec,,lh_G_occipital_sup_volume,Left_gyrus_occipital_sup_volume_from_Qdec_lh.aparc.a2009s.volume_file,1
+White-matter-Right-parsopercularis-from Qdec Wmparc,White-matter-Right-parsopercularis-from_Qdec_wmparc.volume.stats_file,wm-rh-parsopercularis,White-matter-Right-parsopercularis-from_Qdec_wmparc.volume.stats_file-FreeSurfer(v5.3),1
+Left Sulcus Orbital-H Shaped Volume From Qdec,,total_score,,0
+Right Sulcus Subparietal Volume From Qdec,,rh_S_subparietal_volume,Right_sulcus_subparietal_volume_from_Qdec_rh.aparc.a2009s.volume_file,1
+Right Sulcus Frontal Inferior Meancurv From Qdec,,rh_S_front_inf_meancurv,Right_sulcus_frontal_inferior_meancurv_from_Qdec_rh.aparc.a2009s.meancurv_file,1
+Right Parsorbitalis Area,,ST105SA,Surface Area (aparc.stats) of RightParsOrbitalis,1
+Alcohol,"Consumption of liquids containing ethanol, including the behaviors associated with drinking the alcohol.",(S_circular_insula_sup)ThickAvg,,0
+Year of Birth,The year in which a person was born.,(G_subcallosal)MeanCurv,,0
+Right Sulcus Occipital Anterior Thickness From Qdec,,rh_S_occipital_ant_thickness,,1
+Left Cerebellum Gray Matter Volume,,llcbev,,1
+Right Precentral Meancurv From Qdec,,rh_precentral_meancurv,,1
+Right Middletemporal Meancurv From Qdec,,rh_middletemporal_meancurv,Right_middletemporal_meancurv_from_Qdec_rh.aparc.meancurv_file-FreeSurfer(v5.3),1
+Right Sulcus Oc Middle And Lunatus Meancurv From Qdec,,Patient'sWeight,Patient's_Weight_of_MRI_extracted_form_DICOM,0
+Left Gyrus Frontal Inf-Orbital Meancurv From Qdec,,(S_pericallosal)ThickAvg,,0
+ICV,Total Intracranial Volume,lh_G_precentral_area,Left_gyrus_precentral_area_from_Qdec_lh.aparc.a2009s.area.stats_file-FreeSurfer(v5.3),0
+Relatives with Dementia,,Relatives_with_dementia,Relatives_with_dementia,1
+Left Precentral Gray Matter Volume,,lh_G_and_S_transv_frontopol_thickness,Left_gyrus_and_sulcus_transv_frontopol_thickness_from_Qdec_lh.aparc.a2009s.thickness_file,0
+White-matter-left-posteriorcingulate-from Qdec Wmparc,,lh_S_oc-temp_med_and_Lingual_volume,Left_sulcus_oc-temp_med_and_Lingual_volume_from_Qdec_lh.aparc.a2009s.volume_file,0
+Left Gyrus Occipital Sup Thickness From Qdec,,lh_(caudalanteriorcingulate)ThickAvg,,0
+tTau in CSF,"Is a quantification of total tau protein, a biomarker for Alzheimer's disease.",chest_results,,0
+Verbal fluency tests (Phonemic) ,A test that measures the verbal fluency of an individual. This tool measures both semantic fluency and phonetic fluency.,Neuropsych.FAS (total),Controlled Oral Word Association Test Total,1
+Right Gyrus Temp Sup-Plan Polar Volume From Qdec,,lh_G_pariet_inf-Supramar_thickness,,0
+Right Sulcus Temporal Sup Thickness From Qdec,,lh_S_precentral-inf-part_area,Left_sulcus_precentral-inf-part_area_from_Qdec_lh.aparc.a2009s.area.stats_file-FreeSurfer(v5.3),0
+Left Sulcus Occipital Anterior Meancurv From Qdec,,lh_S_occipital_ant_meancurv,,1
+Right Posteriorcingulate Meancurv From Qdec,,rh_G_Ins_lg_and_S_cent_ins_thickness,Right_gyrus_Ins_lg_and_sulcus_cent_ins_thickness_from_Qdec_rh.aparc.a2009s.thickness_file-FreeSurfer(v5.3),0
+Left Inferiorparietal Meancurv From Qdec,,rhSurfaceHoles,Right_SurfaceHoles_from_Qdec_aseg.volume.stats_file,0
+Right Gyrus And Sulcus Cingul-Mid-Ant Volume From Qdec,,rh_G_and_S_cingul-Mid-Ant_volume,Right_gyrus_and_sulcus_cingul-Mid-Ant_volume_from_Qdec_rh.aparc.a2009s.volume_file,1
+Right Pars Triangularis Mean Cortical Thickness,,lh_G_and_S_cingul-Ant_area,Left_gyrus_and_sulcus_cingul-Ant_area_from_Qdec_lh.aparc.a2009s.area.stats_file,0
+Age,How long something has existed; elapsed time since birth.,AGE,,1
+Left Gyrus Postcentral Volume From Qdec,,lh_S_orbital_med-olfact_meancurv,,0
+Biological Sex,The assemblage of physical properties or qualities by which male is distinguished from female; the physical difference between male and female; the distinguishing peculiarity of male or female.,wm-lh-temporalpole,White-matter-left-temporalpole-from_Qdec_wmparc.volume.stats_file-FreeSurfer(v5.3),0
+Right Middletemporal Meancurv From Qdec,,rh_middletemporal_meancurv,,1
+Left Superiorparietal Meancurv From Qdec,,lh_superiorparietal_meancurv,,1
+Left Sulcus Orbital Med-olfact Meancurv From Qdec,,lh_S_front_sup_meancurv,Left_sulcus_frontal_sup_meancurv_from_Qdec_lh.aparc.a2009s.meancurv_file,0
+Right Pole Temporal Meancurv From Qdec,,rh_S_temporal_inf_area,Right_sulcus_temporal_inferior_area_from_Qdec_rh.aparc.a2009s.area.stats_file-FreeSurfer(v5.3),0
+Left Superiorfrontal Meancurv From Qdec,,rh_(frontalpole)ThickAvg,,0
+Right Parsorbitalis Area,,lh_transversetemporal_thickness,,0
+Right Sulcus Central Volume From Qdec,,RFUS,,0
+Left Sulcus Pericallosal Meancurv From Qdec,,rh_G_precentral_area,Right_gyrus_precentral_area_from_Qdec_rh.aparc.a2009s.area.stats_file-FreeSurfer(v5.3),0
+Right Lateralorbitofrontal Mean Cortical Thickness,,(S_precentral-sup-part)MeanCurv,,0
+Left Gyrus Pariet Inf-Angular Volume From Qdec,,lh_G_pariet_inf-Angular_volume,Left_gyrus_pariet_inf-Angular_volume_from_Qdec_lh.aparc.a2009s.volume_file,1
+Right Fusiform Gray Matter Volume,,rh_G_and_S_transv_frontopol_volume,Right_gyrus_and_sulcus_transv_frontopol_volume_from_Qdec_rh.aparc.a2009s.volume_file,0
+A-beta 1-42 in Plasma,The determination of the amount of the 1-42 amino acid beta amyloid protein isoform present in a sample.,AB42,,1
+Right Sulcus Suborbital Volume From Qdec,,rh_(insula)GrayVol,,0
+Left Supramarginal Area,,lh_supramarginal_area,Left_supramarginal_area_from_Qdec_lh.aparc.area_file-FreeSurfer(v5.3),1
+Left Sulcus Calcarine Meancurv From Qdec,,lh_S_calcarine_meancurv,Left_sulcus_calcarine_meancurv_from_Qdec_lh.aparc.a2009s.meancurv_file-FreeSurfer(v5.3),1
+Left Inferior Lateral Ventricle Volume,,rh_G_front_inf-Orbital_thickness,,0
+Right Sulcus Parieto Occipital Volume From Qdec,,rh_G_occipital_sup_thickness,Right_gyrus_occipital_sup_thickness_from_Qdec_rh.aparc.a2009s.thickness_file-FreeSurfer(v5.3),0
+Left Sulcus Subparietal Volume From Qdec,,lh_(parsorbitalis)MeanCurv,,0
+Left Paracentral Gray Matter Volume,,lh_(paracentral)GrayVol,,1
+White-matter-left-paracentral-from Qdec Wmparc,,wm-lh-paracentral,White-matter-left-paracentral-from_Qdec_wmparc.volume.stats_file-FreeSurfer(v5.3),1
+Left Parahippocampal Mean Cortical Thickness,,lh_(parahippocampal)ThickAvg,,1
+Left Posteriorcingulate Meancurv From Qdec,,(CC_Posterior)Volume_mm3,,0
+CC Anterior From Qdec Aseg,,rh_S_oc_sup_and_transversal_area,,0
+Right Lat Fis-ant-Vertical Volume From Qdec,,lh_S_precentral-inf-part_volume,Left_sulcus_precentral-inf-part_volume_from_Qdec_lh.aparc.a2009s.volume_file-FreeSurfer(v5.3),0
+Left Sulcus Collat Transv Posterior Meancurv From Qdec,,lh_S_collat_transv_post_meancurv,,1
+Right Gyrus Frontal Inf-Triangul Thickness From Qdec,,ans,"Neuropsychiatric_inventory_(NPI)-Anxiety:_presence_of_anxiety_during_the_last_5_years-Was_the_patient_very_nervous,_worried,_or_frightened_for_no_apparent_reason?_Does_he/she_seem_very_tense_or_fidgety?_Is_the_patient_afraid_to_be_apart_from_you?_",0
+pTau in CSF,,PTAU,,1
+Right Sulcus Subparietal Meancurv From Qdec,,rh_G_and_S_transv_frontopol_area,Right_gyrus_and_sulcus_transv_frontopol_area_from_Qdec_rh.aparc.a2009s.area.stats_file-FreeSurfer(v5.3),0
+Left Sulcus Temporal Sup Volume From Qdec,,(S_temporal_sup)GrayVol,,1
+Right Isthmuscingulate Volume,,rh_isthmuscingulate_volume,Right_isthmuscingulate_volume_from_Qdec_rh.aparc.volume.stats_file,1
+Bipolar,"A disorder of the brain that causes unusual shifts in mood, energy, activity levels and the ability to carry out day-to-day tasks. Often these moods range and shift from periods of elation and energized behavior to those of hopelessness and depression.",EXPSYCH,"4. NL - Has the participant had major depression or bipolar disorder as described in DSM-IV within the past year or a history of schizophrenia (DSM IV criteria)?<br>MCI/AD - Does the participant have a history of major depression...or a history of psychotic features, agitation, or behavioral problems within the last 3 months which could lead to difficulty complying with the protocol?",1
+Geriatric Depression Scale (GDS),Geriatric Depression Scale Short Form total score.,GDTOTAL,Total Score,1
+Left Sulcus Subparietal Thickness From Qdec,,ST38SA,Surface Area (aparc.stats) of LeftLingual,0
+Left Sulcus Cingul-Marginalis Volume From Qdec,,lh_S_cingul-Marginalis_volume,Left_sulcus_cingul-Marginalis_volume_from_Qdec_lh.aparc.a2009s.volume_file,1
+Left Isthmuscingulate Volume From Qdec aparc,,Diagnosis,,0
+Right Sulcus Central Volume From Qdec,,rh_S_central_volume,,1
+Right Lingual Area,,rh_lingual_area,,1
+Left Sulcus Circular Insula Anterior Volume From Qdec,,lh_G_temp_sup-Plan_tempo_meancurv,,0
+White-matter-Right-insula-from Qdec Wmparc,White-matter-Right-insula-from_Qdec_wmparc.volume.stats_file,(G_and_S_cingul-Mid-Ant)MeanCurv,,0
+Right Gyrus Precentral Thickness From Qdec,,rh_G_precentral_thickness,,1
+Left Sulcus Parieto Occipital Volume From Qdec,,lh_S_parieto_occipital_volume,,1
+Right Gyrus Rectus Volume From Qdec,,rh_G_rectus_volume,,1
+Left Fusiform Gray Matter Volume,,lh_(fusiform)GrayVol,,1
+Left Inferior Lateral Ventricle Volume,,PETCRBDX,PET-hypoperfusion:-cerebral_right,0
+Alcohol Abuse,"The use of alcoholic beverages to excess, either on individual occasions (\binge drinking\) or as a regular practice.",lh_caudalmiddlefrontal_thickness,Left_caudalmiddlefrontal_thickness_from_Qdec_lh.aparc.thickness.stats_file-FreeSurfer(v5.3),0
+Left Gyrus Temp Sup-Plan Tempo Area From Qdec,,rh_rostralanteriorcingulate_thickness,Right_rostralanteriorcingulate_thickness_from_Qdec_rh.aparc.thickness.stats_file-FreeSurfer(v5.3),0
+Right Gyrus Insular Short Area From Qdec,,wm-lh-postcentral,White-matter-left-postcentral-from_Qdec_wmparc.volume.stats_file-FreeSurfer(v5.3),0
+Neurofilament Light Protein (NfL) in CSF,"Quantification of the levels of neurofilament light chain, typically in blood or cerebrospinal fluid. Used as a marker of neurodegeneration, in Alzheimer's disease, Amyotrophic Lateral Sclerosis, multiple sclerosis and Huntington's disease.",rh_S_temporal_inf_meancurv,,0
+Left Gyrus Subcallosal Meancurv From Qdec,,No total score.,,0
+White-matter-Right-paracentral-from Qdec Wmparc,,wm-rh-paracentral,White-matter-Right-paracentral-from_Qdec_wmparc.volume.stats_file-FreeSurfer(v5.3),1
+Left Precuneus Meancurv From Qdec,,lh_(precuneus)MeanCurv,,1
+Handedness,The preferred hand of use for controlled and efficient performance of motor tasks.,lh_caudalanteriorcingulate_volume,Left_caudalanteriorcingulate_volume_from_Qdec_lh.aparc.volume.stats_file,0
+Right MeanThickness Thickness From Qdec,,rh_S_calcarine_volume,,0
+Right Gyrus And Sulcus Frontomargin Thickness From Qdec,,ST70SV,Subcortical Volume (aseg.stats) of RightAccumbensArea,0
+Right Precentral Meancurv From Qdec,,rh_precentral_meancurv,Right_precentral_meancurv_from_Qdec_rh.aparc.meancurv_file-FreeSurfer(v5.3),1
+Left Sulcus Pericallosal Thickness From Qdec,,lh_S_pericallosal_thickness,Left_sulcus_pericallosal_thickness_from_Qdec_lh.aparc.a2009s.thickness_file,1
+Parkinson’s Disease,"A progressive degenerative disorder of the central nervous system characterized by loss of dopamine producing neurons in the substantia nigra and the presence of Lewy bodies in the substantia nigra and locus coeruleus. Signs and symptoms include tremor which is most pronounced during rest, muscle rigidity, slowing of the voluntary movements, a tendency to fall back, and a mask-like facial expression.",DXPARK,Parkinsonism,1
+Left Gyrus Temp Sup-Lateral Volume From Qdec,,ST103TA,Thickness Average (aparc.stats) of RightParahippocampal,0
+Amount of Smoking,,PACKSPER,,1
+Right Gyrus Temp Sup-Plan Polar Area From Qdec,,rh_G_temp_sup-Plan_polar_area,,1
+Right Fimbria Volume,Right_fimbria,rh_S_temporal_inf_thickness,Right_sulcus_temporal_inferior_thickness_from_Qdec_rh.aparc.a2009s.thickness_file,0
+Right Inferior Parietal Gray Matter Volume,,RightInferiorparietal,Volume of right inferior parietal,1
+Right Frontalpole Meancurv From Qdec,,rh_G_and_S_paracentral_thickness,Right_gyrus_and_sulcus_paracentral_thickness_from_Qdec_rh.aparc.a2009s.thickness_file-FreeSurfer(v5.3),0
+Right White Matter Hypointensities Volume,,CDR_total_score,Clinical Dementia Rating (CDR) total score,0
+Right Lateral Occipital Gray Matter Volume,,lh_S_circular_insula_sup_meancurv,Left_sulcus_circular_insula_sup_meancurv_from_Qdec_lh.aparc.a2009s.meancurv_file,0
+Left Gyrus Precuneus Thickness From Qdec,,rh_S_oc-temp_med_and_Lingual_area,,0
+Left Transverse Temporal Mean Cortical Thickness,,rh_G_temporal_inf_area,Right_gyrus_temporal_inferior_area_from_Qdec_rh.aparc.a2009s.area.stats_file,0
+Left Pars Triangularis Mean Cortical Thickness,,(S_calcarine)SurfArea,,0
+Right Sulcus Central Meancurv From Qdec,,lh_(middletemporal)SurfArea,,0
+Right Sulcus Oc Sup And Transversal Area From Qdec,,rh_S_oc_sup_and_transversal_area,Right_sulcus_oc_sup_and_transversal_area_from_Qdec_rh.aparc.a2009s.area.stats_file-FreeSurfer(v5.3),1
+Right Lat Fis-ant-Horizont Volume From Qdec,,rh_Lat_Fis-ant-Horizont_volume,Right_Lat_Fis-ant-Horizont_volume_from_Qdec_rh.aparc.a2009s.volume_file,1
+Left Gyrus And Sulcus Frontomargin Thickness From Qdec,,rh_postcentral_area,Right_postcentral_area_from_Qdec_rh.aparc.area_file-FreeSurfer(v5.3),0
+Left Sulcus Collat Transv Anterior Meancurv From Qdec,,lh_S_collat_transv_ant_meancurv,Left_sulcus_collat_transv_anterior_meancurv_from_Qdec_lh.aparc.a2009s.meancurv_file,1
+Right Gyrus Occipital Middle Thickness From Qdec,,lh_parsopercularis_area,,0
+Right Presubiculum Volume,Right_presubiculum,right_presubiculum,Right_presubiculum,1
+Left Gyrus And Sulcus Cingul-Mid-Ant Volume From Qdec,,rh_S_pericallosal_meancurv,,0
+Sibling AD,,sibling_dx_ad_dementia,Sibling(s) affected with AD-like dementia?,1
+Right Paracentral Meancurv From Qdec,,lh_S_circular_insula_inf_volume,Left_sulcus_circular_insula_inferior_volume_from_Qdec_lh.aparc.a2009s.volume_file-FreeSurfer(v5.3),0
+Depression,A melancholy feeling of sadness and despair.,lh_isthmuscingulate_area,Left_isthmuscingulate_area_from_Qdec_lh.aparc.area_file-FreeSurfer(v5.3),0
+Left Gyrus And Sulcus Occipital Inferior Thickness From Qdec,,lh_G_and_S_occipital_inf_thickness,,1
+CC Mid Anterior From Qdec Aseg,,CC_Mid_Anterior,,1
+Right Gyrus Temporal Inferior Thickness From Qdec,,rh_G_temporal_inf_thickness,Right_gyrus_temporal_inferior_thickness_from_Qdec_rh.aparc.a2009s.thickness_file-FreeSurfer(v5.3),1
+PET-hypoperfusion: temporal left,,PET-ROI-temporal_left,,1
+Left-non-white Matter Hypointensities Volume,Left-non-white matter hypointensities,lh_G_and_S_paracentral_thickness,Left_gyrus_and_sulcus_paracentral_thickness_from_Qdec_lh.aparc.a2009s.thickness_file-FreeSurfer(v5.3),0
+White-matter-Right-cuneus-from Qdec Wmparc,,wm-rh-cuneus,White-matter-Right-cuneus-from_Qdec_wmparc.volume.stats_file,1
+Left Rostralanteriorcingulate Meancurv From Qdec,,lh_G_and_S_frontomargin_meancurv,Left_gyrus_and_sulcus_frontomargin_meancurv_from_Qdec_lh.aparc.a2009s.meancurv_file-FreeSurfer(v5.3),0
+Left Gyrus Pariet Inf-Angular Meancurv From Qdec,,lh_G_pariet_inf-Angular_meancurv,Left_gyrus_pariet_inf-Angular_meancurv_from_Qdec_lh.aparc.a2009s.meancurv_file,1
+Left Lingual Mean Cortical Thickness,,lh_lingual_thickness,,1
+Right Gyrus And Sulcus Paracentral Volume From Qdec,,rh_G_and_S_paracentral_volume,,1
+Left Lingual Area,,lh_(lingual)SurfArea,,1
+Left Gyrus And Sulcus Cingul-Mid-Ant Meancurv From Qdec,,lh_G_and_S_cingul-Mid-Ant_meancurv,,1
+Right Gyrus Precentral Meancurv From Qdec,,DCURDET,"If employed or working for pay, what are your current job title and main duties?",0
+Right Transverse Temporal Area,,lh_G_front_middle_thickness,Left_gyrus_frontal_middle_thickness_from_Qdec_lh.aparc.a2009s.thickness_file-FreeSurfer(v5.3),0
+Right Gyrus Temp Sup-Lateral Area From Qdec,,rh_G_temp_sup-Lateral_area,Right_gyrus_temp_sup-Lateral_area_from_Qdec_rh.aparc.a2009s.area.stats_file-FreeSurfer(v5.3),1
+Left Gyrus Occipital Middle Area From Qdec,,(G_occipital_middle)SurfArea,,1
+Left Posterior Cingulate Gray Matter Volume,,lh_posteriorcingulate_volume,Left_posteriorcingulate_volume_from_Qdec_lh.aparc.volume.stats_file-FreeSurfer(v5.3),1
+Head Injury ,"Damage inflicted on the head as the direct or indirect result of an external force, with or without disruption of structural continuity.",headinjrloc_bl,,1
+Left Parahippocampal Gray Matter Volume,,lh_G_Ins_lg_and_S_cent_ins_volume,Left_gyrus_Ins_lg_and_sulcus_cent_ins_volume_from_Qdec_lh.aparc.a2009s.volume_file-FreeSurfer(v5.3),0
+Left Gyrus And Sulcus Occipital Inferior Meancurv From Qdec,,lh_G_and_S_occipital_inf_meancurv,Left_gyrus_and_sulcus_occipital_inferior_meancurv_from_Qdec_lh.aparc.a2009s.meancurv_file-FreeSurfer(v5.3),1
+Right Sulcus Orbital Lateral Area From Qdec,,rh_S_oc-temp_med_and_Lingual_volume,Right_sulcus_oc-temp_med_and_Lingual_volume_from_Qdec_rh.aparc.a2009s.volume_file-FreeSurfer(v5.3),0
+Left Caudal Anterior Cingulate Mean Cortical Thickness,,rh_G_pariet_inf-Supramar_area,,0
+Right Sulcus Calcarine Meancurv From Qdec,,(G_cingul-Post-ventral)GrayVol,,0
+Biological Sex,The assemblage of physical properties or qualities by which male is distinguished from female; the physical difference between male and female; the distinguishing peculiarity of male or female.,PTGENDER,1. Participant Gender,1
+A-beta 1-42 in CSF,The determination of the amount of the 1-42 amino acid beta amyloid protein isoform present in a sample.,CSF.Ab42_INNX_MELB,Ab1-42 CSF measurement using INNOTEST kit. Melbourne QXL.,1
+Left Accumbens Area Volume,,Left-Accumbens-area,Left-Accumbens-area_from_Qdec_aseg.volume.stats_file,1
+Granulocyte Colony Stimulating Factor (G-GCSF) in CSF,"Granulocyte colony-stimulating factor (207 aa, ~22 kDa) is encoded by the human CSF3 gene. This protein is involved in the regulation of the production, differentiation, and function of granulocytes.",G_CSF,Granulocyte Colony Stimulating Factor (G-CSF) concentration in CSF,1
+Right Gyrus Oc-temp Lat-fusifor Thickness From Qdec,,ST105CV,Cortical Volume (aparc.stats) of RightParsOrbitalis,0
+Right Lat Fis-ant-Vertical Thickness From Qdec,,rh_Lat_Fis-ant-Vertical_thickness,,1
+Left Gyrus Pariet Inf-Supramar Volume From Qdec,,lh_S_calcarine_thickness,Left_sulcus_calcarine_thickness_from_Qdec_lh.aparc.a2009s.thickness_file-FreeSurfer(v5.3),0
+Left Sulcus Frontal Inferior Thickness From Qdec,,lh_S_front_inf_thickness,Left_sulcus_frontal_inferior_thickness_from_Qdec_lh.aparc.a2009s.thickness_file,1
+Right Gyrus Oc-temp Med-Lingual Thickness From Qdec,,rh_G_oc-temp_med-Lingual_thickness,,1
+Trail Making Test (TMT) B,Huntington's Disease Cognitive Assessment Battery (HD-CAB) Trail Making Test-B key variable for composite score: Time to completion (sec) of TMT Part B with upper time limit of 240 seconds (reverse scored).,(S_front_inf)GrayVol,,0
+Right Gyrus And Sulcus Cingul-Mid-Post Meancurv From Qdec,,ST42SV,Subcortical Volume (aseg.stats) of LeftPallidum,0
+White-matter-Right-precentral-from Qdec Wmparc,White-matter-Right-precentral-from_Qdec_wmparc.volume.stats_file,lllatogv,,0
+Left Rostral Middle Frontal Area,,BIRTHMO,,0
+Right Gyrus And Sulcus Cingul-Ant Area From Qdec,,rh_G_and_S_occipital_inf_area,Right_gyrus_and_sulcus_occipital_inferior_area_from_Qdec_rh.aparc.a2009s.area.stats_file,0
+Right Gyrus Temp Sup-Lateral Meancurv From Qdec,,rh_G_temp_sup-Lateral_meancurv,,1
+Left Gyrus Temp Sup-Lateral Volume From Qdec,,lh_G_temporal_inf_thickness,Left_gyrus_temporal_inferior_thickness_from_Qdec_lh.aparc.a2009s.thickness_file,0
+Left Lat Fis-ant-Horizont Area From Qdec,,lh_Lat_Fis-ant-Horizont_area,,1
+Left Rostralmiddlefrontal Meancurv From Qdec,,lh_(rostralmiddlefrontal)MeanCurv,,1
+Handedness,The preferred hand of use for controlled and efficient performance of motor tasks.,HANDED,,1
+Left Pars Opercularis Mean Cortical Thickness,,lh_parsopercularis_thickness,,1
+Right Isthmus Cingulate Mean Cortical Thickness,,RISTHCM,,1
+Left Caudal Middle Frontal Area,,LPRECENM,,0
+Left Gyrus Cuneus Area From Qdec,,(G_cuneus)SurfArea,,1
+Right Transverse Temporal Mean Cortical Thickness,,rh_transversetemporal_thickness,Right_transversetemporal_thickness_from_Qdec_rh.aparc.thickness.stats_file-FreeSurfer(v5.3),1
+Left Gyrus Oc-temp Lat-fusifor Volume From Qdec,,rh_G_and_S_cingul-Mid-Ant_meancurv,,0
+Left Temporal Pole Area,,lh_temporalpole_area,,1
+Right Gyrus Occipital Middle Area From Qdec,,ST31TA,Thickness Average (aparc.stats) of LeftInferiorParietal,0
+Left Choroid Plexus Volume,,Left-choroid-plexus,Left-choroid-plexus_from_Qdec_aseg.volume.stats_file,1
+White-matter-Right-medialorbitofrontal-from Qdec Wmparc,,AIBL Id,Participant ID.,0
+Left Sulcus Subparietal Thickness From Qdec,,rh_S_occipital_ant_area,Right_sulcus_occipital_anterior_area_from_Qdec_rh.aparc.a2009s.area.stats_file-FreeSurfer(v5.3),0
+Left Gyrus Frontal Inf-Orbital Volume From Qdec,,lh_G_front_inf-Orbital_volume,Left_gyrus_frontal_inf-Orbital_volume_from_Qdec_lh.aparc.a2009s.volume_file-FreeSurfer(v5.3),1
+Left Inferior Parietal Gray Matter Volume,,Right-Accumbens-area,,0
+Left-vessel From Qdec,,LeftEntorhinal,Volume of left entorhinal,0
+Digit Span Test (Backward),A subtest of the Wechsler Adult Intelligence Scale - Fourth Edition. The subject is read a sequence of numbers and recalls the numbers in reverse order.,lh_G_and_S_cingul-Mid-Ant_area,,0
+Right Sulcus Orbital Lateral Volume From Qdec,,(S_orbital_lateral)GrayVol,,1
+Right Pars Opercularis Gray Matter Volume,,(G_cingul-Post-dorsal)GrayVol,,0
+Marital Status,A demographic parameter indicating a person's current conjugal status.,rh_S_front_inf_meancurv,Right_sulcus_frontal_inferior_meancurv_from_Qdec_rh.aparc.a2009s.meancurv_file-FreeSurfer(v5.3),0
+Right Subiculum Volume,Right_subiculum,"Demographic.E3 allele, Demographic.E2 allele, Demographic.E4 allele",,0
+Right Lat Fis-ant-Horizont Area From Qdec,,rh_Lat_Fis-ant-Horizont_area,Right_Lat_Fis-ant-Horizont_area_from_Qdec_rh.aparc.a2009s.area.stats_file-FreeSurfer(v5.3),1
+Sibling Dementia,,Dementia_Sib1,,1
+Biological Sex,The assemblage of physical properties or qualities by which male is distinguished from female; the physical difference between male and female; the distinguishing peculiarity of male or female.,Gender,Gender,1
+APOE Allele 1,"Human APOE*4 allele is located in the vicinity of 19q13.2 and is approximately 4 kb in length. This allele, which encodes apolipoprotein E4, plays a role in triglyceride metabolism. The allele is associated with increased occurrence of both Alzheimer disease and coronary artery disease.",lh_G_and_S_frontomargin_meancurv,Left_gyrus_and_sulcus_frontomargin_meancurv_from_Qdec_lh.aparc.a2009s.meancurv_file,0
+Right Gyrus Occipital Sup Area From Qdec,,rh_G_occipital_sup_area,Right_gyrus_occipital_sup_area_from_Qdec_rh.aparc.a2009s.area.stats_file,1
+Right Gyrus Postcentral Meancurv From Qdec,,rh_G_postcentral_meancurv,Right_gyrus_postcentral_meancurv_from_Qdec_rh.aparc.a2009s.meancurv_file,1
+Left Sulcus Cingul-Marginalis Area From Qdec,,rh_G_orbital_thickness,,0
+Left Medialorbitofrontal Area,,lh_medialorbitofrontal_area,Left_medialorbitofrontal_area_from_Qdec_lh.aparc.area_file-FreeSurfer(v5.3),1
+Left Sulcus Temporal Inferior Thickness From Qdec,,lh_S_temporal_inf_thickness,,1
+Left Gyrus Precuneus Meancurv From Qdec,,lh_G_precuneus_meancurv,Left_gyrus_precuneus_meancurv_from_Qdec_lh.aparc.a2009s.meancurv_file,1
+Left Sulcus And Gyrus Paracentral Area,,(G_and_S_paracentral)SurfArea,,1
+Left Putamen Volume,,lh_G_and_S_cingul-Mid-Post_area,Left_gyrus_and_sulcus_cingul-Mid-Post_area_from_Qdec_lh.aparc.a2009s.area.stats_file,0
+Right Gyrus Oc-temp Lat-fusifor Thickness From Qdec,,BCSTROKE,10. Did subject have a stroke?,0
+Left Fimbria Volume,Left_fimbria,left_fimbria,Left_fimbria-FreeSurfer(v6Beta),1
+Hearing,"The auditory faculty, the perception of sound by the ear.",lh_G_and_S_paracentral_volume,,0
+Non-White-matter-hypointensities,,ANARTERR,ANART Total Score (Total # of errors),0
+Right Caudalmiddlefrontal Meancurv From Qdec,,rh_caudalmiddlefrontal_meancurv,Right_caudalmiddlefrontal_meancurv_from_Qdec_rh.aparc.meancurv_file,1
+Right Sulcus Suborbital Thickness From Qdec,,rh_parstriangularis_meancurv,,0
+Right Sulcus Frontal Sup Volume From Qdec,,(S_front_sup)GrayVol,,1
+Left Sulcus Oc-temp Med And Lingual Area From Qdec,,lh_S_oc-temp_med_and_Lingual_area,Left_sulcus_oc-temp_med_and_Lingual_area_from_Qdec_lh.aparc.a2009s.area.stats_file,1
+Left Gyrus Ins Lg And Sulcus Cent Ins Area From Qdec,,lh_G_oc-temp_lat-fusifor_volume,Left_gyrus_oc-temp_lat-fusifor_volume_from_Qdec_lh.aparc.a2009s.volume_file,0
+White-matter-Right-superiorparietal-from Qdec Wmparc,White-matter-Right-superiorparietal-from_Qdec_wmparc.volume.stats_file,wm-rh-superiorparietal,,1
+Right Gyrus And Sulcus Occipital Inferior Volume From Qdec,,(G_and_S_occipital_inf)GrayVol,,1
+Left Sulcus Subparietal Area From Qdec,,lh_S_subparietal_area,Left_sulcus_subparietal_area_from_Qdec_lh.aparc.a2009s.area.stats_file,1
+Left Insula Meancurv From Qdec,,RightCerebellarGrayMatter,Volume of left cerebellar gray matter,0
+Left Gyrus Ins Lg And Sulcus Cent Ins Area From Qdec,,SupraTentorialVolNotVentVox,SupraTentorialVolNotVentVox_from_Qdec_aseg.volume.stats_file,0
+Left Superior Frontal Gray Matter Volume,,(G_Ins_lg_and_S_cent_ins)SurfArea,,0
+Left Sulcus Central Area From Qdec,,lh_S_central_area,,1
+Right Sulcus Frontal Sup Volume From Qdec,,VSHEIGHT,2a. Height,0
+Left Gyrus And Sulcus Frontomargin Volume From Qdec,,lh_G_and_S_frontomargin_volume,Left_gyrus_and_sulcus_frontomargin_volume_from_Qdec_lh.aparc.a2009s.volume_file-FreeSurfer(v5.3),1
+Left Lateral Ventricle Volume,,LLATVENT,,1
+Left Lat Fis-ant-Vertical Area From Qdec,,lh_Lat_Fis-ant-Vertical_area,Left_Lat_Fis-ant-Vertical_area_from_Qdec_lh.aparc.a2009s.area.stats_file-FreeSurfer(v5.3),1
+Cancer,"A tumor composed of atypical neoplastic, often pleomorphic cells that invade other tissues. Malignant neoplasms often metastasize to distant anatomic sites and may recur after excision. The most common malignant neoplasms are carcinomas (adenocarcinomas or squamous cell carcinomas), Hodgkin and non-Hodgkin lymphomas, leukemias, melanomas, and sarcomas.",Medical History.Cancer,Cancer,1
+Right Isthmus Cingulate Mean Cortical Thickness,,lh_parahippocampal_volume,Left_parahippocampal_volume_from_Qdec_lh.aparc.volume.stats_file-FreeSurfer(v5.3),0
+Right Gyrus Cingul-Post-dorsal Thickness From Qdec,,rh_G_cingul-Post-dorsal_thickness,Right_gyrus_cingul-Post-dorsal_thickness_from_Qdec_rh.aparc.a2009s.thickness_file,1
+Right Sulcus Precentral-sup-part Meancurv From Qdec,,rh_S_precentral-sup-part_meancurv,,1
+Left Hippocampal Tail Volume,Left_Hippocampal_tail,left_Hippocampal_tail,,1
+BrainSegVol From Qdec Aseg,,RightFusiform,Volume of right fusiform,0
+Right Sulcus Temporal Inferior Thickness From Qdec,,(S_temporal_inf)ThickAvg,,1
+Father AD,,Medical History.Father Reportedly AD,Father Reportedly AD,1
+Right Gyrus Frontal Inf-Triangul Meancurv From Qdec,,(G_Ins_lg_and_S_cent_ins)ThickAvg,,0
+Left Lat Fis-post Thickness From Qdec,,lh_Lat_Fis-post_thickness,Left_Lat_Fis-post_thickness_from_Qdec_lh.aparc.a2009s.thickness_file,1
+Left Gyrus Precuneus Area From Qdec,,Left-Cerebellum-Cortex,Left-Cerebellum-Cortex_from_Qdec_aseg.volume.stats_file,0
+PET-hypoperfusion: occipital right,,rh_caudalmiddlefrontal_volume,Right_caudalmiddlefrontal_volume_from_Qdec_rh.aparc.volume.stats_file,0
+Left Transverse Temporal Mean Cortical Thickness,,lh_(transversetemporal)ThickAvg,,1
+Right Sulcus Temporal Inferior Volume From Qdec,,lh_inferiorparietal_thickness,Left_inferiorparietal_thickness_from_Qdec_lh.aparc.thickness.stats_file-FreeSurfer(v5.3),0
+Right Gyrus Postcentral Area From Qdec,,rh_G_postcentral_area,Right_gyrus_postcentral_area_from_Qdec_rh.aparc.a2009s.area.stats_file-FreeSurfer(v5.3),1
+Left Sulcus Intrapariet And P Trans Thickness From Qdec,,lh_S_intrapariet_and_P_trans_thickness,,1
+White-matter-left-postcentral-from Qdec Wmparc,,wm-lh-postcentral,White-matter-left-postcentral-from_Qdec_wmparc.volume.stats_file-FreeSurfer(v5.3),1
+Right Lateraloccipital Area,,left_molecular_layer_HP,Left_molecular_layer_HP,0
+Left Pericalcarine Mean Cortical Thickness,,Right_Caudate,,0
+Right Sulcus Calcarine Meancurv From Qdec,,(S_calcarine)MeanCurv,,1
+Left Sulcus Calcarine Volume,,(S_calcarine)GrayVol,,1
+APOE Allele 2,"Human APOE*4 allele is located in the vicinity of 19q13.2 and is approximately 4 kb in length. This allele, which encodes apolipoprotein E4, plays a role in triglyceride metabolism. The allele is associated with increased occurrence of both Alzheimer disease and coronary artery disease.",APOE,,1
+Left Temporal Pole Gray Matter Volume,,lh_(temporalpole)GrayVol,,1
+Left Cerebellum White Matter Volume,,LeftCerebellarWhiteMatter,Volume of left cerebellar white matter,1
+Right Caudal Anterior Cingulate Area,,rh_caudalanteriorcingulate_area,,1
+Left Sulcus Intrapariet And P Trans Thickness From Qdec,,lh_S_intrapariet_and_P_trans_thickness,Left_sulcus_intrapariet_and_P_trans_thickness_from_Qdec_lh.aparc.a2009s.thickness_file,1
+Left Superiorparietal Area,,wm-lh-caudalmiddlefrontal,,0
+Cortical White Matter Volume,,Image.MR.CorticalWM.Vol.ICVCorr,Volume White Matter (ml),1
+Right Postcentral Mean Cortical Thickness,,ST108TA,Thickness Average (aparc.stats) of RightPostcentral,1
+Left Gyrus Ins Lg And Sulcus Cent Ins Volume From Qdec,,lh_(medialorbitofrontal)GrayVol,,0
+Right Sulcus Pericallosal Area From Qdec,,rh_(entorhinal)GrayVol,,0
+Right Superior Parietal Gray Matter Volume,,ST34TA,Thickness Average (aparc.stats) of LeftIsthmusCingulate,0
+Left Gyrus Parietal Sup Meancurv From Qdec,,lh_(superiortemporal)SurfArea,,0
+Left Superiorparietal Meancurv From Qdec,,rh_temporalpole_volume,,0
+White-matter-left-rostralanteriorcingulate-from Qdec Wmparc,,lh_G_occipital_sup_meancurv,Left_gyrus_occipital_sup_meancurv_from_Qdec_lh.aparc.a2009s.meancurv_file,0
+Right Gyrus Temp Sup-Plan Tempo Meancurv From Qdec,,rh_S_cingul-Marginalis_area,,0
+Weight,The vertical force exerted by a mass as a result of gravity.,Weight,Weight,1
+Left Gyrus Occipital Sup Thickness From Qdec,,lh_G_occipital_sup_thickness,,1
+Left Gyrus Rectus Volume From Qdec,,lh_G_rectus_thickness,,0
+Left Sulcus Temporal Transverse Area From Qdec,,lh_S_temporal_transverse_area,Left_sulcus_temporal_transverse_area_from_Qdec_lh.aparc.a2009s.area.stats_file,1
+Left Postcentral Meancurv From Qdec,,lh_postcentral_meancurv,Left_postcentral_meancurv_from_Qdec_lh.aparc.meancurv_file,1
+Left Hippocampus Volume,,lhvl,,1
+Left Precuneus Mean Cortical Thickness,,(Pole_temporal)SurfArea,,0
+Right Entorightinal Area,,rh_entorhinal_area,Right_entorightinal_area_from_Qdec_rh.aparc.area_file,1
+Right Gyrus And Sulcus Cingul-Mid-Ant Thickness From Qdec,,lh_lingual_meancurv,Left_lingual_meancurv_from_Qdec_lh.aparc.meancurv_file-FreeSurfer(v5.3),0
+Left Rostral Middle Frontal Area,,rh_pericalcarine_area,Right_pericalcarine_area_from_Qdec_rh.aparc.area_file,0
+Left Gyrus Cingul-Post-ventral Thickness From Qdec,,lh_G_cingul-Post-ventral_thickness,,1
+Right Sulcus Collat Transv Posterior Meancurv From Qdec,,rh_S_collat_transv_post_meancurv,,1
+Left Gyrus And Sulcus Cingul-Mid-Ant Thickness From Qdec,,wm-lh-lingual,White-matter-left-lingual-from_Qdec_wmparc.volume.stats_file,0
+Left Inferiorparietal Mean Cortical Thickness,,(G_and_S_paracentral)SurfArea,,0
+Right Sulcus Frontal Sup Meancurv From Qdec,,rh_S_front_sup_meancurv,Right_sulcus_frontal_sup_meancurv_from_Qdec_rh.aparc.a2009s.meancurv_file,1
+Participant ID,An alphanumeric identifier assigned to a specific patient.,patient_id,,1
+Drug Abuse,The use of a drug for a reason other than which it was intended or in a manner or in quantities other than directed.,MH15DRUG,,1
+Right Parstriangularis Area,,wm-lh-middletemporal,,0
+Right Precentral Mean Cortical Thickness,,rh_precentral_thickness,Right_precentral_thickness_from_Qdec_rh.aparc.thickness.stats_file,1
+Right Caudal Anterior Cingulate Mean Cortical Thickness,,lh_(entorhinal)GrayVol,,0
+Left Lat Fis-post Meancurv From Qdec,,wm-lh-precentral,White-matter-left-precentral-from_Qdec_wmparc.volume.stats_file-FreeSurfer(v5.3),0
+Left Sulcus Collat Transv Posterior Area From Qdec,,lh_S_collat_transv_post_area,,1
+Left Gyrus Temp Sup-Plan Polar Thickness From Qdec,,lh_G_temp_sup-Plan_polar_thickness,Left_gyrus_temp_sup-Plan_polar_thickness_from_Qdec_lh.aparc.a2009s.thickness_file-FreeSurfer(v5.3),1
+Right Gyrus Temp Sup-Plan Tempo Area From Qdec,,rh_G_temp_sup-Plan_tempo_area,Right_gyrus_temp_sup-Plan_tempo_area_from_Qdec_rh.aparc.a2009s.area.stats_file-FreeSurfer(v5.3),1
+Left Pars Triangularis Area,,lh_parstriangularis_area,Left_parstriangularis_area_from_Qdec_lh.aparc.area_file-FreeSurfer(v5.3),1
+Left Sulcus Cingul-Marginalis Volume From Qdec,,(G_temp_sup-Lateral)ThickAvg,,0
+Visit,The act of going to see some person or place or thing; it can cover a short or long period but refers to a non-permanent arrangement.,rh_G_and_S_cingul-Ant_meancurv,,0
+Right Sulcus Frontal Sup Volume From Qdec,,lh_parsorbitalis_meancurv,Left_parsorbitalis_meancurv_from_Qdec_lh.aparc.meancurv_file,0
+Left Parsorbitalis Meancurv From Qdec,,lh_(parsorbitalis)MeanCurv,,1
+Right Supramarginal Meancurv From Qdec,,rh_supramarginal_meancurv,Right_supramarginal_meancurv_from_Qdec_rh.aparc.meancurv_file-FreeSurfer(v5.3),1
+Left Gyrus Frontal Inf-Triangul Volume From Qdec,,(G_front_inf-Triangul)GrayVol,,1
+Right Superior Temporal Area,,lh_S_oc-temp_med_and_Lingual_thickness,Left_sulcus_oc-temp_med_and_Lingual_thickness_from_Qdec_lh.aparc.a2009s.thickness_file,0
+Father AD,,Father_Has_Alzheimer's_Disease,,1
+Right Sulcus Circular Insula Inferior Volume From Qdec,,(S_precentral-inf-part)SurfArea,,0
+Left Sulcus Circular Insula Inferior Volume From Qdec,,rh_S_occipital_ant_thickness,Right_sulcus_occipital_anterior_thickness_from_Qdec_rh.aparc.a2009s.thickness_file-FreeSurfer(v5.3),0
+Right Sulcus Calcarine Volume,,rh_S_calcarine_volume,,1
+Right Sulcus Oc-temp Lat Area From Qdec,,rh_S_oc-temp_lat_area,Right_sulcus_oc-temp_lat_area_from_Qdec_rh.aparc.a2009s.area.stats_file,1
+White-matter-Right-caudalanteriorcingulate-from Qdec Wmparc,,wm-rh-caudalanteriorcingulate,White-matter-Right-caudalanteriorcingulate-from_Qdec_wmparc.volume.stats_file-FreeSurfer(v5.3),1
+Left Pole Temporal Volume From Qdec,,rh_inferiorparietal_thickness,,0
+Left Sulcus Oc Middle And Lunatus Area From Qdec,,(S_oc_middle_and_Lunatus)SurfArea,,1
+Left Inferior Parietal Area,,CDSOB,Sum of Boxes (system populated),0
+Neurofilament Light Protein (NfL) in CSF,"Quantification of the levels of neurofilament light chain, typically in blood or cerebrospinal fluid. Used as a marker of neurodegeneration, in Alzheimer's disease, Amyotrophic Lateral Sclerosis, multiple sclerosis and Huntington's disease.",Central_CSF_NFL,Neurofilament light values of central CSF analyses,1
+Left Inferiorparietal Volume From Qdec aparc,,lh_inferiorparietal_volume,,1
+Left Sulcus Orbital Lateral Area From Qdec,,(S_orbital_lateral)SurfArea,,1
+Left Lat Fis-ant-Horizont Area From Qdec,,BIRTHYR,Subject's year of birth:,0
+CC Mid Posterior From Qdec Aseg,,CC_Mid_Posterior,,1
+Right Pericalcarine Meancurv From Qdec,,Left-choroid-plexus,,0
+Right Rostralmiddlefrontal Area,,(G_orbital)GrayVol,,0
+Right Gyrus And Sulcus Cingul-Ant Thickness From Qdec,,lh_G_temp_sup-G_T_transv_meancurv,,0
+Left Medial Orbitofrontal Mean Cortical Thickness,,LMEDORBM,,1
+Left Sulcus Collat Transv Anterior Meancurv From Qdec,,lh_S_collat_transv_ant_meancurv,Left_sulcus_collat_transv_anterior_meancurv_from_Qdec_lh.aparc.a2009s.meancurv_file-FreeSurfer(v5.3),1
+Left Sulcus Precentral-inf-part Meancurv From Qdec,,lh_S_precentral-inf-part_meancurv,,1
+Right Gyrus Frontal Inf-Triangul Area From Qdec,,lh_G_and_S_subcentral_area,Left_gyrus_and_sulcus_subcentral_area_from_Qdec_lh.aparc.a2009s.area.stats_file-FreeSurfer(v5.3),0
+Right Hippocampus Volume,,lh_middletemporal_meancurv,Left_middletemporal_meancurv_from_Qdec_lh.aparc.meancurv_file,0
+Biological Sex,The assemblage of physical properties or qualities by which male is distinguished from female; the physical difference between male and female; the distinguishing peculiarity of male or female.,sex,,1
+Right Fusiform Volume From Qdec aparc,,lrfusigv,,1
+Left Sulcus Frontal Middle Area From Qdec,,(S_front_middle)SurfArea,,1
+Right Hippocampal-fissure Volume,Right_hippocampal-fissure,right_hippocampal-fissure,Right_hippocampal-fissure-FreeSurfer(v6Beta),1
+Right Sulcus Central Thickness From Qdec,,(S_central)ThickAvg,,1
+Left Gyrus And Sulcus Occipital Inferior Meancurv From Qdec,,lh_lateraloccipital_thickness,Left_lateraloccipital_thickness_from_Qdec_lh.aparc.thickness.stats_file,0
+Right Pole Temporal Volume From Qdec,,(Pole_temporal)GrayVol,,1
+Left Sulcus Postcentral Volume From Qdec,,lh_S_postcentral_volume,,1
+Right Pars Orbitalis Gray Matter Volume,,ST96SV,Subcortical Volume (aseg.stats) of RightLateralVentricle,0
+Left Supramarginal Gray Matter Volume,,lh_supramarginal_volume,Left_supramarginal_volume_from_Qdec_lh.aparc.volume.stats_file-FreeSurfer(v5.3),1
+Left Sulcus Suborbital Volume From Qdec,,LMIDTEMP,,0
+White-matter-left-insula-from Qdec Wmparc,,rh_pericalcarine_area,,0
+Right Sulcus Temporal Sup Thickness From Qdec,,rh_S_temporal_sup_thickness,Right_sulcus_temporal_sup_thickness_from_Qdec_rh.aparc.a2009s.thickness_file,1
+Right Gyrus Frontal Inf-Opercular Thickness From Qdec,,rh_G_front_inf-Opercular_thickness,,1
+Right Gyrus And Sulcus Cingul-Ant Meancurv From Qdec,,rh_G_and_S_cingul-Ant_meancurv,Right_gyrus_and_sulcus_cingul-Ant_meancurv_from_Qdec_rh.aparc.a2009s.meancurv_file-FreeSurfer(v5.3),1
+Left Gyrus Frontal Inf-Opercular Volume From Qdec,,lh_G_front_inf-Opercular_volume,,1
+tTau in CSF,"Is a quantification of total tau protein, a biomarker for Alzheimer's disease.",CSF.Tau_INNX_MELB,Total Tau CSF measurement using INNOTEST kit. Melbourne QXL.,1
+Participant ID,An alphanumeric identifier assigned to a specific patient.,rh_S_parieto_occipital_volume,,0
+Right Sulcus Collat Transv Posterior Area From Qdec,,(S_collat_transv_post)SurfArea,,1
+Right Lateralorbitofrontal Mean Cortical Thickness,,ST36TA,Thickness Average (aparc.stats) of LeftLateralOrbitofrontal,1
+Right Gyrus Temporal Middle Thickness From Qdec,,lh_S_oc-temp_med_and_Lingual_volume,,0
+Left Temporal Pole Thickness,,rh_G_occipital_middle_area,,0
+Right Gyrus Temp Sup-G T Transv Thickness From Qdec,,rh_G_temp_sup-G_T_transv_thickness,,1
+Right Sulcus Postcentral Area From Qdec,,(G_orbital)SurfArea,,0
+Left Sulcus Oc Middle And Lunatus Volume From Qdec,,lh_S_oc_middle_and_Lunatus_volume,Left_sulcus_oc_middle_and_Lunatus_volume_from_Qdec_lh.aparc.a2009s.volume_file,1
+Right Pericalcarine Area,,rh_pericalcarine_area,Right_pericalcarine_area_from_Qdec_rh.aparc.area_file,1
+White-matter-Right-rostralanteriorcingulate-from Qdec Wmparc,White-matter-Right-rostralanteriorcingulate-from_Qdec_wmparc.volume.stats_file,wm-rh-rostralanteriorcingulate,White-matter-Right-rostralanteriorcingulate-from_Qdec_wmparc.volume.stats_file,1
+Right Gyrus Temp Sup-G T Transv Thickness From Qdec,,wm-lh-parstriangularis,White-matter-left-parstriangularis-from_Qdec_wmparc.volume.stats_file-FreeSurfer(v5.3),0
+Left Gyrus Oc-temp Lat-fusifor Area From Qdec,,lh_G_oc-temp_lat-fusifor_area,Left_gyrus_oc-temp_lat-fusifor_area_from_Qdec_lh.aparc.a2009s.area.stats_file-FreeSurfer(v5.3),1
+Right Cuneus Area,,Psych_side_diag,Psych_side_diag,0
+White-matter-Right-pericalcarine-from Qdec Wmparc,White-matter-Right-pericalcarine-from_Qdec_wmparc.volume.stats_file,rh_G_and_S_frontomargin_thickness,,0
+Right Posterior Cingulate Mean Cortical Thickness,,rh_G_front_inf-Orbital_area,,0
+Race,A geographic ancestral origin category that is assigned to a population group based mainly on physical characteristics that are thought to be distinct and inherent.,RACE,,1
+Right Parstriangularis Meancurv From Qdec,,(G_cingul-Post-ventral)MeanCurv,,0
+Left Gyrus Frontal Inf-Triangul Area From Qdec,,Demographic.ApoE genotype,ApoE Genotype,0
+Right Supramarginal Gray Matter Volume,,rh_supramarginal_volume,Right_supramarginal_volume_from_Qdec_rh.aparc.volume.stats_file-FreeSurfer(v5.3),1
+Right Gyrus Cuneus Meancurv From Qdec,,PTETHNIC,Ethnic Category,0
+Left Superiortemporal Area,,lh_superiortemporal_area,Left_superiortemporal_area_from_Qdec_lh.aparc.area_file-FreeSurfer(v5.3),1
+Left Posterior Cingulate Gray Matter Volume,,APOE,ApoE Genotype,0
+Left Sulcus Central Area From Qdec,,PETCRBSX,PET-hypoperfusion:-cerebral_left,0
+Right Sulcus Pericallosal Volume From Qdec,,rh_G_front_inf-Orbital_volume,,0
+Left Sulcus Pericallosal Area From Qdec,,lh_medialorbitofrontal_thickness,,0
+Participant ID,An alphanumeric identifier assigned to a specific patient.,Right-Inf-Lat-Vent,Right-Inf-Lat-Vent_from_Qdec_aseg.volume.stats_file-FreeSurfer(v5.3),0
+Heart Condition,A hollow organ located slightly to the left of the middle portion of the chest. It is composed of muscle and it is divided by a septum into two sides: the right side which receives de-oxygenated blood from the body and the left side which sends newly oxygenated blood to the body. Each side is composed of two chambers: the atrium (receiving blood) and ventricle (ejecting blood).,PXCARD,Cardiac,1
+Left Gyrus And Sulcus Cingul-Mid-Post Meancurv From Qdec,,lh_medialorbitofrontal_area,Left_medialorbitofrontal_area_from_Qdec_lh.aparc.area_file,0
+Right Pars Triangularis Mean Cortical Thickness,,rh_parstriangularis_thickness,Right_parstriangularis_thickness_from_Qdec_rh.aparc.thickness.stats_file-FreeSurfer(v5.3),1
+Right Gyrus Temp Sup-Plan Tempo Area From Qdec,,HEIGHT,,0
+Left Gyrus Cingul-Post-dorsal Area From Qdec,,lh_G_cingul-Post-dorsal_area,Left_gyrus_cingul-Post-dorsal_area_from_Qdec_lh.aparc.a2009s.area.stats_file,1
+Smoking,,lh_supramarginal_meancurv,,0
+White-matter-left-superiorparietal-from Qdec Wmparc,,wm-lh-superiorparietal,White-matter-left-superiorparietal-from_Qdec_wmparc.volume.stats_file,1
+Age,How long something has existed; elapsed time since birth.,NACCAGE,,1
+Left Superiortemporal Volume From Qdec aparc,,lh_superiortemporal_volume,Left_superiortemporal_volume_from_Qdec_lh.aparc.volume.stats_file,1
+Glucose metabolism in right hippocampus (Pons_Normalized),,wm-rh-parstriangularis,White-matter-Right-parstriangularis-from_Qdec_wmparc.volume.stats_file-FreeSurfer(v5.3),0
+Right Hippocampus Volume,,RightHippocampus,Volume of right hippocampus,1
+Right Sulcus Collat Transv Anterior Meancurv From Qdec,,lrpalv,,0
+Right Gyrus Occipital Middle Meancurv From Qdec,,(G_cingul-Post-ventral)ThickAvg,,0
+Right Superior Frontal Area,,rh_superiorfrontal_area,Right_superiorfrontal_area_from_Qdec_rh.aparc.area_file,1
+Right Gyrus Rectus Area From Qdec,,(S_orbital-H_Shaped)ThickAvg,,0
+Right Banks Of The Superior Temoral Sulcus Thickness,,rh_S_front_inf_thickness,,0
+Right Lateralorbitofrontal Mean Cortical Thickness,,RLATORBM,,1
+Right Sulcus Occipital Anterior Area From Qdec,,rh_parahippocampal_thickness,,0
+Left Cuneus Mean Cortical Thickness,,ST23TA,Thickness Average (aparc.stats) of LeftCuneus,1
+Left Supramarginal Meancurv From Qdec,,TRAASCOR,Part A - Time to Complete,0
+Left Rostral Anterior Cingulate Mean Cortical Thickness,,lh_(rostralanteriorcingulate)ThickAvg,,1
+Left Gyrus And Sulcus Frontomargin Meancurv From Qdec,,lh_Pole_occipital_area,,0
+Left Sulcus Circular Insula Anterior Meancurv From Qdec,,lh_S_circular_insula_ant_meancurv,,1
+Right Frontalpole Area,,lh_G_temp_sup-Lateral_volume,,0
+Left Gyrus Occipital Middle Volume From Qdec,,lh_G_occipital_middle_volume,Left_gyrus_occipital_middle_volume_from_Qdec_lh.aparc.a2009s.volume_file,1
+Left Fusiform Mean Cortical Thickness,,titstu,Sociodemographic-Patient_data:_qualification,0
+Right Sulcus Cingul-Marginalis Thickness From Qdec,,rh_S_cingul-Marginalis_thickness,Right_sulcus_cingul-Marginalis_thickness_from_Qdec_rh.aparc.a2009s.thickness_file,1
+Left Insula Mean Cortical Thickness,,lh_insula_thickness,Left_insula_thickness_from_Qdec_lh.aparc.thickness.stats_file,1
+Left Sulcus Circular Insula Anterior Area From Qdec,,ST59SA,Surface Area (aparc.stats) of LeftSupramarginal,0
+Left Cortical Gray Matter Volume,,lhCortexVol,,1
+Right Precentral Meancurv From Qdec,,llthapv,,0
+Left Pericalcarine Meancurv From Qdec,,lh_(pericalcarine)MeanCurv,,1
+Left Sulcus Frontal Middle Area From Qdec,,lh_S_front_middle_area,Left_sulcus_frontal_middle_area_from_Qdec_lh.aparc.a2009s.area.stats_file,1
+Left Ventral Diencephalon Volume,,(Left-VentralDC)Volume_mm3,,1
+Right Entorightinal Mean Cortical Thickness,,RENTM,,1
+Boston Naming Test (BNT),-,BOSTON,,1
+Left Parsorbitalis Mean Cortical Thickness,,LPARORBM,,1
+Left Gyrus Temporal Inferior Volume From Qdec,,lh_G_temporal_inf_volume,,1
+Left Sulcus Temporal Transverse Thickness From Qdec,,lh_G_cingul-Post-dorsal_volume,,0
+Right Frontalpole Area,,rh_S_central_area,,0
+Right Gyrus Frontal Inf-Opercular Thickness From Qdec,,rh_G_front_inf-Opercular_thickness,Right_gyrus_frontal_inf-Opercular_thickness_from_Qdec_rh.aparc.a2009s.thickness_file,1
+Left Sulcus Collat Transv Anterior Thickness From Qdec,,lh_S_collat_transv_ant_thickness,Left_sulcus_collat_transv_anterior_thickness_from_Qdec_lh.aparc.a2009s.thickness_file,1
+Left Sulcus Temporal Sup Thickness From Qdec,,lh_S_temporal_sup_thickness,,1
+White-matter-left-temporalpole-from Qdec Wmparc,,wm-lh-temporalpole,White-matter-left-temporalpole-from_Qdec_wmparc.volume.stats_file,1
+Biological Sex,The assemblage of physical properties or qualities by which male is distinguished from female; the physical difference between male and female; the distinguishing peculiarity of male or female.,patient_id,,0
+Advanced Instrumental Activities of Daily Living (AIADL),A section of the Older Americans Resource Scale Multidimensional Functional Assessment Questionnaire (OMFAQ) that seeks information about a person's functional ability to conduct the complex activities of daily living that allow for independent living within a community.,lh_G_temp_sup-Plan_polar_volume,,0
+APOE Allele 1,"Human APOE*4 allele is located in the vicinity of 19q13.2 and is approximately 4 kb in length. This allele, which encodes apolipoprotein E4, plays a role in triglyceride metabolism. The allele is associated with increased occurrence of both Alzheimer disease and coronary artery disease.",lh_G_cingul-Post-ventral_volume,Left_gyrus_cingul-Post-ventral_volume_from_Qdec_lh.aparc.a2009s.volume_file,0
+Left Pole Occipital Meancurv From Qdec,,rh_G_temporal_middle_area,Right_gyrus_temporal_middle_area_from_Qdec_rh.aparc.a2009s.area.stats_file,0
+Right Gyrus Frontal Inf-Opercular Volume From Qdec,,rh_G_front_inf-Opercular_volume,,1
+Sibling Dementia,,FHQSIB,,1
+Right Sulcus Orbital Lateral Thickness From Qdec,,rh_caudalmiddlefrontal_area,,0
+Right Gyrus And Sulcus Subcentral Thickness From Qdec,,lh_precentral_volume,Left_precentral_volume_from_Qdec_lh.aparc.volume.stats_file,0
+Depression,A melancholy feeling of sadness and despair.,ST31TA,Thickness Average (aparc.stats) of LeftInferiorParietal,0
+Right CA3 Volume,Right_CA3,right_CA3,Right_CA3-FreeSurfer(v6Beta),1
+Right Lingual Grey Matter Volume,,RMEDORBF,,0
+Right Posteriorcingulate Meancurv From Qdec,,lh_(posteriorcingulate)MeanCurv,,1
+Left Sulcus Temporal Inferior Meancurv From Qdec,,ST98SA,Surface Area (aparc.stats) of RightMedialOrbitofrontal,0
+Left Gyrus Subcallosal Volume From Qdec,,(G_and_S_cingul-Mid-Post)MeanCurv,,0
+Left Gyrus Pariet Inf-Angular Volume From Qdec,,(G_pariet_inf-Angular)GrayVol,,1
+Left Gyrus Cingul-Post-ventral Thickness From Qdec,,SNAP,,0
+Left Sulcus Orbital-H Shaped Meancurv From Qdec,,lh_S_orbital-H_Shaped_meancurv,Left_sulcus_orbital-H_Shaped_meancurv_from_Qdec_lh.aparc.a2009s.meancurv_file-FreeSurfer(v5.3),1
+Left Gyrus Occipital Middle Volume From Qdec,,lh_G_occipital_middle_volume,,1
+Father AD,,RPOSCENM,,0
+Left Cerebellum Gray Matter Volume,,ST17SV,Subcortical Volume (aseg.stats) of LeftCerebellumCortex,1
+Right-UnsegmentedWhiteMatter-from Qdec Wmparc,Right-UnsegmentedWhiteMatter-from_Qdec_wmparc.volume.stats_file,lh_G_front_inf-Triangul_area,,0
+Right Sulcus Calcarine Meancurv From Qdec,,rh_S_calcarine_meancurv,Right_sulcus_calcarine_meancurv_from_Qdec_rh.aparc.a2009s.meancurv_file-FreeSurfer(v5.3),1
+Right Lateralorbitofrontal Area,,rh_lateralorbitofrontal_area,Right_lateralorbitofrontal_area_from_Qdec_rh.aparc.area_file,1
+Left Thalamus Volume,,(Left-Thalamus-Proper)Volume_mm3,,1
+Clock Drawing Test,A test of the ability of an individual to accurately place the numbers and hands of a clock in their usual and specified positions.,lh_S_precentral-sup-part_area,Left_sulcus_precentral-sup-part_area_from_Qdec_lh.aparc.a2009s.area.stats_file-FreeSurfer(v5.3),0
+"Ears, Nose and Throat",-,lrprgv,,0
+Left Sulcus Oc-temp Lat Meancurv From Qdec,,ADAS13,,0
+Third Ventricle Volume,,ltvv,,1
+Right Sulcus Circular Insula Sup Meancurv From Qdec,,rh_S_circular_insula_sup_meancurv,,1
+Right Fusiform Area,,Interleukin-10 (IL-10) (pg/mL),,0
+Right Pars Triangularis Gray Matter Volume,,lh_G_temporal_inf_area,,0
+Right Lateral Ventricle Volume,,Right-Lateral-Ventricle,Right-Lateral-Ventricle_from_Qdec_aseg.volume.stats_file-FreeSurfer(v5.3),1
+Left Gyrus Frontal Sup Meancurv From Qdec,,ST35TA,Thickness Average (aparc.stats) of LeftLateralOccipital,0
+Right Postcentral Meancurv From Qdec,,age_years,,0
+Left Gyrus Cuneus Area From Qdec,,rh_G_oc-temp_med-Lingual_meancurv,Right_gyrus_oc-temp_med-Lingual_meancurv_from_Qdec_rh.aparc.a2009s.meancurv_file-FreeSurfer(v5.3),0
+Right Pars Triangularis Mean Cortical Thickness,,rh_(parstriangularis)ThickAvg,,1
+Left Sulcus Frontal Inferior Thickness From Qdec,,(S_front_inf)ThickAvg,,1
+Right Gyrus Orbital Area From Qdec,,PETCRBDX,PET-hypoperfusion:-cerebral_right,0
+Right Gyrus Temporal Inferior Meancurv From Qdec,,rh_G_temporal_inf_meancurv,Right_gyrus_temporal_inferior_meancurv_from_Qdec_rh.aparc.a2009s.meancurv_file,1
+Left Gyrus Orbital Volume From Qdec,,Right_VentralDC,,0
+Verbal fluency tests (Semantic) Animal,A test that measures the verbal fluency of an individual. This tool measures both semantic fluency and phonetic fluency.,sem_flu,Total_number_of_semantic_items(animals)_pronunced_in_one_minute,1
+Right Insula Meancurv From Qdec,,rh_insula_meancurv,,1
+Left Pars Opercularis Gray Matter Volume,,ST45CV,Cortical Volume (aparc.stats) of LeftParsOpercularis,1
+White-matter-Right-caudalmiddlefrontal-from Qdec Wmparc,,wm-rh-caudalmiddlefrontal,White-matter-Right-caudalmiddlefrontal-from_Qdec_wmparc.volume.stats_file-FreeSurfer(v5.3),1
+Right Gyrus And Sulcus Paracentral Thickness From Qdec,,rh_G_and_S_paracentral_thickness,,1
+APOE,"Human APOE*4 allele is located in the vicinity of 19q13.2 and is approximately 4 kb in length. This allele, which encodes apolipoprotein E4, plays a role in triglyceride metabolism. The allele is associated with increased occurrence of both Alzheimer disease and coronary artery disease.",lh_transversetemporal_volume,,0
+Left Hippocampus Volume,,medical_history_term,,0
+Right Isthmuscingulate Meancurv From Qdec,,rh_(isthmuscingulate)MeanCurv,,1
+Right Gyrus Precentral Meancurv From Qdec,,(G_precentral)MeanCurv,,1
+Amount of Smoking,,MH16ASMOK,,1
+Fifth Ventricle Volume,,ST8SV,Subcortical Volume (aseg.stats) of FifthVentricle,1
+Left Inferiorparietal Mean Cortical Thickness,,lh_inferiorparietal_thickness,Left_inferiorparietal_thickness_from_Qdec_lh.aparc.thickness.stats_file-FreeSurfer(v5.3),1
+Right Gyrus Temporal Middle Thickness From Qdec,,rh_S_cingul-Marginalis_area,,0
+Left Gyrus And Sulcus Occipital Inferior Volume From Qdec,,lh_G_and_S_occipital_inf_volume,Left_gyrus_and_sulcus_occipital_inferior_volume_from_Qdec_lh.aparc.a2009s.volume_file-FreeSurfer(v5.3),1
+Right Gyrus Temporal Inferior Thickness From Qdec,,rh_rostralmiddlefrontal_thickness,Right_rostralmiddlefrontal_thickness_from_Qdec_rh.aparc.thickness.stats_file-FreeSurfer(v5.3),0
+Left Gyrus Parietal Sup Thickness From Qdec,,(G_parietal_sup)ThickAvg,,1
+Cancer,"A tumor composed of atypical neoplastic, often pleomorphic cells that invade other tissues. Malignant neoplasms often metastasize to distant anatomic sites and may recur after excision. The most common malignant neoplasms are carcinomas (adenocarcinomas or squamous cell carcinomas), Hodgkin and non-Hodgkin lymphomas, leukemias, melanomas, and sarcomas.",CANCER,,1
+Brain Stem Grey Matter Volume,,Brain-Stem,Brain-Stem_from_Qdec_aseg.volume.stats_file,1
+Left Gyrus And Sulcus Paracentral Thickness From Qdec,,lh_G_and_S_paracentral_thickness,Left_gyrus_and_sulcus_paracentral_thickness_from_Qdec_lh.aparc.a2009s.thickness_file,1
+Right Superiorparietal Mean Cortical Thickness,,(G_temp_sup-G_T_transv)GrayVol,,0
+Right Gyrus Cingul-Post-ventral Volume From Qdec,,DCURDET,"If employed or working for pay, what are your current job title and main duties?",0
+Left Transverse Temporal Mean Cortical Thickness,,rh_S_parieto_occipital_area,Right_sulcus_parieto_occipital_area_from_Qdec_rh.aparc.a2009s.area.stats_file,0
+Left Gyrus Postcentral Volume From Qdec,,(G_postcentral)GrayVol,,1
+Right Pars Opercularis Mean Cortical Thickness,,(Lat_Fis-ant-Horizont)SurfArea,,0
+Right Sulcus Oc-temp Lat Meancurv From Qdec,,lh_G_front_inf-Orbital_volume,Left_gyrus_frontal_inf-Orbital_volume_from_Qdec_lh.aparc.a2009s.volume_file,0
+Handedness,The preferred hand of use for controlled and efficient performance of motor tasks.,PTHAND,3. Participant Handedness,1
+Visit,The act of going to see some person or place or thing; it can cover a short or long period but refers to a non-permanent arrangement.,Collection,Collection 18 month timepoint.,1
+Left Precuneus Mean Cortical Thickness,,rh_S_orbital_med-olfact_meancurv,Right_sulcus_orbital_med-olfact_meancurv_from_Qdec_rh.aparc.a2009s.meancurv_file-FreeSurfer(v5.3),0
+Left Gyrus And Sulcus Paracentral Thickness From Qdec,,ST40SA,Surface Area (aparc.stats) of LeftMiddleTemporal,0
+Left Sulcus Oc-temp Lat Thickness From Qdec,,(S_oc-temp_lat)ThickAvg,,1
+Right Inferior Parietal Gray Matter Volume,,(S_orbital_lateral)GrayVol,,0
+Cortical Gray Matter Volume,,lh_S_parieto_occipital_thickness,,0
+Right Inferior Parietal Area,,rh_G_cingul-Post-ventral_area,Right_gyrus_cingul-Post-ventral_area_from_Qdec_rh.aparc.a2009s.area.stats_file,0
+Right Posterior Cingulate Gray Matter Volume,,RPOSCIN,,1
+Relatives with Dementia,,rh_G_front_inf-Orbital_meancurv,Right_gyrus_frontal_inf-Orbital_meancurv_from_Qdec_rh.aparc.a2009s.meancurv_file-FreeSurfer(v5.3),0
+Right Rostral Middle Frontal Gray Matter Volume,,ST99SA,Surface Area (aparc.stats) of RightMiddleTemporal,0
+Right Gyrus Cingul-Post-ventral Thickness From Qdec,,(G_oc-temp_lat-fusifor)SurfArea,,0
+Right Pars Triangularis Gray Matter Volume,,rh_parstriangularis_volume,,1
+White-matter-left-paracentral-from Qdec Wmparc,,VILIP,,0
+Head Injury ,"Damage inflicted on the head as the direct or indirect result of an external force, with or without disruption of structural continuity.",medical_history_term,,1
+Left Gyrus Rectus Meancurv From Qdec,,lh_G_rectus_meancurv,Left_gyrus_rectus_meancurv_from_Qdec_lh.aparc.a2009s.meancurv_file,1
+YKL-40 in CSF,The determination of the amount of YKL-40 protein present in a sample.,YKL,,1
+Right Gyrus Oc-temp Med-Lingual Area From Qdec,,rh_G_oc-temp_med-Lingual_area,,1
+Left Gyrus Precentral Meancurv From Qdec,,lh_S_oc_sup_and_transversal_thickness,,0
+Interleukin-1 alpha (IL-1 alpha) in Plasma,"Interleukin-1 alpha (271 aa, ~31 kDa) is encoded by the human IL1A gene. This protein is involved in B-cell maturation and proliferation, thymocyte proliferation and the stimulation of inflammation.",rh_G_cingul-Post-dorsal_area,Right_gyrus_cingul-Post-dorsal_area_from_Qdec_rh.aparc.a2009s.area.stats_file,0
+Left Supramarginal Area,,lh_supramarginal_area,,1
+Left Postcentral Gray Matter Volume,,LPOSCEN,,1
+Left Parahippocampal Gray Matter Volume,,Ethnic_Group_Of_Subject,,0
+Right Sulcus Temporal Inferior Thickness From Qdec,,rh_S_temporal_inf_thickness,Right_sulcus_temporal_inferior_thickness_from_Qdec_rh.aparc.a2009s.thickness_file,1
+Left Gyrus And Sulcus Subcentral Meancurv From Qdec,,lh_G_and_S_subcentral_meancurv,Left_gyrus_and_sulcus_subcentral_meancurv_from_Qdec_lh.aparc.a2009s.meancurv_file-FreeSurfer(v5.3),1
+Right Lateral Ventricle Volume,,rh_temporalpole_thickness,Right_temporalpole_thickness_from_Qdec_rh.aparc.thickness.stats_file-FreeSurfer(v5.3),0
+Left Sulcus Pericallosal Volume From Qdec,,rh_rostralmiddlefrontal_thickness,Right_rostralmiddlefrontal_thickness_from_Qdec_rh.aparc.thickness.stats_file,0
+Left Caudal Anterior Cingulate Area,,lh_(caudalanteriorcingulate)SurfArea,,1
+Verbal fluency tests (Semantic) Animal,A test that measures the verbal fluency of an individual. This tool measures both semantic fluency and phonetic fluency.,Neuropsych.Animals + Names (RAW),Animal + Names Raw score,1
+Left Gyrus And Sulcus Cingul-Mid-Post Meancurv From Qdec,,(G_and_S_cingul-Mid-Post)MeanCurv,,1
+Right Gyrus Temp Sup-Plan Tempo Meancurv From Qdec,,rh_S_cingul-Marginalis_meancurv,Right_sulcus_cingul-Marginalis_meancurv_from_Qdec_rh.aparc.a2009s.meancurv_file,0
+Left Superior Parietal Gray Matter Volume,,llsupalv,,1
+Left Gyrus Frontal Middle Volume From Qdec,,lh_G_front_middle_volume,Left_gyrus_frontal_middle_volume_from_Qdec_lh.aparc.a2009s.volume_file-FreeSurfer(v5.3),1
+Right Gyrus Frontal Inf-Orbital Meancurv From Qdec,,COMPOSITE_SUVR,"Summary florbetapir cortical SUVR. Weighted florbetapir mean in frontal, cingulate, parietal and temporal regions.  Regions defined by Freesurfer; see Jagust lab PDF on LONI for details",0
+Right Gyrus And Sulcus Cingul-Ant Area From Qdec,,rh_G_occipital_middle_thickness,Right_gyrus_occipital_middle_thickness_from_Qdec_rh.aparc.a2009s.thickness_file,0
+Verbal fluency tests (Phonemic) ,A test that measures the verbal fluency of an individual. This tool measures both semantic fluency and phonetic fluency.,rh_G_and_S_occipital_inf_area,Right_gyrus_and_sulcus_occipital_inferior_area_from_Qdec_rh.aparc.a2009s.area.stats_file,0
+Right Sulcus Temporal Transverse Area From Qdec,,lh_G_front_sup_meancurv,Left_gyrus_frontal_sup_meancurv_from_Qdec_lh.aparc.a2009s.meancurv_file,0
+Left Gyrus Oc-temp Med-Parahip Area From Qdec,,lh_G_oc-temp_med-Parahip_area,Left_gyrus_oc-temp_med-Parahip_area_from_Qdec_lh.aparc.a2009s.area.stats_file,1
+Left Superiorparietal Mean Cortical Thickness,,lh_S_suborbital_area,Left_sulcus_suborbital_area_from_Qdec_lh.aparc.a2009s.area.stats_file-FreeSurfer(v5.3),0
+White-matter-Right-temporalpole-from Qdec Wmparc,White-matter-Right-temporalpole-from_Qdec_wmparc.volume.stats_file,wm-rh-temporalpole,White-matter-Right-temporalpole-from_Qdec_wmparc.volume.stats_file,1
+Left Parahippocampal Area,,lh_(parahippocampal)SurfArea,,1
+White-matter-Right-superiorparietal-from Qdec Wmparc,White-matter-Right-superiorparietal-from_Qdec_wmparc.volume.stats_file,rh_S_suborbital_area,Right_sulcus_suborbital_area_from_Qdec_rh.aparc.a2009s.area.stats_file,0
+Clinical Dementia Rating (CDR),"A standardized rating scale developed by John C. Morris in 1997 to evaluate the severity of an individual's cognitive impairment. This instrument contains 6 areas which include memory, orientation, judgment and problem solving, community affairs, home and hobbies, and personal care. Each item is rated on a scale from 0 to 3 with 0 being none and 3 being severe.",CDR_Total,,1
+Right Entorightinal Volume From Qdec aparc,,rh_Pole_temporal_area,Right_Pole_temporal_area_from_Qdec_rh.aparc.a2009s.area.stats_file,0
+Right Accumbens Area Volume,,Right-Accumbens-area,Right-Accumbens-area_from_Qdec_aseg.volume.stats_file-FreeSurfer(v5.3),1
+Right Sulcus Collat Transv Anterior Area From Qdec,,rh_S_collat_transv_ant_area,Right_sulcus_collat_transv_anterior_area_from_Qdec_rh.aparc.a2009s.area.stats_file-FreeSurfer(v5.3),1
+Right Sulcus Orbital Med-olfact Meancurv From Qdec,,rh_S_orbital_med-olfact_meancurv,Right_sulcus_orbital_med-olfact_meancurv_from_Qdec_rh.aparc.a2009s.meancurv_file-FreeSurfer(v5.3),1
+Living Arrangement,A description of a personal residence and the relationship between the occupants that reside there.,rh_Lat_Fis-ant-Horizont_meancurv,Right_Lat_Fis-ant-Horizont_meancurv_from_Qdec_rh.aparc.a2009s.meancurv_file-FreeSurfer(v5.3),0
+Left Inferiorparietal Meancurv From Qdec,,rh_G_and_S_cingul-Mid-Ant_meancurv,Right_gyrus_and_sulcus_cingul-Mid-Ant_meancurv_from_Qdec_rh.aparc.a2009s.meancurv_file-FreeSurfer(v5.3),0
+White-matter-left-cuneus-from Qdec Wmparc,,wm-lh-cuneus,White-matter-left-cuneus-from_Qdec_wmparc.volume.stats_file-FreeSurfer(v5.3),1
+Right Sulcus Interm Prim-Jensen Volume From Qdec,,rh_S_interm_prim-Jensen_volume,Right_sulcus_interm_prim-Jensen_volume_from_Qdec_rh.aparc.a2009s.volume_file-FreeSurfer(v5.3),1
+Left Insula Grey Matter Volume,,ST129CV,Cortical Volume (aparc.stats) of LeftInsula,1
+Right Sulcus Temporal Sup Thickness From Qdec,,rh_S_temporal_sup_thickness,Right_sulcus_temporal_sup_thickness_from_Qdec_rh.aparc.a2009s.thickness_file-FreeSurfer(v5.3),1
+Left Isthmus Cingulate Area,,lh_isthmuscingulate_area,Left_isthmuscingulate_area_from_Qdec_lh.aparc.area_file,1
+Left Pars Opercularis Gray Matter Volume,,lh_parsopercularis_volume,,1
+Left Sulcus Oc-temp Lat Area From Qdec,,lh_S_oc-temp_lat_area,,1
+White-matter-Right-temporalpole-from Qdec Wmparc,White-matter-Right-temporalpole-from_Qdec_wmparc.volume.stats_file,PAFUSCHIZO,"In the past year, have you been told by a doctor that you had schizophrenia, schizoaffective disorder, or any psychotic disorder?",0
+pTau in CSF,,CSF_P-Tau,Measure_of_the_phosphorylated_Tau_protein_in_the_Cerebrospinal_Fluid_(CSF),1
+Right Gyrus Frontal Sup Volume From Qdec,,(G_front_sup)GrayVol,,1
+Left Sulcus Frontal Middle Area From Qdec,,lh_(fusiform)GrayVol,,0
+Left Sulcus Temporal Transverse Volume From Qdec,,lh_G_occipital_sup_volume,Left_gyrus_occipital_sup_volume_from_Qdec_lh.aparc.a2009s.volume_file,0
+Left Pallidum Volume,,rh_S_oc-temp_lat_meancurv,,0
+Right Isthmuscingulate Meancurv From Qdec,,APOEGN,ApoE4 Genotype,0
+Right Sulcus Suborbital Volume From Qdec,,rh_S_suborbital_volume,Right_sulcus_suborbital_volume_from_Qdec_rh.aparc.a2009s.volume_file,1
+White-matter-left-banks Of The Superior Temoral Sulcus-from Qdec Wmparc,,lh_S_calcarine_volume,,0
+Right Sulcus Cingul-Marginalis Area From Qdec,,lh_Lat_Fis-ant-Vertical_thickness,Left_Lat_Fis-ant-Vertical_thickness_from_Qdec_lh.aparc.a2009s.thickness_file-FreeSurfer(v5.3),0
+Left Gyrus Rectus Volume From Qdec,,lh_G_rectus_volume,,1
+Right Sulcus Temporal Sup Meancurv From Qdec,,lh_Lat_Fis-post_area,Left_Lat_Fis-post_area_from_Qdec_lh.aparc.a2009s.area.stats_file,0
+Right Sulcus Orbital Med-olfact Thickness From Qdec,,(Lat_Fis-ant-Horizont)GrayVol,,0
+Left Sulcus Circular Insula Sup Meancurv From Qdec,,wm-rh-rostralanteriorcingulate,White-matter-Right-rostralanteriorcingulate-from_Qdec_wmparc.volume.stats_file-FreeSurfer(v5.3),0
+Left Superior Frontal Gray Matter Volume,,rh_S_orbital-H_Shaped_meancurv,Right_sulcus_orbital-H_Shaped_meancurv_from_Qdec_rh.aparc.a2009s.meancurv_file,0
+Right Transverse Temporal Mean Cortical Thickness,,rh_S_oc_sup_and_transversal_area,Right_sulcus_oc_sup_and_transversal_area_from_Qdec_rh.aparc.a2009s.area.stats_file-FreeSurfer(v5.3),0
+Right Gyrus Temp Sup-G T Transv Volume From Qdec,,rh_G_temp_sup-G_T_transv_volume,Right_gyrus_temp_sup-G_T_transv_volume_from_Qdec_rh.aparc.a2009s.volume_file,1
+Right Postcentral Grey Matter Volume,,wm-lh-transversetemporal,White-matter-left-transversetemporal-from_Qdec_wmparc.volume.stats_file-FreeSurfer(v5.3),0
+Left Sulcus Precentral-sup-part Area From Qdec,,lh_S_precentral-sup-part_area,Left_sulcus_precentral-sup-part_area_from_Qdec_lh.aparc.a2009s.area.stats_file,1
+Left Middle Temporal Gray Matter Volume,,rh_lateralorbitofrontal_area,Right_lateralorbitofrontal_area_from_Qdec_rh.aparc.area_file,0
+Right Gyrus And Sulcus Cingul-Mid-Post Area From Qdec,,lh_G_temp_sup-Plan_tempo_meancurv,Left_gyrus_temp_sup-Plan_tempo_meancurv_from_Qdec_lh.aparc.a2009s.meancurv_file,0
+Left Sulcus Orbital Lateral Area From Qdec,,Right-Cerebellum-White-Matter,Right-Cerebellum-White-Matter_from_Qdec_aseg.volume.stats_file-FreeSurfer(v5.3),0
+Left Sulcus Circular Insula Anterior Volume From Qdec,,lh_S_circular_insula_ant_volume,Left_sulcus_circular_insula_anterior_volume_from_Qdec_lh.aparc.a2009s.volume_file-FreeSurfer(v5.3),1
+Left Posteriorcingulate Area,,lh_parstriangularis_area,Left_parstriangularis_area_from_Qdec_lh.aparc.area_file,0
+Left Cuneus Mean Cortical Thickness,,LCUNM,,1
+Left Paracentral Meancurv From Qdec,,lh_paracentral_meancurv,Left_paracentral_meancurv_from_Qdec_lh.aparc.meancurv_file-FreeSurfer(v5.3),1
+Clinical Dementia Rating Scale Sum of Boxes (CDRSB),Clinical Dementia Rating (CDR) Sum of Boxes.,No total score.,,0
+Right Postcentral Mean Cortical Thickness,,rh_postcentral_thickness,Right_postcentral_thickness_from_Qdec_rh.aparc.thickness.stats_file-FreeSurfer(v5.3),1
+Alcohol,"Consumption of liquids containing ethanol, including the behaviors associated with drinking the alcohol.",lh_lateraloccipital_volume,,0
+Left Sulcus Temporal Sup Thickness From Qdec,,(G_precuneus)SurfArea,,0
+Right Sulcus Interm Prim-Jensen Area From Qdec,,rh_S_interm_prim-Jensen_area,Right_sulcus_interm_prim-Jensen_area_from_Qdec_rh.aparc.a2009s.area.stats_file,1
+Right Sulcus Circular Insula Sup Area From Qdec,,rh_S_precentral-sup-part_thickness,Right_sulcus_precentral-sup-part_thickness_from_Qdec_rh.aparc.a2009s.thickness_file-FreeSurfer(v5.3),0
+Left Parahippocampal Gray Matter Volume,,llpahipgv,,1
+Right Gyrus Parietal Sup Area From Qdec,,rh_G_parietal_sup_area,Right_gyrus_parietal_sup_area_from_Qdec_rh.aparc.a2009s.area.stats_file,1
+APOE Allele 2,"Human APOE*4 allele is located in the vicinity of 19q13.2 and is approximately 4 kb in length. This allele, which encodes apolipoprotein E4, plays a role in triglyceride metabolism. The allele is associated with increased occurrence of both Alzheimer disease and coronary artery disease.",rh_isthmuscingulate_area,Right_isthmuscingulate_area_from_Qdec_rh.aparc.area_file,0
+Education,The number of education years that a subject has competed.,EDUC,"Subject's years of education, use the codes below to report the level achieved; if an attempted level is not completed, enter the number of years completed: 12 = high school or GED, 16 = bachelor's degree, 18 = master's degree, 20 = doctorate, 99 = unknown",1
+Left Gyrus And Sulcus Cingul-Mid-Post Meancurv From Qdec,,(G_temp_sup-Lateral)SurfArea,,0
+Right Gyrus Parietal Sup Thickness From Qdec,,Left-vessel,Left-vessel_from_Qdec_aseg.volume.stats_file-FreeSurfer(v5.3),0
+Right Gyrus Cuneus Area From Qdec,,rh_G_cuneus_area,Right_gyrus_cuneus_area_from_Qdec_rh.aparc.a2009s.area.stats_file,1
+Left Lat Fis-post Meancurv From Qdec,,lh_Lat_Fis-post_meancurv,Left_Lat_Fis-post_meancurv_from_Qdec_lh.aparc.a2009s.meancurv_file-FreeSurfer(v5.3),1
+Left Sulcus Circular Insula Sup Area From Qdec,,lh_S_central_area,Left_sulcus_central_area_from_Qdec_lh.aparc.a2009s.area.stats_file,0
+Right Parahippocampal Gray Matter Volume,,rh_parahippocampal_volume,,1
+Left Sulcus Circular Insula Sup Volume From Qdec,,lh_S_circular_insula_sup_volume,,1
+Right Sulcus Precentral-inf-part Area From Qdec,,Right-Putamen,Right-Putamen_from_Qdec_aseg.volume.stats_file,0
+Left Lat Fis-ant-Horizont Meancurv From Qdec,,lh_(parsorbitalis)SurfArea,,0
+Left Lateral Occipital Gray Matter Volume,,lh_parsopercularis_meancurv,Left_parsopercularis_meancurv_from_Qdec_lh.aparc.meancurv_file-FreeSurfer(v5.3),0
+Right Pallidum Volume,,RightPallidum,Volume of right pallidum,1
+Right Gyrus And Sulcus Cingul-Mid-Post Meancurv From Qdec,,rh_(middletemporal)SurfArea,,0
+Left Sulcus Oc Middle And Lunatus Volume From Qdec,,rh_S_front_middle_meancurv,,0
+Left Gyrus Temp Sup-Plan Tempo Thickness From Qdec,,lh_G_temp_sup-Plan_tempo_thickness,,1
+Right Sulcus Intrapariet And P Trans Meancurv From Qdec,,rh_S_intrapariet_and_P_trans_meancurv,Right_sulcus_intrapariet_and_P_trans_meancurv_from_Qdec_rh.aparc.a2009s.meancurv_file-FreeSurfer(v5.3),1
+Right Sulcus Postcentral Thickness From Qdec,,rh_WhiteSurfArea_area,Right_WhiteSurfArea_area_from_Qdec_rh.aparc.area_file-FreeSurfer(v5.3),0
+Right Banks Of The Superior Temoral Sulcus Meancurv From Qdec,,lh_G_pariet_inf-Supramar_volume,,0
+Cerebrospinal Fluid Volume,,lh_(middletemporal)GrayVol,,0
+Left Inferiorparietal Volume From Qdec aparc,,BrainSegVol-to-eTIV,BrainSegVol-to-eTIV_from_Qdec_aseg.volume.stats_file,0
+White-matter-Right-banks Of The Superior Temoral Sulcus-from Qdec Wmparc,,(G_temp_sup-Plan_polar)SurfArea,,0
+Left Caudal Middle Frontal Mean Cortical Thickness,,lh_caudalmiddlefrontal_thickness,Left_caudalmiddlefrontal_thickness_from_Qdec_lh.aparc.thickness.stats_file-FreeSurfer(v5.3),1
+Right Gyrus Oc-temp Lat-fusifor Meancurv From Qdec,,wm-lh-bankssts,White-matter-left-banks_of_the_superior_temoral_sulcus-from_Qdec_wmparc.volume.stats_file-FreeSurfer(v5.3),0
+Right Sulcus Circular Insula Inferior Meancurv From Qdec,,lh_(parstriangularis)SurfArea,,0
+Right Sulcus Postcentral Volume From Qdec,,rh_S_postcentral_volume,,1
+Left Banks Of The Superior Temoral Sulcus Meancurv From Qdec,,lh_bankssts_meancurv,,1
+Left Supramarginal Meancurv From Qdec,,DIABETES,,0
+Left Parsorbitalis Mean Cortical Thickness,,lh_(parsorbitalis)ThickAvg,,1
+Left Gyrus Insular Short Area From Qdec,,CSF_T-Tau,Measure_of_the_Total_Tau_protein_in_the_Cerebrospinal Fluid(CSF),0
+Father Age Onset,,father_onset_age,Age of father at AD-like dementia onset,1
+Right Hippocampal-fissure Volume,Right_hippocampal-fissure,ST25TA,Thickness Average (aparc.stats) of LeftFrontalPole,0
+Right Superiorparietal Meancurv From Qdec,,rh_superiorparietal_meancurv,Right_superiorparietal_meancurv_from_Qdec_rh.aparc.meancurv_file-FreeSurfer(v5.3),1
+Left Superiortemporal Meancurv From Qdec,,rh_G_orbital_thickness,,0
+Right Sulcus Circular Insula Sup Thickness From Qdec,,rh_S_circular_insula_sup_thickness,Right_sulcus_circular_insula_sup_thickness_from_Qdec_rh.aparc.a2009s.thickness_file-FreeSurfer(v5.3),1
+Right Superiortemporal Meancurv From Qdec,,rh_superiortemporal_meancurv,,1
+Left Inferior Parietal Area,,ST90CV,Cortical Volume (aparc.stats) of RightInferiorParietal,0
+Left Sulcus Occipital Anterior Volume From Qdec,,lh_S_occipital_ant_volume,Left_sulcus_occipital_anterior_volume_from_Qdec_lh.aparc.a2009s.volume_file-FreeSurfer(v5.3),1
+Right Ventral Diencephalon Volume,,ST124SV,Subcortical Volume (aseg.stats) of RightVentralDC,1
+Right Gyrus Temp Sup-Lateral Area From Qdec,,rh_G_temp_sup-Lateral_area,Right_gyrus_temp_sup-Lateral_area_from_Qdec_rh.aparc.a2009s.area.stats_file,1
+Right Sulcus Frontal Middle Thickness From Qdec,,CorticalWhiteMatterVol,CorticalWhiteMatterVol_from_Qdec_aseg.volume.stats_file-FreeSurfer(v5.3),0
+Right Sulcus Temporal Transverse Thickness From Qdec,,(S_occipital_ant)SurfArea,,0
+White-matter-Right-postcentral-from Qdec Wmparc,White-matter-Right-postcentral-from_Qdec_wmparc.volume.stats_file,LIVSIT,What is the subject's living situation?,0
+Left Gyrus And Sulcus Subcentral Area From Qdec,,wm-rh-insula,White-matter-Right-insula-from_Qdec_wmparc.volume.stats_file,0
+Right Gyrus Precentral Area From Qdec,,RightAmygdala,Volume of right amygdala,0
+Race,A geographic ancestral origin category that is assigned to a population group based mainly on physical characteristics that are thought to be distinct and inherent.,Ethnic_Group_Of_Subject,,1
+Left Sulcus Collat Transv Posterior Area From Qdec,,(S_collat_transv_post)SurfArea,,1
+Left Parahippocampal Area,,rh_S_collat_transv_post_volume,Right_sulcus_collat_transv_posterior_volume_from_Qdec_rh.aparc.a2009s.volume_file-FreeSurfer(v5.3),0
+Left Par Sopercularis Area,,lh_parsopercularis_area,,1
+Left GC-ML-DG Volume,Left_GC-ML-DG,RightCerebellarWhiteMatter,Volume of right cerebellar white matter,0
+SurfaceHoles From Qdec Aseg,,wm-lh-parahippocampal,White-matter-left-parahippocampal-from_Qdec_wmparc.volume.stats_file-FreeSurfer(v5.3),0
+Left Sulcus Oc Middle And Lunatus Volume From Qdec,,(S_oc_middle_and_Lunatus)GrayVol,,1
+Left Gyrus Cingul-Post-ventral Area From Qdec,,rh_superiorparietal_area,Right_superiorparietal_area_from_Qdec_rh.aparc.area_file,0
+Right Gyrus Parietal Sup Thickness From Qdec,,(G_parietal_sup)ThickAvg,,1
+White-matter-Right-superiorparietal-from Qdec Wmparc,White-matter-Right-superiorparietal-from_Qdec_wmparc.volume.stats_file,wm-rh-superiorparietal,White-matter-Right-superiorparietal-from_Qdec_wmparc.volume.stats_file,1
+Right Superiortemporal Meancurv From Qdec,,Interleukin-15 (IL-15) (ng/mL),,0
+Left Postcentral Gray Matter Volume,,wm-lh-parsopercularis,White-matter-left-parsopercularis-from_Qdec_wmparc.volume.stats_file,0
+Right Middle Temporal Mean Cortical Thickness,,rh_middletemporal_thickness,Right_middletemporal_thickness_from_Qdec_rh.aparc.thickness.stats_file-FreeSurfer(v5.3),1
+Right Sulcus Precentral-sup-part Area From Qdec,,rh_S_precentral-sup-part_thickness,Right_sulcus_precentral-sup-part_thickness_from_Qdec_rh.aparc.a2009s.thickness_file,0
+Right Pallidum Volume,,lrpalv,,1
+Left Superiorparietal Mean Cortical Thickness,,lh_superiorparietal_thickness,Left_superiorparietal_thickness_from_Qdec_lh.aparc.thickness.stats_file-FreeSurfer(v5.3),1
+Education,The number of education years that a subject has competed.,lh_G_pariet_inf-Supramar_area,,0
+Left Cuneus Area,,Ethnicity,Etnich_group_identity,0
+APOE Allele 1,"Human APOE*4 allele is located in the vicinity of 19q13.2 and is approximately 4 kb in length. This allele, which encodes apolipoprotein E4, plays a role in triglyceride metabolism. The allele is associated with increased occurrence of both Alzheimer disease and coronary artery disease.",lhSurfaceHoles,,0
+Right Sulcus Collat Transv Posterior Meancurv From Qdec,,rh_S_subparietal_thickness,,0
+Left Gyrus Cingul-Post-ventral Meancurv From Qdec,,lh_fusiform_area,,0
+Right Gyrus Temporal Middle Area From Qdec,,wm-lh-pericalcarine,,0
+Fifth Ventricle Volume,,5th-Ventricle,,1
+Left Gyrus Insular Short Thickness From Qdec,,lh_superiorparietal_meancurv,Left_superiorparietal_meancurv_from_Qdec_lh.aparc.meancurv_file,0
+Amount of Smoking,,lh_G_occipital_middle_area,Left_gyrus_occipital_middle_area_from_Qdec_lh.aparc.a2009s.area.stats_file,0
+Left Gyrus And Sulcus Occipital Inferior Volume From Qdec,,lh_G_and_S_occipital_inf_volume,Left_gyrus_and_sulcus_occipital_inferior_volume_from_Qdec_lh.aparc.a2009s.volume_file,1
+Trail Making Test (TMT) B,Huntington's Disease Cognitive Assessment Battery (HD-CAB) Trail Making Test-B key variable for composite score: Time to completion (sec) of TMT Part B with upper time limit of 240 seconds (reverse scored).,lllinggv,,0
+Left Gyrus Frontal Middle Meancurv From Qdec,,lh_G_front_middle_meancurv,,1
+White-matter-Right-supramarginal-from Qdec Wmparc,White-matter-Right-supramarginal-from_Qdec_wmparc.volume.stats_file,wm-rh-supramarginal,White-matter-Right-supramarginal-from_Qdec_wmparc.volume.stats_file,1
+Left Superior Temporal Gray Matter Volume,,lh_(superiortemporal)GrayVol,,1
+Right Gyrus Frontal Inf-Triangul Volume From Qdec,,rh_G_front_inf-Triangul_volume,Right_gyrus_frontal_inf-Triangul_volume_from_Qdec_rh.aparc.a2009s.volume_file,1
+Right Gyrus Rectus Meancurv From Qdec,,(S_calcarine)GrayVol,,0
+pTau in CSF,,rh_G_temp_sup-Plan_polar_thickness,Right_gyrus_temp_sup-Plan_polar_thickness_from_Qdec_rh.aparc.a2009s.thickness_file-FreeSurfer(v5.3),0
+Cortical White Matter Volume,,lh_S_intrapariet_and_P_trans_thickness,Left_sulcus_intrapariet_and_P_trans_thickness_from_Qdec_lh.aparc.a2009s.thickness_file,0
+Left Cortical Gray Matter Volume,,lh_G_oc-temp_lat-fusifor_meancurv,Left_gyrus_oc-temp_lat-fusifor_meancurv_from_Qdec_lh.aparc.a2009s.meancurv_file-FreeSurfer(v5.3),0
+Left Sulcus Intrapariet And P Trans Volume From Qdec,,lh_S_intrapariet_and_P_trans_volume,,1
+Right Gyrus Frontal Middle Volume From Qdec,,SHQCIGDAY,2a. How many cigarettes per day do you smoke?,0
+Left Gyrus Temp Sup-Lateral Thickness From Qdec,,lh_G_temp_sup-Lateral_thickness,,1
+Right Gyrus Parietal Sup Volume From Qdec,,rh_G_parietal_sup_volume,Right_gyrus_parietal_sup_volume_from_Qdec_rh.aparc.a2009s.volume_file,1
+Fourth Ventricle Volume,,_4th_Ventricle,,1
+Right Sulcus Circular Insula Sup Area From Qdec,,rh_S_circular_insula_sup_area,,1
+Right Posterior Cingulate Area,,rh_posteriorcingulate_area,Right_posteriorcingulate_area_from_Qdec_rh.aparc.area_file,1
+Left Gyrus Subcallosal Meancurv From Qdec,,lh_(fusiform)ThickAvg,,0
+Right Gyrus Subcallosal Volume From Qdec,,lh_G_precentral_thickness,Left_gyrus_precentral_thickness_from_Qdec_lh.aparc.a2009s.thickness_file-FreeSurfer(v5.3),0
+Biological Sex,The assemblage of physical properties or qualities by which male is distinguished from female; the physical difference between male and female; the distinguishing peculiarity of male or female.,(S_collat_transv_post)SurfArea,,0
+Left Sulcus Orbital-H Shaped Thickness From Qdec,,LeftCaudate,Volume of left caudate,0
+Left Gyrus And Sulcus Cingul-Mid-Ant Volume From Qdec,,lh_G_and_S_cingul-Mid-Ant_volume,Left_gyrus_and_sulcus_cingul-Mid-Ant_volume_from_Qdec_lh.aparc.a2009s.volume_file,1
+Left Gyrus Temporal Inferior Thickness From Qdec,,ST12SV,Subcortical Volume (aseg.stats) of LeftAmygdala,0
+Left Lat Fis-ant-Horizont Meancurv From Qdec,,lh_S_occipital_ant_thickness,Left_sulcus_occipital_anterior_thickness_from_Qdec_lh.aparc.a2009s.thickness_file,0
+Right Superior Temporal Area,,rh_(superiortemporal)SurfArea,,1
+tTau in CSF,"Is a quantification of total tau protein, a biomarker for Alzheimer's disease.",CSF TAU,Concentration of Tau,1
+Left Gyrus Precentral Thickness From Qdec,,rh_supramarginal_area,Right_supramarginal_area_from_Qdec_rh.aparc.area_file-FreeSurfer(v5.3),0
+Right Transverse Temporal Grey Matter Volume,,lh_G_and_S_paracentral_meancurv,Left_gyrus_and_sulcus_paracentral_meancurv_from_Qdec_lh.aparc.a2009s.meancurv_file-FreeSurfer(v5.3),0
+Mother AD,,llthapv,,0
+Left Entorhinal Area,,rh_G_occipital_sup_area,Right_gyrus_occipital_sup_area_from_Qdec_rh.aparc.a2009s.area.stats_file-FreeSurfer(v5.3),0
+Right SurfaceHoles From Qdec Aseg,,CC_Anterior,CC_Anterior_from_Qdec_aseg.volume.stats_file,0
+Right Sulcus Subparietal Area From Qdec,,LINSULAM,,0
+Right Supramarginal Gray Matter Volume,,rh_supramarginal_volume,,1
+Left Pars Opercularis Gray Matter Volume,,rh_superiorfrontal_thickness,Right_superiorfrontal_thickness_from_Qdec_rh.aparc.thickness.stats_file-FreeSurfer(v5.3),0
+White Matter HypoIntensities Volume,,lh_(paracentral)ThickAvg,,0
+Left Sulcus Circular Insula Sup Thickness From Qdec,,lh_S_circular_insula_sup_thickness,,1
+Left CA3 Volume,Left_CA3,rh_S_oc_sup_and_transversal_meancurv,Right_sulcus_oc_sup_and_transversal_meancurv_from_Qdec_rh.aparc.a2009s.meancurv_file,0
+Weight,The vertical force exerted by a mass as a result of gravity.,Vital Signs.Weight,Weight,1
+Anxiety,"A feeling of worry, nervousness, or unease about something with an uncertain outcome.",rh_precentral_meancurv,Right_precentral_meancurv_from_Qdec_rh.aparc.meancurv_file-FreeSurfer(v5.3),0
+Race,A geographic ancestral origin category that is assigned to a population group based mainly on physical characteristics that are thought to be distinct and inherent.,rh_G_front_middle_area,Right_gyrus_frontal_middle_area_from_Qdec_rh.aparc.a2009s.area.stats_file-FreeSurfer(v5.3),0
+Left Sulcus Temporal Transverse Area From Qdec,,COMPOSITE_SUVR,"Summary florbetapir cortical SUVR. Weighted florbetapir mean in frontal, cingulate, parietal and temporal regions.  Regions defined by Freesurfer; see Jagust lab PDF on LONI for details",0
+APOE,"Human APOE*4 allele is located in the vicinity of 19q13.2 and is approximately 4 kb in length. This allele, which encodes apolipoprotein E4, plays a role in triglyceride metabolism. The allele is associated with increased occurrence of both Alzheimer disease and coronary artery disease.","APGEN1, APGEN2",,1
+Right Supramarginal Mean Cortical Thickness,,BCSWEATN,,0
+Visit,The act of going to see some person or place or thing; it can cover a short or long period but refers to a non-permanent arrangement.,lh_(caudalanteriorcingulate)ThickAvg,,0
+CC Anterior From Qdec Aseg,,CC_Anterior,CC_Anterior_from_Qdec_aseg.volume.stats_file-FreeSurfer(v5.3),1
+Left Gyrus Cingul-Post-dorsal Volume From Qdec,,dotcount_total,,0
+Right Inferior Temporal Area,,rh_inferiortemporal_area,,1
+Right Sulcus Orbital-H Shaped Thickness From Qdec,,MOTHDIAG,Did this relative receive a diagnosis of Alzheimer's disease?,0
+Left Superior Parietal Gray Matter Volume,,rh_Lat_Fis-ant-Horizont_thickness,,0
+Right Superior Frontal Gray Matter Volume,,Left_Pallidum,,0
+Right Lat Fis-ant-Horizont Thickness From Qdec,,rh_Lat_Fis-ant-Horizont_thickness,Right_Lat_Fis-ant-Horizont_thickness_from_Qdec_rh.aparc.a2009s.thickness_file,1
+White-matter-left-lingual-from Qdec Wmparc,,lh_S_subparietal_area,Left_sulcus_subparietal_area_from_Qdec_lh.aparc.a2009s.area.stats_file,0
+High Blood Pressure,Blood pressure that is abnormally high.,lh_S_collat_transv_post_meancurv,,0
+Stroke,A sudden loss of neurological function secondary to hemorrhage or ischemia in the brain parenchyma due to a vascular event.,hach12,Hachinski_ischemic_score:_previous_stroke,1
+Right Gyrus Orbital Thickness From Qdec,,rh_parahippocampal_thickness,Right_parahippocampal_thickness_from_Qdec_rh.aparc.thickness.stats_file-FreeSurfer(v5.3),0
+Right Gyrus Frontal Inf-Orbital Thickness From Qdec,,(G_temp_sup-G_T_transv)SurfArea,,0
+Right Gyrus And Sulcus Subcentral Meancurv From Qdec,,rh_G_and_S_subcentral_meancurv,Right_gyrus_and_sulcus_subcentral_meancurv_from_Qdec_rh.aparc.a2009s.meancurv_file-FreeSurfer(v5.3),1
+Right Lingual Mean Cortical Thickness,,rh_G_and_S_cingul-Mid-Ant_area,,0
+Left Gyrus And Sulcus Subcentral Area From Qdec,,(G_and_S_subcentral)SurfArea,,1
+Left Gyrus Parietal Sup Thickness From Qdec,,(G_occipital_middle)SurfArea,,0
+Left Gyrus Oc-temp Med-Lingual Thickness From Qdec,,HMSCORE,TOTAL SCORE,0
+Right Frontalpole Meancurv From Qdec,,lh_G_front_middle_meancurv,,0
+Right Insula Area,,wm-rh-inferiortemporal,White-matter-Right-inferiortemporal-from_Qdec_wmparc.volume.stats_file-FreeSurfer(v5.3),0
+Left Sulcus Circular Insula Anterior Area From Qdec,,EstimatedTotalIntraCranialVol,,0
+Left Gyrus And Sulcus Frontomargin Meancurv From Qdec,,wm-lh-precentral,White-matter-left-precentral-from_Qdec_wmparc.volume.stats_file,0
+Diagnosis,"The investigation, analysis and recognition of the presence and nature of disease, condition, or injury from expressed signs and symptoms; also, the scientific determination of any kind; the concise results of such an investigation.",lh_S_pericallosal_area,,0
+Left Isthmuscingulate Volume From Qdec aparc,,(S_circular_insula_sup)MeanCurv,,0
+White-matter-Right-postcentral-from Qdec Wmparc,White-matter-Right-postcentral-from_Qdec_wmparc.volume.stats_file,wm-rh-postcentral,White-matter-Right-postcentral-from_Qdec_wmparc.volume.stats_file,1
+Vision,"Tests to assess the ability to focus on and discern objects, colors, depth, etc.",VISION,,1
+Left Precentral Mean Cortical Thickness,,lh_precentral_thickness,Left_precentral_thickness_from_Qdec_lh.aparc.thickness.stats_file-FreeSurfer(v5.3),1
+Right Sulcus Frontal Middle Area From Qdec,,rh_S_front_middle_area,Right_sulcus_frontal_middle_area_from_Qdec_rh.aparc.a2009s.area.stats_file,1
+Left Gyrus Temp Sup-Lateral Thickness From Qdec,,lh_G_temp_sup-G_T_transv_thickness,Left_gyrus_temp_sup-G_T_transv_thickness_from_Qdec_lh.aparc.a2009s.thickness_file,0
+Thyroid,,Medical History.Thyroid/Parathyroid Disease,Thyroid,1
+Left Entorhinal Gray Matter Volume,,rh_S_oc-temp_med_and_Lingual_meancurv,,0
+Left Sulcus Circular Insula Inferior Thickness From Qdec,,lh_S_circular_insula_inf_thickness,Left_sulcus_circular_insula_inferior_thickness_from_Qdec_lh.aparc.a2009s.thickness_file,1
+Neuropsychiatric Inventory–Questionnaire (NPI-Q),"A standardized rating scale originally developed and copyrighted by Jeffrey L. Cummings in 1994 as well as published in the journal Neurology (Cummings J.L., The Neuropsychiatric Inventory: Assessing psychopathology in dementia patients. Neurology May 1997 48:10S-16S) which is used to assess the severity of an individual's neuropathic behaviors based on a observations made by the patient's caregiver. This instrument contains 12 neuropsychiatric areas associated with dementia such as delusions, anxiety, motor disturbances, and appetite. Each behavior is evaluated only if the individual displays the behavior. For these behaviors, the frequency is assessed on a scale of 0-4 with 0 being occasionally and 4 being very frequently, the severity is assessed on a scale of 1-3 with 1 being mild and 3 being marked, and the level of distress each behavior inflicts on the caregiver is assessed on a scale of 0-5 with 0 being not distressing and 5 being extremely distressing.",NPISCORE,,1
+Right Precuneus Grey Matter Volume,,ST111CV,Cortical Volume (aparc.stats) of RightPrecuneus,1
+Right Molecular Layer HP Volume,Right_molecular_layer_HP,RSUPTEM,,0
+Left Gyrus Temp Sup-G T Transv Area From Qdec,,(S_central)GrayVol,,0
+Right Gyrus Insular Short Volume From Qdec,,rh_G_insular_short_volume,Right_gyrus_insular_short_volume_from_Qdec_rh.aparc.a2009s.volume_file,1
+Right Sulcus Parieto Occipital Area From Qdec,,wm-lh-precentral,,0
+Right Gyrus Frontal Inf-Orbital Volume From Qdec,,rh_G_front_inf-Orbital_volume,,1
+Left Parahippocampal Mean Cortical Thickness,,5th-Ventricle,,0
+Left Sulcus Oc-temp Med And Lingual Volume From Qdec,,BrainSegVol,,0
+Right Lateral Ventricle Volume,,lh_S_temporal_inf_meancurv,Left_sulcus_temporal_inferior_meancurv_from_Qdec_lh.aparc.a2009s.meancurv_file,0
+Left Gyrus Ins Lg And Sulcus Cent Ins Area From Qdec,,LeftCaudate,Volume of left caudate,0
+Left Middle Temporal Gray Matter Volume,,LMIDTEMP,,1
+Right Banks Of The Superior Temoral Sulcus Volume,,rh_caudalanteriorcingulate_volume,Right_caudalanteriorcingulate_volume_from_Qdec_rh.aparc.volume.stats_file,0
+Trail Making Test (TMT) B,Huntington's Disease Cognitive Assessment Battery (HD-CAB) Trail Making Test-B key variable for composite score: Time to completion (sec) of TMT Part B with upper time limit of 240 seconds (reverse scored).,lh_middletemporal_thickness,,0
+Right Postcentral Grey Matter Volume,,rh_postcentral_volume,Right_postcentral_volume_from_Qdec_rh.aparc.volume.stats_file,1
+Right Gyrus Frontal Inf-Triangul Thickness From Qdec,,rh_G_front_inf-Triangul_thickness,Right_gyrus_frontal_inf-Triangul_thickness_from_Qdec_rh.aparc.a2009s.thickness_file-FreeSurfer(v5.3),1
+Right Gyrus Frontal Inf-Orbital Meancurv From Qdec,,rh_G_front_inf-Orbital_meancurv,,1
+Left Gyrus Pariet Inf-Angular Area From Qdec,,MMSE_TOT,Mini_Mental_State_Examination_raw_score,0
+Left Lat Fis-ant-Vertical Area From Qdec,,lh_Lat_Fis-ant-Vertical_area,,1
+Left Lateraloccipital Mean Cortical Thickness,,lh_G_temporal_middle_meancurv,,0
+Left Superior Frontal Gray Matter Volume,,lh_G_oc-temp_lat-fusifor_volume,Left_gyrus_oc-temp_lat-fusifor_volume_from_Qdec_lh.aparc.a2009s.volume_file-FreeSurfer(v5.3),0
+Left Paracentral Mean Cortical Thickness,,rh_S_oc-temp_lat_volume,Right_sulcus_oc-temp_lat_volume_from_Qdec_rh.aparc.a2009s.volume_file,0
+Right Sulcus Circular Insula Anterior Meancurv From Qdec,,(S_circular_insula_ant)MeanCurv,,1
+Left Lat Fis-ant-Vertical Area From Qdec,,APOE,Apolipoprotein_e_genotype,0
+Biological Sex,The assemblage of physical properties or qualities by which male is distinguished from female; the physical difference between male and female; the distinguishing peculiarity of male or female.,(S_occipital_ant)SurfArea,,0
+Left Pole Occipital Volume From Qdec,,(Pole_occipital)GrayVol,,1
+Right Sulcus Temporal Inferior Meancurv From Qdec,,rh_S_temporal_inf_meancurv,Right_sulcus_temporal_inferior_meancurv_from_Qdec_rh.aparc.a2009s.meancurv_file-FreeSurfer(v5.3),1
+Left Entorhinal Area,,lh_G_front_middle_thickness,Left_gyrus_frontal_middle_thickness_from_Qdec_lh.aparc.a2009s.thickness_file,0
+Right Ventral Diencephalon Volume,,Right-VentralDC,Right-VentralDC_from_Qdec_aseg.volume.stats_file,1
+Left Gyrus Orbital Thickness From Qdec,,lh_G_orbital_thickness,,1
+Left Cuneus Meancurv From Qdec,,PXHEADEY,,0
+Smoking,,lh_S_postcentral_thickness,Left_sulcus_postcentral_thickness_from_Qdec_lh.aparc.a2009s.thickness_file-FreeSurfer(v5.3),0
+Left Gyrus And Sulcus Cingul-Mid-Post Meancurv From Qdec,,lramyg,,0
+Right Gyrus Ins Lg And Sulcus Cent Ins Volume From Qdec,,rh_G_Ins_lg_and_S_cent_ins_volume,Right_gyrus_Ins_lg_and_sulcus_cent_ins_volume_from_Qdec_rh.aparc.a2009s.volume_file,1
+Right Rostralanteriorcingulate Meancurv From Qdec,,rh_rostralanteriorcingulate_meancurv,,1
+Right Gyrus Frontal Sup Thickness From Qdec,,lh_G_front_inf-Opercular_area,Left_gyrus_frontal_inf-Opercular_area_from_Qdec_lh.aparc.a2009s.area.stats_file,0
+Left Superior Parietal Gray Matter Volume,,lh_superiorparietal_volume,Left_superiorparietal_volume_from_Qdec_lh.aparc.volume.stats_file,1
+Left Pallidum Volume,,LeftPallidum,Volume of left pallidum,1
+Right Accumbens Area Volume,,Right_Accumbens_area,,1
+Left Lateralorbitofrontal Meancurv From Qdec,,lh_lateralorbitofrontal_meancurv,Left_lateralorbitofrontal_meancurv_from_Qdec_lh.aparc.meancurv_file-FreeSurfer(v5.3),1
+Alcohol,"Consumption of liquids containing ethanol, including the behaviors associated with drinking the alcohol.",FHQSIBAD,Alzheimer's Disease,0
+Right Gyrus Frontal Inf-Orbital Volume From Qdec,,rh_G_front_inf-Orbital_volume,Right_gyrus_frontal_inf-Orbital_volume_from_Qdec_rh.aparc.a2009s.volume_file-FreeSurfer(v5.3),1
+Right Sulcus Orbital Lateral Volume From Qdec,,rh_S_orbital_lateral_volume,Right_sulcus_orbital_lateral_volume_from_Qdec_rh.aparc.a2009s.volume_file,1
+Left Pole Occipital Area From Qdec,,lh_Pole_occipital_area,Left_Pole_occipital_area_from_Qdec_lh.aparc.a2009s.area.stats_file-FreeSurfer(v5.3),1
+Right Caudalmiddlefrontal Meancurv From Qdec,,rh_caudalmiddlefrontal_meancurv,Right_caudalmiddlefrontal_meancurv_from_Qdec_rh.aparc.meancurv_file-FreeSurfer(v5.3),1
+Left Gyrus Precentral Area From Qdec,,lh_S_suborbital_area,Left_sulcus_suborbital_area_from_Qdec_lh.aparc.a2009s.area.stats_file,0
+Left Gyrus Cingul-Post-ventral Volume From Qdec,,(Lat_Fis-ant-Vertical)ThickAvg,,0
+Left Sulcus Suborbital Meancurv From Qdec,,lh_S_suborbital_meancurv,Left_sulcus_suborbital_meancurv_from_Qdec_lh.aparc.a2009s.meancurv_file,1
+Alcohol,"Consumption of liquids containing ethanol, including the behaviors associated with drinking the alcohol.",drinker,,1
+Left Sulcus Suborbital Meancurv From Qdec,,rh_S_occipital_ant_thickness,Right_sulcus_occipital_anterior_thickness_from_Qdec_rh.aparc.a2009s.thickness_file,0
+Right Sulcus Frontal Sup Area From Qdec,,rh_S_front_sup_area,,1
+Right Superior Temporal Mean Cortical Thickness,,RSUPTEMM,,1
+Left Frontal Pole Gray Matter Volume,,lh_S_oc_sup_and_transversal_meancurv,Left_sulcus_oc_sup_and_transversal_meancurv_from_Qdec_lh.aparc.a2009s.meancurv_file,0
+Left Gyrus Temp Sup-G T Transv Volume From Qdec,,lh_G_temp_sup-G_T_transv_volume,Left_gyrus_temp_sup-G_T_transv_volume_from_Qdec_lh.aparc.a2009s.volume_file-FreeSurfer(v5.3),1
+Left Sulcus Oc Sup And Transversal Meancurv From Qdec,,(non-WM-hypointensities)Volume_mm3,,0
+White-matter-left-lingual-from Qdec Wmparc,,wm-lh-lingual,White-matter-left-lingual-from_Qdec_wmparc.volume.stats_file,1
+Right Gyrus Temp Sup-Lateral Volume From Qdec,,(G_Ins_lg_and_S_cent_ins)SurfArea,,0
+Right Thalamus Volume,,rh_S_temporal_transverse_volume,,0
+Left Gyrus Precuneus Volume From Qdec,,PET-ROI-temporal_right,PET-ROI-temporal_right,0
+Left Gyrus Precentral Volume From Qdec,,llprgv,,1
+White-matter-left-fusiform-from Qdec Wmparc,,wm-lh-fusiform,,1
+Left Gyrus Frontal Sup Volume From Qdec,,BrainSegVol,BrainSegVol_from_Qdec_aseg.volume.stats_file,0
+Right Superior Parietal Gray Matter Volume,,rh_superiorparietal_volume,,1
+Left Entorightinal Volume From Qdec aparc,,(S_front_sup)SurfArea,,0
+Right Lateraloccipital Mean Cortical Thickness,,rh_lateraloccipital_thickness,Right_lateraloccipital_thickness_from_Qdec_rh.aparc.thickness.stats_file-FreeSurfer(v5.3),1
+Left Gyrus Temp Sup-Plan Tempo Area From Qdec,,lh_Pole_temporal_thickness,,0
+Left Sulcus Collat Transv Posterior Volume From Qdec,,lh_S_collat_transv_post_volume,Left_sulcus_collat_transv_posterior_volume_from_Qdec_lh.aparc.a2009s.volume_file-FreeSurfer(v5.3),1
+Right Gyrus Ins Lg And Sulcus Cent Ins Area From Qdec,,lh_parsorbitalis_meancurv,Left_parsorbitalis_meancurv_from_Qdec_lh.aparc.meancurv_file,0
+Left Transverse Temporal Mean Cortical Thickness,,lh_S_oc-temp_lat_thickness,Left_sulcus_oc-temp_lat_thickness_from_Qdec_lh.aparc.a2009s.thickness_file,0
+Right Lateraloccipital Mean Cortical Thickness,,ST94TA,Thickness Average (aparc.stats) of RightLateralOccipital,1
+Right Medialorbitofrontal Area,,rh_(medialorbitofrontal)SurfArea,,1
+Right Gyrus Oc-temp Lat-fusifor Area From Qdec,,lh_entorhinal_area,,0
+Race,A geographic ancestral origin category that is assigned to a population group based mainly on physical characteristics that are thought to be distinct and inherent.,rh_S_postcentral_meancurv,Right_sulcus_postcentral_meancurv_from_Qdec_rh.aparc.a2009s.meancurv_file-FreeSurfer(v5.3),0
+Right Sulcus Postcentral Area From Qdec,,Interleukin-10 (IL-10) (pg/mL),,0
+Right Sulcus Intrapariet And P Trans Volume From Qdec,,(S_intrapariet_and_P_trans)GrayVol,,1
+Right Paracentral Grey Matter Volume,,RPARCEN,,1
+Left Gyrus Cingul-Post-ventral Volume From Qdec,,Father_Has_Alzheimer's_Disease,Father_has_Alzheimer's_Disease,0
+Right Gyrus Pariet Inf-Angular Area From Qdec,,rh_G_pariet_inf-Angular_area,Right_gyrus_pariet_inf-Angular_area_from_Qdec_rh.aparc.a2009s.area.stats_file,1
+Left Medial Orbitofrontal Mean Cortical Thickness,,rh_superiortemporal_thickness,Right_superiortemporal_thickness_from_Qdec_rh.aparc.thickness.stats_file-FreeSurfer(v5.3),0
+Right Gyrus Occipital Sup Area From Qdec,,rh_G_occipital_sup_area,Right_gyrus_occipital_sup_area_from_Qdec_rh.aparc.a2009s.area.stats_file-FreeSurfer(v5.3),1
+Left Lateral Orbitofrontal Cortical Mean,,(S_occipital_ant)ThickAvg,,0
+Left Sulcus Circular Insula Anterior Thickness From Qdec,,lh_S_circular_insula_ant_thickness,,1
+Right Gyrus Occipital Sup Volume From Qdec,,rh_G_pariet_inf-Angular_meancurv,Right_gyrus_pariet_inf-Angular_meancurv_from_Qdec_rh.aparc.a2009s.meancurv_file,0
+Right Gyrus Cuneus Thickness From Qdec,,rh_(inferiortemporal)GrayVol,,0
+Right Sulcus Orbital-H Shaped Area From Qdec,,rh_S_orbital-H_Shaped_area,Right_sulcus_orbital-H_Shaped_area_from_Qdec_rh.aparc.a2009s.area.stats_file-FreeSurfer(v5.3),1
+APOE Allele 1,"Human APOE*4 allele is located in the vicinity of 19q13.2 and is approximately 4 kb in length. This allele, which encodes apolipoprotein E4, plays a role in triglyceride metabolism. The allele is associated with increased occurrence of both Alzheimer disease and coronary artery disease.",rh_(inferiortemporal)SurfArea,,0
+Left Gyrus Temp Sup-G T Transv Volume From Qdec,,lh_G_oc-temp_med-Parahip_volume,,0
+Right Fusiform Gray Matter Volume,,rh_S_temporal_transverse_volume,Right_sulcus_temporal_transverse_volume_from_Qdec_rh.aparc.a2009s.volume_file-FreeSurfer(v5.3),0
+Left Insula Volume From Qdec aparc,,lh_insula_volume,Left_insula_volume_from_Qdec_lh.aparc.volume.stats_file,1
+Right Sulcus Precentral-inf-part Volume From Qdec,,rh_S_precentral-inf-part_volume,Right_sulcus_precentral-inf-part_volume_from_Qdec_rh.aparc.a2009s.volume_file-FreeSurfer(v5.3),1
+Left Lateral Orbitofrontal Cortical Mean,,lh_lateralorbitofrontal_volume,Left_lateralorbitofrontal_volume_from_Qdec_lh.aparc.volume.stats_file,1
+Left-UnsegmentedWhiteMatter-from Qdec Wmparc,Left-UnsegmentedWhiteMatter-from_Qdec_wmparc.volume.stats_file,Left-UnsegmentedWhiteMatter,Left-UnsegmentedWhiteMatter-from_Qdec_wmparc.volume.stats_file-FreeSurfer(v5.3),1
+Right Sulcus Oc Middle And Lunatus Volume From Qdec,,(S_oc_middle_and_Lunatus)GrayVol,,1
+Left Inferiorparietal Meancurv From Qdec,,lh_inferiorparietal_meancurv,Left_inferiorparietal_meancurv_from_Qdec_lh.aparc.meancurv_file-FreeSurfer(v5.3),1
+Left Frontal Pole Gray Matter Volume,,wm-lh-parsopercularis,White-matter-left-parsopercularis-from_Qdec_wmparc.volume.stats_file,0
+Left Caudal Middle Frontal Mean Cortical Thickness,,lh_(caudalmiddlefrontal)ThickAvg,,1
+Left Sulcus Interm Prim-Jensen Volume From Qdec,,rh_bankssts_meancurv,Right_banks_of_the_superior_temoral_sulcus_meancurv_from_Qdec_rh.aparc.meancurv_file,0
+Right Transverse Temporal Mean Cortical Thickness,,left_parasubiculum,Left_parasubiculum,0
+Left Caudal Anterior Cingulate Cortical Mean,,lh_caudalanteriorcingulate_volume,Left_caudalanteriorcingulate_volume_from_Qdec_lh.aparc.volume.stats_file-FreeSurfer(v5.3),1
+Right Sulcus Postcentral Meancurv From Qdec,,lh_S_precentral-sup-part_meancurv,,0
+Left-vessel From Qdec,,Left-vessel,Left-vessel_from_Qdec_aseg.volume.stats_file-FreeSurfer(v5.3),1
+Left Sulcus Interm Prim-Jensen Area From Qdec,,lh_G_front_sup_thickness,Left_gyrus_frontal_sup_thickness_from_Qdec_lh.aparc.a2009s.thickness_file,0
+Right Superior Parietal Area,,ST116SA,Surface Area (aparc.stats) of RightSuperiorParietal,1
+Left Gyrus Precentral Volume From Qdec,,CATANIMSC,,0
+Mother Dementia,,PET-ROI-temporal_right,,0
+Right Sulcus Calcarine Meancurv From Qdec,,right_Hippocampal_tail,Right_Hippocampal_tail,0
+Right Gyrus Frontal Sup Area From Qdec,,phys5itemsum,,0
+Right Gyrus Frontal Inf-Opercular Volume From Qdec,,lh_G_temp_sup-Plan_polar_volume,Left_gyrus_temp_sup-Plan_polar_volume_from_Qdec_lh.aparc.a2009s.volume_file-FreeSurfer(v5.3),0
+Right Superior Parietal Gray Matter Volume,,RTRTEMM,,0
+Left Insula Volume From Qdec aparc,,lh_(insula)GrayVol,,1
+Quit Smoking,,QUITSMOK,,1
+Left Gyrus Frontal Middle Meancurv From Qdec,,lh_G_cingul-Post-dorsal_meancurv,Left_gyrus_cingul-Post-dorsal_meancurv_from_Qdec_lh.aparc.a2009s.meancurv_file-FreeSurfer(v5.3),0
+Participant ID,An alphanumeric identifier assigned to a specific patient.,rh_G_and_S_cingul-Ant_meancurv,,0
+Right Sulcus Precentral-sup-part Thickness From Qdec,,lh_G_rectus_volume,,0
+Right Paracentral Area,,ST102TA,Thickness Average (aparc.stats) of RightParacentral,1
+Left Gyrus And Sulcus Frontomargin Area From Qdec,,lh_G_and_S_frontomargin_area,,1
+Right Gyrus And Sulcus Occipital Inferior Meancurv From Qdec,,rh_S_central_area,Right_sulcus_central_area_from_Qdec_rh.aparc.a2009s.area.stats_file,0
+Left Hippocampus Volume,,rh_Pole_occipital_meancurv,Right_Pole_occipital_meancurv_from_Qdec_rh.aparc.a2009s.meancurv_file-FreeSurfer(v5.3),0
+White-matter-left-parstriangularis-from Qdec Wmparc,,TRAASCOR,,0
+Right Sulcus Subparietal Area From Qdec,,rh_S_subparietal_area,,1
+Left Pole Temporal Area From Qdec,,rh_S_suborbital_thickness,Right_sulcus_suborbital_thickness_from_Qdec_rh.aparc.a2009s.thickness_file,0
+Left Sulcus Circular Insula Anterior Thickness From Qdec,,lh_S_circular_insula_ant_thickness,Left_sulcus_circular_insula_anterior_thickness_from_Qdec_lh.aparc.a2009s.thickness_file-FreeSurfer(v5.3),1
+Country of Residence,The country in which an individual permanently resides.,Country_Of_Residence,,1
+BrainSegVol From Qdec Aseg,,wm-lh-parstriangularis,White-matter-left-parstriangularis-from_Qdec_wmparc.volume.stats_file-FreeSurfer(v5.3),0
+Right Parahippocampal Area,,rh_isthmuscingulate_area,Right_isthmuscingulate_area_from_Qdec_rh.aparc.area_file-FreeSurfer(v5.3),0
+Right Gyrus Occipital Sup Thickness From Qdec,,rh_G_occipital_sup_thickness,Right_gyrus_occipital_sup_thickness_from_Qdec_rh.aparc.a2009s.thickness_file-FreeSurfer(v5.3),1
+Right Sulcus Orbital-H Shaped Volume From Qdec,,wm-lh-caudalmiddlefrontal,White-matter-left-caudalmiddlefrontal-from_Qdec_wmparc.volume.stats_file,0
+Right Caudalmiddlefrontal Volume From Qdec aparc,,rh_caudalmiddlefrontal_volume,,1
+White-matter-Right-lateraloccipital-from Qdec Wmparc,,wm-rh-lateraloccipital,,1
+Right Gyrus Temporal Middle Meancurv From Qdec,,rh_G_temporal_middle_meancurv,,1
+Right Fusiform Area,,lh_G_orbital_area,Left_gyrus_orbital_area_from_Qdec_lh.aparc.a2009s.area.stats_file,0
+Right Supramarginal Mean Cortical Thickness,,rh_supramarginal_thickness,,1
+Right Gyrus Cuneus Volume From Qdec,,rh_G_cuneus_volume,,1
+Left Sulcus Orbital-H Shaped Volume From Qdec,,(S_front_middle)ThickAvg,,0
+Right Sulcus Suborbital Meancurv From Qdec,,rh_S_suborbital_meancurv,Right_sulcus_suborbital_meancurv_from_Qdec_rh.aparc.a2009s.meancurv_file,1
+Left Gyrus And Sulcus Paracentral Meancurv From Qdec,,lh_parahippocampal_volume,Left_parahippocampal_volume_from_Qdec_lh.aparc.volume.stats_file,0
+SurfaceHoles From Qdec Aseg,,SurfaceHoles,SurfaceHoles_from_Qdec_aseg.volume.stats_file-FreeSurfer(v5.3),1
+Left Precentral Mean Cortical Thickness,,stroke_bl,,0
+High Blood Pressure,Blood pressure that is abnormally high.,SNAP,,0
+Left Subiculum Volume,Left_subiculum,left_subiculum,Left_subiculum,1
+Left Medial Orbitofrontal Mean Cortical Thickness,,lh_medialorbitofrontal_thickness,,1
+Right Parstriangularis Meancurv From Qdec,,lh_caudalanteriorcingulate_area,Left_caudalanteriorcingulate_area_from_Qdec_lh.aparc.area_file-FreeSurfer(v5.3),0
+Biological Sex,The assemblage of physical properties or qualities by which male is distinguished from female; the physical difference between male and female; the distinguishing peculiarity of male or female.,rh_G_cingul-Post-ventral_meancurv,Right_gyrus_cingul-Post-ventral_meancurv_from_Qdec_rh.aparc.a2009s.meancurv_file-FreeSurfer(v5.3),0
+tTau in CSF,"Is a quantification of total tau protein, a biomarker for Alzheimer's disease.",TAU,,1
+Right Sulcus Occipital Anterior Area From Qdec,,(S_occipital_ant)SurfArea,,1
+Left Lateraloccipital Mean Cortical Thickness,,lh_lateraloccipital_thickness,Left_lateraloccipital_thickness_from_Qdec_lh.aparc.thickness.stats_file,1
+Left Gyrus Ins Lg And Sulcus Cent Ins Area From Qdec,,lh_G_Ins_lg_and_S_cent_ins_area,Left_gyrus_Ins_lg_and_sulcus_cent_ins_area_from_Qdec_lh.aparc.a2009s.area.stats_file-FreeSurfer(v5.3),1
+Left Gyrus Oc-temp Med-Lingual Thickness From Qdec,,lh_G_oc-temp_med-Lingual_thickness,Left_gyrus_oc-temp_med-Lingual_thickness_from_Qdec_lh.aparc.a2009s.thickness_file-FreeSurfer(v5.3),1
+Left Caudalanteriorcingulate Meancurv From Qdec,,left_Whole_hippocampus,,0
+PET-hypoperfusion: angular right,,rh_G_rectus_meancurv,Right_gyrus_rectus_meancurv_from_Qdec_rh.aparc.a2009s.meancurv_file-FreeSurfer(v5.3),0
+Clinical Dementia Rating (CDR),"A standardized rating scale developed by John C. Morris in 1997 to evaluate the severity of an individual's cognitive impairment. This instrument contains 6 areas which include memory, orientation, judgment and problem solving, community affairs, home and hobbies, and personal care. Each item is rated on a scale from 0 to 3 with 0 being none and 3 being severe.",Left-UnsegmentedWhiteMatter,Left-UnsegmentedWhiteMatter-from_Qdec_wmparc.volume.stats_file,0
+White-matter-left-frontalpole-from Qdec Wmparc,,rh_medialorbitofrontal_thickness,Right_medialorbitofrontal_thickness_from_Qdec_rh.aparc.thickness.stats_file-FreeSurfer(v5.3),0
+Right Rostralanteriorcingulate Meancurv From Qdec,,CC_Posterior,CC_Posterior_from_Qdec_aseg.volume.stats_file-FreeSurfer(v5.3),0
+Digit Span Test (Backward),A subtest of the Wechsler Adult Intelligence Scale - Fourth Edition. The subject is read a sequence of numbers and recalls the numbers in reverse order.,cts_db,,1
+Right Pericalcarine Mean Cortical Thickness,,Best_Job_Held,,0
+Left Precuneus Meancurv From Qdec,,wm-rh-lingual,,0
+Left Gyrus Ins Lg And Sulcus Cent Ins Thickness From Qdec,,(G_Ins_lg_and_S_cent_ins)ThickAvg,,1
+Clinical Dementia Rating Scale Sum of Boxes (CDRSB),Clinical Dementia Rating (CDR) Sum of Boxes.,CDRSUM,,1
+Right Gyrus Frontal Inf-Triangul Meancurv From Qdec,,rh_G_front_inf-Triangul_meancurv,,1
+Left Choroid Plexus Volume,,Left_choroid_plexus,,1
+Right Pars Opercularis Mean Cortical Thickness,,rh_(parsopercularis)ThickAvg,,1
+Optic Chiasm Volume,,(Optic-Chiasm)Volume_mm3,,1
+Right Sulcus Central Volume From Qdec,,rh_S_central_volume,Right_sulcus_central_volume_from_Qdec_rh.aparc.a2009s.volume_file-FreeSurfer(v5.3),1
+Right Cortical White Matter Volume From Qdec,Right cortical white matter volume,lh_S_postcentral_area,,0
+Right Gyrus Precentral Thickness From Qdec,,(G_precentral)ThickAvg,,1
+Left Rostral Anterior Cingulate Area,,lh_rostralanteriorcingulate_area,,1
+Left Pole Temporal Volume From Qdec,,lh_Pole_temporal_volume,Left_Pole_temporal_volume_from_Qdec_lh.aparc.a2009s.volume_file-FreeSurfer(v5.3),1
+Right Paracentral Area,,rh_paracentral_area,Right_paracentral_area_from_Qdec_rh.aparc.area_file,1
+Right Sulcus Pericallosal Area From Qdec,,lh_S_subparietal_meancurv,,0
+Right Gyrus And Sulcus Transv Frontopol Meancurv From Qdec,,(G_and_S_transv_frontopol)MeanCurv,,1
+Right Gyrus Frontal Sup Volume From Qdec,,rh_G_front_sup_volume,Right_gyrus_frontal_sup_volume_from_Qdec_rh.aparc.a2009s.volume_file,1
+Right Sulcus Central Area From Qdec,,(S_central)SurfArea,,1
+Right Middletemporal Meancurv From Qdec,,ST129CV,Cortical Volume (aparc.stats) of LeftInsula,0
+White Matter HypoIntensities Volume,,ST128SV,Subcortical Volume (aseg.stats) of WMHypoIntensities,1
+Left Lat Fis-post Thickness From Qdec,,rh_parahippocampal_meancurv,Right_parahippocampal_meancurv_from_Qdec_rh.aparc.meancurv_file,0
+Right Rostral Anterior Cingulate Gray Matter Volume,,ST113CV,Cortical Volume (aparc.stats) of RightRostralAnteriorCingulate,1
+Right Gyrus Cingul-Post-dorsal Thickness From Qdec,,(G_subcallosal)MeanCurv,,0
+Left Sulcus Orbital-H Shaped Meancurv From Qdec,,lh_S_orbital-H_Shaped_meancurv,,1
+Left Gyrus Parietal Sup Volume From Qdec,,lh_G_parietal_sup_volume,,1
+Left Gyrus And Sulcus Frontomargin Volume From Qdec,,(G_and_S_frontomargin)GrayVol,,1
+Right Superiorfrontal Mean Cortical Thickness,,rh_isthmuscingulate_area,,0
+Left Sulcus Temporal Transverse Meancurv From Qdec,,lh_S_temporal_transverse_meancurv,,1
+Left Fusiform Area,,ST26SA,Surface Area (aparc.stats) of LeftFusiform,1
+Left Sulcus Circular Insula Inferior Meancurv From Qdec,,lh_S_circular_insula_inf_meancurv,Left_sulcus_circular_insula_inferior_meancurv_from_Qdec_lh.aparc.a2009s.meancurv_file-FreeSurfer(v5.3),1
+Left Gyrus And Sulcus Frontomargin Thickness From Qdec,,lh_G_and_S_frontomargin_thickness,Left_gyrus_and_sulcus_frontomargin_thickness_from_Qdec_lh.aparc.a2009s.thickness_file,1
+Left Gyrus Temp Sup-G T Transv Meancurv From Qdec,,rh_S_cingul-Marginalis_volume,,0
+Right Sulcus Collat Transv Posterior Volume From Qdec,,lh_G_and_S_paracentral_meancurv,Left_gyrus_and_sulcus_paracentral_meancurv_from_Qdec_lh.aparc.a2009s.meancurv_file-FreeSurfer(v5.3),0
+Right Pericalcarine Mean Cortical Thickness,,RPERCALM,,1
+Left Gyrus And Sulcus Transv Frontopol Volume From Qdec,,lh_G_and_S_transv_frontopol_volume,,1
+Right Postcentral Mean Cortical Thickness,,rh_G_temp_sup-Lateral_meancurv,Right_gyrus_temp_sup-Lateral_meancurv_from_Qdec_rh.aparc.a2009s.meancurv_file-FreeSurfer(v5.3),0
+Right Sulcus Frontal Middle Thickness From Qdec,,rh_S_front_middle_thickness,Right_sulcus_frontal_middle_thickness_from_Qdec_rh.aparc.a2009s.thickness_file-FreeSurfer(v5.3),1
+Right Cerebellum White Matter Volume,,RightCerebellarWhiteMatter,Volume of right cerebellar white matter,1
+Right Inferiortemporal Volume From Qdec aparc,,phys5itemsum,,0
+Vomiting,Forceful ejection of the contents of the stomach through the mouth.,AXVOMIT,2. Vomiting,1
+Right Gyrus And Sulcus Cingul-Ant Meancurv From Qdec,,lh_bankssts_thickness,Left_banks_of_the_superior_temoral_sulcus_thickness_from_Qdec_lh.aparc.thickness.stats_file,0
+Right Medial Orbitofrontal Mean Cortical Thickness,,rh_S_precentral-sup-part_meancurv,Right_sulcus_precentral-sup-part_meancurv_from_Qdec_rh.aparc.a2009s.meancurv_file,0
+Right Supramarginal Meancurv From Qdec,,rh_superiorparietal_area,Right_superiorparietal_area_from_Qdec_rh.aparc.area_file,0
+Left Sulcus Cingul-Marginalis Area From Qdec,,lh_S_cingul-Marginalis_area,Left_sulcus_cingul-Marginalis_area_from_Qdec_lh.aparc.a2009s.area.stats_file,1
+Left Gyrus And Sulcus Cingul-Mid-Post Area From Qdec,,PTEDUCAT,,0
+Right Sulcus Oc Sup And Transversal Thickness From Qdec,,(S_oc_sup_and_transversal)ThickAvg,,1
+Right Isthmuscingulate Meancurv From Qdec,,rh_isthmuscingulate_meancurv,Right_isthmuscingulate_meancurv_from_Qdec_rh.aparc.meancurv_file-FreeSurfer(v5.3),1
+Left Inferiortemporal Volume From Qdec aparc,,lh_inferiortemporal_volume,,1
+Right Gyrus Rectus Volume From Qdec,,ST94CV,Cortical Volume (aparc.stats) of RightLateralOccipital,0
+Left Superiorparietal Mean Cortical Thickness,,RSUPPARM,,0
+Left Paracentral Mean Cortical Thickness,,LPARCENM,,1
+Education,The number of education years that a subject has competed.,PTEDUCAT,5. Participant Education,1
+Left Paracentral Area,,lh_paracentral_area,Left_paracentral_area_from_Qdec_lh.aparc.area_file-FreeSurfer(v5.3),1
+MaskVol From Qdec Aseg,,rh_rostralanteriorcingulate_meancurv,,0
+Right Gyrus Frontal Inf-Triangul Thickness From Qdec,,(G_front_inf-Triangul)ThickAvg,,1
+Left Sulcus Temporal Sup Volume From Qdec,,siga,Risk_factors-Smoke:_how_many_cigarettes_you_smoke_or_smoked_in_a_day,0
+Right Paracentral Meancurv From Qdec,,rh_paracentral_meancurv,Right_paracentral_meancurv_from_Qdec_rh.aparc.meancurv_file,1
+Left Sulcus Central Volume From Qdec,,Weight,Weight,0
+Fifth Ventricle Volume,,rh_G_orbital_area,,0
+Right Caudalanteriorcingulate Meancurv From Qdec,,rh_caudalanteriorcingulate_meancurv,,1
+Left Gyrus Pariet Inf-Angular Meancurv From Qdec,,lh_G_pariet_inf-Angular_meancurv,Left_gyrus_pariet_inf-Angular_meancurv_from_Qdec_lh.aparc.a2009s.meancurv_file-FreeSurfer(v5.3),1
+Right Rostral Middle Frontal Mean Cortical Thickness,,lh_S_precentral-inf-part_meancurv,Left_sulcus_precentral-inf-part_meancurv_from_Qdec_lh.aparc.a2009s.meancurv_file-FreeSurfer(v5.3),0
+Right Sulcus Collat Transv Anterior Meancurv From Qdec,,(S_collat_transv_ant)MeanCurv,,1
+Right Lingual Mean Cortical Thickness,,rh_lingual_thickness,Right_lingual_thickness_from_Qdec_rh.aparc.thickness.stats_file-FreeSurfer(v5.3),1
+tTau in CSF,"Is a quantification of total tau protein, a biomarker for Alzheimer's disease.",rh_S_circular_insula_ant_thickness,,0
+Left Gyrus Pariet Inf-Angular Meancurv From Qdec,,rh_(insula)SurfArea,,0
+Right Rostral Middle Frontal Mean Cortical Thickness,,rh_G_temp_sup-Lateral_area,Right_gyrus_temp_sup-Lateral_area_from_Qdec_rh.aparc.a2009s.area.stats_file,0
+Right Sulcus Orbital Med-olfact Thickness From Qdec,,(S_orbital_med-olfact)ThickAvg,,1
+Left Fimbria Volume,Left_fimbria,(G_and_S_cingul-Ant)SurfArea,,0
+Left Caudate Volume,,Left_Caudate,,1
+Left Precuneus Mean Cortical Thickness,,lh_G_and_S_cingul-Ant_thickness,,0
+Left Sulcus Pericallosal Area From Qdec,,(S_subparietal)GrayVol,,0
+CC Posterior From Qdec Aseg,,CC_Posterior,CC_Posterior_from_Qdec_aseg.volume.stats_file-FreeSurfer(v5.3),1
+Left Gyrus Cingul-Post-ventral Meancurv From Qdec,,lh_G_cingul-Post-ventral_meancurv,,1
+Left Precentral Area,,lh_precentral_area,Left_precentral_area_from_Qdec_lh.aparc.area_file,1
+White-matter-left-transversetemporal-from Qdec Wmparc,,rh_S_front_middle_thickness,Right_sulcus_frontal_middle_thickness_from_Qdec_rh.aparc.a2009s.thickness_file,0
+Right Superior Temporal Mean Cortical Thickness,,wm-lh-cuneus,White-matter-left-cuneus-from_Qdec_wmparc.volume.stats_file,0
+Left Caudal Middle Frontal Mean Cortical Thickness,,lh_entorhinal_volume,Left_entorightinal_volume_from_Qdec_lh.aparc.volume.stats_file-FreeSurfer(v5.3),0
+Right Sulcus Postcentral Thickness From Qdec,,lh_G_cingul-Post-ventral_thickness,Left_gyrus_cingul-Post-ventral_thickness_from_Qdec_lh.aparc.a2009s.thickness_file-FreeSurfer(v5.3),0
+Right Inferior Parietal Gray Matter Volume,,Medical History.Visual Defects,Visual Defects,0
+Right Sulcus Precentral-inf-part Volume From Qdec,,rh_S_precentral-inf-part_volume,Right_sulcus_precentral-inf-part_volume_from_Qdec_rh.aparc.a2009s.volume_file,1
+Right Gyrus Orbital Volume From Qdec,,rh_G_orbital_volume,Right_gyrus_orbital_volume_from_Qdec_rh.aparc.a2009s.volume_file-FreeSurfer(v5.3),1
+tTau in CSF,"Is a quantification of total tau protein, a biomarker for Alzheimer's disease.",TAU,TAU,1
+Left Rostral Middle Frontal Mean Cortical Thickness,,lh_rostralmiddlefrontal_thickness,Left_rostralmiddlefrontal_thickness_from_Qdec_lh.aparc.thickness.stats_file-FreeSurfer(v5.3),1
+Right Pallidum Volume,,lh_S_precentral-sup-part_meancurv,Left_sulcus_precentral-sup-part_meancurv_from_Qdec_lh.aparc.a2009s.meancurv_file-FreeSurfer(v5.3),0
+Right Gyrus Parietal Sup Volume From Qdec,,lh_G_insular_short_area,,0
+Right Gyrus Orbital Meancurv From Qdec,,PETGLOB,PET-hypoperfusion:-global,0
+Right Pars Opercularis Mean Cortical Thickness,,lhCortexVol,LeftCortexVol_from_Qdec_aseg.volume.stats_file-FreeSurfer(v5.3),0
+MaskVol From Qdec Aseg,,MaskVol,MaskVol_from_Qdec_aseg.volume.stats_file,1
+Right Temporal Pole Gray Matter Volume,,rh_(temporalpole)GrayVol,,1
+Right Paracentral Meancurv From Qdec,,rh_paracentral_meancurv,,1
+Left Caudalmiddlefrontal Meancurv From Qdec,,lh_caudalmiddlefrontal_meancurv,Left_caudalmiddlefrontal_meancurv_from_Qdec_lh.aparc.meancurv_file-FreeSurfer(v5.3),1
+Right Sulcus Occipital Anterior Thickness From Qdec,,rh_(superiorparietal)SurfArea,,0
+Right Sulcus Frontal Inferior Area From Qdec,,lh_medialorbitofrontal_thickness,,0
+Left Lateral Orbitofrontal Cortical Mean,,(S_orbital-H_Shaped)GrayVol,,0
+Right Amygdala Volume,,lh_S_postcentral_area,Left_sulcus_postcentral_area_from_Qdec_lh.aparc.a2009s.area.stats_file-FreeSurfer(v5.3),0
+Left Sulcus Pericallosal Thickness From Qdec,,lh_(temporalpole)ThickAvg,,0
+Right Transverse Temporal Mean Cortical Thickness,,phys5itemsum,,0
+Left Caudal Anterior Cingulate Cortical Mean,,ST14CV,Cortical Volume (aparc.stats) of LeftCaudalAnteriorCingulate,1
+Right Parasubiculum Volume,Right_parasubiculum,lh_(supramarginal)SurfArea,,0
+Right Cerebellum White Matter Volume,,wm-rh-precentral,White-matter-Right-precentral-from_Qdec_wmparc.volume.stats_file,0
+Left Presubiculum Volume,Left_presubiculum,CSFPTAU,,0
+Left Gyrus Precentral Meancurv From Qdec,,LeftPutamen,Volume of left putamen,0
+Depression,A melancholy feeling of sadness and despair.,Geriatric_Depression,,1
+Left Gyrus Parietal Sup Volume From Qdec,,lh_G_front_inf-Orbital_thickness,Left_gyrus_frontal_inf-Orbital_thickness_from_Qdec_lh.aparc.a2009s.thickness_file,0
+Left Caudal Middle Frontal Area,,lh_caudalmiddlefrontal_area,Left_caudalmiddlefrontal_area_from_Qdec_lh.aparc.area_file-FreeSurfer(v5.3),1
+Right Gyrus Temp Sup-Plan Tempo Volume From Qdec,,rh_G_temp_sup-Plan_tempo_volume,Right_gyrus_temp_sup-Plan_tempo_volume_from_Qdec_rh.aparc.a2009s.volume_file-FreeSurfer(v5.3),1
+Left Medial Orbitofrontal Gray Matter Volume,,(G_front_sup)GrayVol,,0
+Right Sulcus Circular Insula Inferior Thickness From Qdec,,wm-rh-entorhinal,White-matter-Right-entorightinal-from_Qdec_wmparc.volume.stats_file,0
+Right Thalamus Volume,,lh_S_suborbital_meancurv,Left_sulcus_suborbital_meancurv_from_Qdec_lh.aparc.a2009s.meancurv_file-FreeSurfer(v5.3),0
+Right Precuneus Grey Matter Volume,,rh_G_and_S_cingul-Mid-Post_area,,0
+Right Parsorbitalis Mean Cortical Thickness,,rh_parsorbitalis_thickness,Right_parsorbitalis_thickness_from_Qdec_rh.aparc.thickness.stats_file-FreeSurfer(v5.3),1
+Left Sulcus Cingul-Marginalis Volume From Qdec,,ALCOHOL,Average number of alcoholic drinks consumed per day:,0
+White-matter-Right-rostralmiddlefrontal-from Qdec Wmparc,White-matter-Right-rostralmiddlefrontal-from_Qdec_wmparc.volume.stats_file,wm-rh-rostralmiddlefrontal,White-matter-Right-rostralmiddlefrontal-from_Qdec_wmparc.volume.stats_file,1
+BrainSegVol-to-eTIV From Qdec Aseg,,BrainSegVol-to-eTIV,,1
+Right Middletemporal Area,,lh_G_and_S_transv_frontopol_meancurv,Left_gyrus_and_sulcus_transv_frontopol_meancurv_from_Qdec_lh.aparc.a2009s.meancurv_file-FreeSurfer(v5.3),0
+Left Sulcus Frontal Sup Area From Qdec,,lh_isthmuscingulate_area,Left_isthmuscingulate_area_from_Qdec_lh.aparc.area_file,0
+Head Injury ,"Damage inflicted on the head as the direct or indirect result of an external force, with or without disruption of structural continuity.",rh_S_central_meancurv,Right_sulcus_central_meancurv_from_Qdec_rh.aparc.a2009s.meancurv_file-FreeSurfer(v5.3),0
+Left Gyrus Ins Lg And Sulcus Cent Ins Thickness From Qdec,,lh_G_Ins_lg_and_S_cent_ins_thickness,Left_gyrus_Ins_lg_and_sulcus_cent_ins_thickness_from_Qdec_lh.aparc.a2009s.thickness_file-FreeSurfer(v5.3),1
+Brain Stem Grey Matter Volume,,Brain-Stem,Brain-Stem_from_Qdec_aseg.volume.stats_file-FreeSurfer(v5.3),1
+Right Putamen Volume,,lh_parahippocampal_meancurv,Left_parahippocampal_meancurv_from_Qdec_lh.aparc.meancurv_file-FreeSurfer(v5.3),0
+Right Cortical White Matter Volume,,ST151SV,Subcortical Volume (aseg.stats) of RightCorticalWM,1
+Left Sulcus Pericallosal Volume From Qdec,,lh_S_pericallosal_volume,Left_sulcus_pericallosal_volume_from_Qdec_lh.aparc.a2009s.volume_file,1
+Left Cuneus Meancurv From Qdec,,lh_Pole_temporal_thickness,Left_Pole_temporal_thickness_from_Qdec_lh.aparc.a2009s.thickness_file,0
+Hachinski,Modified Hachinski Ischemic Scale-NACC Version (MHIS-NACC) Sum all circled answers for a total score.,ADCS_ADL,,0
+Left Cerebellum White Matter Volume,,ST112SV,Subcortical Volume (aseg.stats) of RightPutamen,0
+Left Gyrus Insular Short Volume From Qdec,,(S_oc_sup_and_transversal)ThickAvg,,0
+Left Gyrus Temporal Middle Volume From Qdec,,lh_G_temporal_middle_volume,,1
+Marital Status,A demographic parameter indicating a person's current conjugal status.,lh_inferiorparietal_volume,,0
+Neuropsychiatric Inventory–Questionnaire (NPI-Q),"A standardized rating scale originally developed and copyrighted by Jeffrey L. Cummings in 1994 as well as published in the journal Neurology (Cummings J.L., The Neuropsychiatric Inventory: Assessing psychopathology in dementia patients. Neurology May 1997 48:10S-16S) which is used to assess the severity of an individual's neuropathic behaviors based on a observations made by the patient's caregiver. This instrument contains 12 neuropsychiatric areas associated with dementia such as delusions, anxiety, motor disturbances, and appetite. Each behavior is evaluated only if the individual displays the behavior. For these behaviors, the frequency is assessed on a scale of 0-4 with 0 being occasionally and 4 being very frequently, the severity is assessed on a scale of 1-3 with 1 being mild and 3 being marked, and the level of distress each behavior inflicts on the caregiver is assessed on a scale of 0-5 with 0 being not distressing and 5 being extremely distressing.",(S_central)GrayVol,,0
+Right Sulcus Precentral-inf-part Area From Qdec,,rh_S_circular_insula_inf_thickness,Right_sulcus_circular_insula_inferior_thickness_from_Qdec_rh.aparc.a2009s.thickness_file-FreeSurfer(v5.3),0
+Left Sulcus Pericallosal Thickness From Qdec,,ptau_result,,0
+Left Gyrus And Sulcus Transv Frontopol Meancurv From Qdec,,lh_G_and_S_transv_frontopol_meancurv,,1
+Right Cuneus Mean Cortical Thickness,,rh_G_temp_sup-Plan_polar_volume,,0
+Right Choroid Plexus Volume,,(Right-choroid-plexus)Volume_mm3,,1
+Left Gyrus And Sulcus Cingul-Ant Volume From Qdec,,PET-ROI-temporal_right,,0
+Right Precuneus Meancurv From Qdec,,(Left-Amygdala)Volume_mm3,,0
+Left Sulcus Cingul-Marginalis Area From Qdec,,CAIDE_BMI_subscore,CAIDE body mass index (BMI) subscore,0
+Right Fusiform Area,,rh_fusiform_area,Right_fusiform_area_from_Qdec_rh.aparc.area_file-FreeSurfer(v5.3),1
+Right Sulcus Frontal Middle Thickness From Qdec,,rh_precentral_volume,Right_precentral_volume_from_Qdec_rh.aparc.volume.stats_file-FreeSurfer(v5.3),0
+Right Subiculum Volume,Right_subiculum,wm-lh-lingual,,0
+Right Gyrus And Sulcus Paracentral Volume From Qdec,,(G_and_S_paracentral)GrayVol,,1
+Month of Birth,The month in which a person was born.,lh_G_cingul-Post-ventral_area,Left_gyrus_cingul-Post-ventral_area_from_Qdec_lh.aparc.a2009s.area.stats_file,0
+Right Cortical White Matter Volume From Qdec,Right cortical white matter volume,rhCorticalWhiteMatterVol,RightCorticalWhiteMatterVol_from_Qdec_aseg.volume.stats_file,1
+Right Gyrus Cingul-Post-dorsal Meancurv From Qdec,,(S_oc-temp_lat)ThickAvg,,0
+Right CA4 Volume,Right_CA4,rhCortexVol,RightCortexVol_from_Qdec_aseg.volume.stats_file,0
+Right Sulcus Cingul-Marginalis Meancurv From Qdec,,lh_precentral_area,,0
+CC Mid Anterior From Qdec Aseg,,rh_(entorhinal)GrayVol,,0
+Right Sulcus Suborbital Area From Qdec,,lh_S_postcentral_thickness,Left_sulcus_postcentral_thickness_from_Qdec_lh.aparc.a2009s.thickness_file,0
+Right Banks Of The Superior Temoral Sulcus Volume,,ST72CV,Cortical Volume (aparc.stats) of RightBankssts,1
+Left Superior Parietal Gray Matter Volume,,(G_occipital_middle)GrayVol,,0
+Alzheimer's Disease Assessment Scale 11-item (ADAS11),"Alzheimer's Disease Assessment Scale-Cognitive CDISC Version (ADAS-Cog CDISC Version) Word recognition task for word 11 Trials 1, 2, 3.",ADAS_Total_Raw_score,,1
+Mini-Mental State Examination (MMSE),Mini-Mental State Examination (MMSE) Total score.,MMSE,Mini Mental State Examination,1
+Left Rostral Anterior Cingulate Gray Matter Volume,,lh_rostralanteriorcingulate_volume,Left_rostralanteriorcingulate_volume_from_Qdec_lh.aparc.volume.stats_file-FreeSurfer(v5.3),1
+MaskVol-to-eTIV From Qdec Aseg,,(G_occipital_sup)ThickAvg,,0
+Right Posterior Cingulate Gray Matter Volume,,rh_(posteriorcingulate)GrayVol,,1
+Cystatin 3A in Plasma,"Cystatin-A (98 aa, ~11 kDa) is encoded by the human CSTA gene. This protein plays a role in both cell-cell adhesion in the epidermis and the regulation of thiol proteinase activity.",lh_parstriangularis_area,Left_parstriangularis_area_from_Qdec_lh.aparc.area_file-FreeSurfer(v5.3),0
+White-matter-left-inferiortemporal-from Qdec Wmparc,,wm-lh-inferiortemporal,White-matter-left-inferiortemporal-from_Qdec_wmparc.volume.stats_file-FreeSurfer(v5.3),1
+Left Supramarginal Gray Matter Volume,,ST95TA,Thickness Average (aparc.stats) of RightLateralOrbitofrontal,0
+Right Pars Triangularis Gray Matter Volume,,RPARTRI,,1
+Left Gyrus Frontal Inf-Triangul Volume From Qdec,,lh_middletemporal_area,,0
+Diabetes,A metabolic disorder characterized by abnormally high blood sugar levels due to diminished production of insulin or insulin resistance/desensitization.,(Pole_temporal)ThickAvg,,0
+Left Gyrus Parietal Sup Meancurv From Qdec,,lh_G_parietal_sup_meancurv,Left_gyrus_parietal_sup_meancurv_from_Qdec_lh.aparc.a2009s.meancurv_file,1
+Left Lateraloccipital Mean Cortical Thickness,,(G_subcallosal)ThickAvg,,0
+Right-vessel From Qdec,,rh_inferiortemporal_meancurv,Right_inferiortemporal_meancurv_from_Qdec_rh.aparc.meancurv_file-FreeSurfer(v5.3),0
+Left Gyrus Occipital Middle Volume From Qdec,,lh_(middletemporal)MeanCurv,,0
+Patient Qualification,"The action of verifying that a person, process, product or piece of equipment is suitable for a particular postition or task.",titstu,Sociodemographic-Patient_data:_qualification,1
+A-beta 1-42 in Plasma,The determination of the amount of the 1-42 amino acid beta amyloid protein isoform present in a sample.,rh_G_and_S_cingul-Ant_meancurv,,0
+Chest Pain,-,lh_G_and_S_transv_frontopol_meancurv,Left_gyrus_and_sulcus_transv_frontopol_meancurv_from_Qdec_lh.aparc.a2009s.meancurv_file,0
+Right Sulcus Cingul-Marginalis Area From Qdec,,rh_S_cingul-Marginalis_area,,1
+Right Gyrus And Sulcus Cingul-Ant Volume From Qdec,,rh_G_and_S_cingul-Ant_volume,Right_gyrus_and_sulcus_cingul-Ant_volume_from_Qdec_rh.aparc.a2009s.volume_file,1
+The State-Trait Anxiety Inventory (STAI),"An instrument for measuring anxiety. It is designed to differentiate between temporary \state anxiety\ and general, long-standing \trait anxiety\. (Copyright Mind Garden, Inc.)",stai_40_total_score,,1
+Left Pars Triangularis Gray Matter Volume,,lh_parstriangularis_volume,Left_parstriangularis_volume_from_Qdec_lh.aparc.volume.stats_file,1
+Right Sulcus Collat Transv Anterior Thickness From Qdec,,rh_(entorhinal)SurfArea,,0
+White-matter-left-superiorfrontal-from Qdec Wmparc,,wm-lh-superiorfrontal,White-matter-left-superiorfrontal-from_Qdec_wmparc.volume.stats_file-FreeSurfer(v5.3),1
+Left Superior Parietal Gray Matter Volume,,MSA_C8,Neurologocial_motor_symptom_(reported)_:_disorders_sweating,0
+Right Lateralorbitofrontal Volume,,rh_lateralorbitofrontal_volume,Right_lateralorbitofrontal_volume_from_Qdec_rh.aparc.volume.stats_file,1
+Right Gyrus Pariet Inf-Angular Area From Qdec,,CDT,Total_score_for_the_Clock_Drawing_Test,0
+Right Transversetemporal Meancurv From Qdec,,rh_(transversetemporal)MeanCurv,,1
+Right Parstriangularis Area,,(S_central)SurfArea,,0
+Right Gyrus Orbital Thickness From Qdec,,(G_orbital)ThickAvg,,1
+Left Temporal Pole Area,,lh_temporalpole_area,Left_temporalpole_area_from_Qdec_lh.aparc.area_file-FreeSurfer(v5.3),1
+Diagnosis,"The investigation, analysis and recognition of the presence and nature of disease, condition, or injury from expressed signs and symptoms; also, the scientific determination of any kind; the concise results of such an investigation.",Diagnosis,Clinical diagnosis,1
+Left Lateraloccipital Mean Cortical Thickness,,rh_S_front_inf_thickness,Right_sulcus_frontal_inferior_thickness_from_Qdec_rh.aparc.a2009s.thickness_file,0
+Right Lateralorbitofrontal Volume,,lh_fusiform_meancurv,Left_fusiform_meancurv_from_Qdec_lh.aparc.meancurv_file,0
+Right Postcentral Area,,rh_transversetemporal_thickness,Right_transversetemporal_thickness_from_Qdec_rh.aparc.thickness.stats_file,0
+Left Sulcus Circular Insula Sup Area From Qdec,,lh_S_circular_insula_sup_area,Left_sulcus_circular_insula_sup_area_from_Qdec_lh.aparc.a2009s.area.stats_file,1
+APOE Allele 1,"Human APOE*4 allele is located in the vicinity of 19q13.2 and is approximately 4 kb in length. This allele, which encodes apolipoprotein E4, plays a role in triglyceride metabolism. The allele is associated with increased occurrence of both Alzheimer disease and coronary artery disease.",right_CA1,Right_CA1,0
+Right Gyrus Frontal Inf-Orbital Thickness From Qdec,,rh_G_front_inf-Orbital_thickness,Right_gyrus_frontal_inf-Orbital_thickness_from_Qdec_rh.aparc.a2009s.thickness_file-FreeSurfer(v5.3),1
+Right Gyrus Temporal Inferior Area From Qdec,,rh_G_temporal_inf_area,,1
+Left Lingual Mean Cortical Thickness,,LLINGM,,1
+White-matter-Right-lingual-from Qdec Wmparc,,wm-rh-lingual,White-matter-Right-lingual-from_Qdec_wmparc.volume.stats_file-FreeSurfer(v5.3),1
+Ethnicity,A social group characterized by a distinctive social and cultural tradition that is maintained from generation to generation. Members share a common history and origin and a sense of identification with the group. They have similar and distinctive features in their lifestyle habits and shared experiences. They often have a common genetic heritage which may be reflected in their experience of health and disease.,conviv,Sociodemographic-Patient_data:_with_who_currently_does_the_patient_is_living_with?,0
+White-matter-Right-isthmuscingulate-from Qdec Wmparc,,wm-rh-isthmuscingulate,,1
+Right Sulcus Oc-temp Med And Lingual Thickness From Qdec,,rh_G_precentral_volume,,0
+Left Transverse Temporal Area,,(G_and_S_cingul-Ant)MeanCurv,,0
+Left Caudal Middle Frontal Gray Matter Volume,,lh_caudalmiddlefrontal_volume,Left_caudalmiddlefrontal_volume_from_Qdec_lh.aparc.volume.stats_file-FreeSurfer(v5.3),1
+Left Sulcus Suborbital Area From Qdec,,lh_supramarginal_area,Left_supramarginal_area_from_Qdec_lh.aparc.area_file,0
+Left Gyrus And Sulcus Cingul-Mid-Ant Thickness From Qdec,,lh_G_and_S_cingul-Mid-Ant_thickness,Left_gyrus_and_sulcus_cingul-Mid-Ant_thickness_from_Qdec_lh.aparc.a2009s.thickness_file-FreeSurfer(v5.3),1
+Profession,A grouping of occupations and fields of study.,ST43CV,Cortical Volume (aparc.stats) of LeftParacentral,0
+Left Par Sopercularis Area,,wm-lh-medialorbitofrontal,White-matter-left-medialorbitofrontal-from_Qdec_wmparc.volume.stats_file-FreeSurfer(v5.3),0
+Left Paracentral Gray Matter Volume,,lh_paracentral_volume,Left_paracentral_volume_from_Qdec_lh.aparc.volume.stats_file-FreeSurfer(v5.3),1
+Right Transverse Temporal Area,,rh_(transversetemporal)SurfArea,,1
+Left Gyrus Pariet Inf-Angular Volume From Qdec,,rh_S_oc_middle_and_Lunatus_volume,Right_sulcus_oc_middle_and_Lunatus_volume_from_Qdec_rh.aparc.a2009s.volume_file,0
+Right Gyrus Orbital Volume From Qdec,,rh_G_orbital_volume,Right_gyrus_orbital_volume_from_Qdec_rh.aparc.a2009s.volume_file,1
+Participant ID,An alphanumeric identifier assigned to a specific patient.,ID,,1
+Right Middletemporal Meancurv From Qdec,,left_hippocampal-fissure,Left_hippocampal-fissure,0
+Right Gyrus Temp Sup-Plan Polar Area From Qdec,,rh_G_temp_sup-Plan_polar_area,Right_gyrus_temp_sup-Plan_polar_area_from_Qdec_rh.aparc.a2009s.area.stats_file-FreeSurfer(v5.3),1
+Right Frontalpole Meancurv From Qdec,,rh_frontalpole_meancurv,,1
+Right Sulcus Parieto Occipital Area From Qdec,,rh_S_parieto_occipital_area,Right_sulcus_parieto_occipital_area_from_Qdec_rh.aparc.a2009s.area.stats_file-FreeSurfer(v5.3),1
+Left Gyrus Oc-temp Med-Parahip Volume From Qdec,,(G_oc-temp_med-Parahip)GrayVol,,1
+Left Pericalcarine Mean Cortical Thickness,,ST49TA,Thickness Average (aparc.stats) of LeftPostcentral,0
+White-matter-left-frontalpole-from Qdec Wmparc,,wm-lh-frontalpole,,1
+Left Gyrus Frontal Middle Thickness From Qdec,,(G_front_middle)ThickAvg,,1
+Left Sulcus Precentral-sup-part Meancurv From Qdec,,lh_S_precentral-sup-part_meancurv,Left_sulcus_precentral-sup-part_meancurv_from_Qdec_lh.aparc.a2009s.meancurv_file-FreeSurfer(v5.3),1
+Right Inferior Temporal Area,,ST91SA,Surface Area (aparc.stats) of RightInferiorTemporal,1
+High Blood Pressure,Blood pressure that is abnormally high.,hxbp,6. High blood pressure?,1
+Right Gyrus Frontal Middle Area From Qdec,,lh_transversetemporal_meancurv,Left_transversetemporal_meancurv_from_Qdec_lh.aparc.meancurv_file-FreeSurfer(v5.3),0
+Right Sulcus Calcarine Area From Qdec,,rh_S_calcarine_area,Right_sulcus_calcarine_area_from_Qdec_rh.aparc.a2009s.area.stats_file,1
+Left Insula Area,,lh_(insula)SurfArea,,1
+MaskVol From Qdec Aseg,,MaskVol,MaskVol_from_Qdec_aseg.volume.stats_file-FreeSurfer(v5.3),1
+Right Gyrus Temp Sup-G T Transv Volume From Qdec,,rh_G_temp_sup-G_T_transv_volume,Right_gyrus_temp_sup-G_T_transv_volume_from_Qdec_rh.aparc.a2009s.volume_file-FreeSurfer(v5.3),1
+Right Pallidum Volume,,lh_S_collat_transv_post_volume,Left_sulcus_collat_transv_posterior_volume_from_Qdec_lh.aparc.a2009s.volume_file,0
+Left Lat Fis-ant-Vertical Volume From Qdec,,lh_Lat_Fis-ant-Vertical_volume,,1
+Right Sulcus Interm Prim-Jensen Volume From Qdec,,rh_S_interm_prim-Jensen_volume,Right_sulcus_interm_prim-Jensen_volume_from_Qdec_rh.aparc.a2009s.volume_file,1
+Left Gyrus Pariet Inf-Supramar Meancurv From Qdec,,lh_parsopercularis_area,Left_parsopercularis_area_from_Qdec_lh.aparc.area_file-FreeSurfer(v5.3),0
+Left Pars Opercularis Gray Matter Volume,,lh_G_temporal_middle_area,Left_gyrus_temporal_middle_area_from_Qdec_lh.aparc.a2009s.area.stats_file-FreeSurfer(v5.3),0
+Left Sulcus Collat Transv Anterior Area From Qdec,,lh_S_collat_transv_ant_area,Left_sulcus_collat_transv_anterior_area_from_Qdec_lh.aparc.a2009s.area.stats_file-FreeSurfer(v5.3),1
+Left Gyrus Cingul-Post-ventral Volume From Qdec,,lh_G_cingul-Post-ventral_volume,,1
+Left Pole Temporal Volume From Qdec,,lh_Pole_temporal_volume,,1
+Left Paracentral Area,,Hipp_Hypo_Sx_Gluc_(Pons_Normalized),Glucose_metabolism_in_left_hippocampus_(Pons_Normalized),0
+Left CA4 Volume,Left_CA4,Hippo_Vol_Sx(mm^3),Left_hippocampal_volume_from_Qdec_aseg.volume.stats_file-FreeSurfer(v5.3),0
+Right Lateraloccipital Mean Cortical Thickness,,rh_entorhinal_thickness,,0
+Right Gyrus And Sulcus Paracentral Area From Qdec,,lh_S_occipital_ant_meancurv,,0
+Left Gyrus And Sulcus Occipital Inferior Volume From Qdec,,wm-rh-parstriangularis,White-matter-Right-parstriangularis-from_Qdec_wmparc.volume.stats_file-FreeSurfer(v5.3),0
+Left Sulcus Central Volume From Qdec,,lh_S_central_volume,,1
+Third Ventricle Volume,,3rd-Ventricle,3rd-Ventricle_from_Qdec_aseg.volume.stats_file-FreeSurfer(v5.3),1
+Left Pericalcarine Mean Cortical Thickness,,(G_and_S_transv_frontopol)ThickAvg,,0
+Left Gyrus And Sulcus Cingul-Ant Meancurv From Qdec,,lh_G_and_S_cingul-Ant_meancurv,Left_gyrus_and_sulcus_cingul-Ant_meancurv_from_Qdec_lh.aparc.a2009s.meancurv_file,1
+Left Gyrus Rectus Volume From Qdec,,rh_S_orbital-H_Shaped_thickness,,0
+Right Sulcus Collat Transv Anterior Volume From Qdec,,(S_collat_transv_ant)GrayVol,,1
+Right Parstriangularis Area,,ST106SA,Surface Area (aparc.stats) of RightParsTriangularis,1
+Heart Rate,"The number of heartbeats per unit of time, usually expressed as beats per minute.",PREHEART,,1
+Right Gyrus Pariet Inf-Angular Meancurv From Qdec,,rh_G_pariet_inf-Angular_meancurv,Right_gyrus_pariet_inf-Angular_meancurv_from_Qdec_rh.aparc.a2009s.meancurv_file,1
+Left Gyrus Occipital Sup Meancurv From Qdec,,lh_G_occipital_sup_meancurv,,1
+Cortical White Matter Volume,,lh_inferiorparietal_area,Left_inferiorparietal_area_from_Qdec_lh.aparc.area_file-FreeSurfer(v5.3),0
+Right Gyrus And Sulcus Occipital Inferior Meancurv From Qdec,,rh_G_and_S_occipital_inf_meancurv,,1
+White-matter-left-caudalmiddlefrontal-from Qdec Wmparc,,wm-lh-caudalmiddlefrontal,,1
+Right Banks Of The Superior Temoral Sulcus Thickness,,ST72TA,Thickness Average (aparc.stats) of RightBankssts,1
+Right Sulcus Interm Prim-Jensen Thickness From Qdec,,rh_S_interm_prim-Jensen_thickness,,1
+Left Gyrus And Sulcus Subcentral Meancurv From Qdec,,lh_G_and_S_subcentral_meancurv,Left_gyrus_and_sulcus_subcentral_meancurv_from_Qdec_lh.aparc.a2009s.meancurv_file,1
+White-matter-Right-pericalcarine-from Qdec Wmparc,White-matter-Right-pericalcarine-from_Qdec_wmparc.volume.stats_file,lh_Lat_Fis-ant-Vertical_meancurv,,0
+Left Sulcus Interm Prim-Jensen Area From Qdec,,(S_interm_prim-Jensen)SurfArea,,1
+Left Cerebellum White Matter Volume,,Left-Cerebellum-White-Matter,,1
+Right Supramarginal Mean Cortical Thickness,,(G_and_S_cingul-Mid-Ant)GrayVol,,0
+White-matter-left-supramarginal-from Qdec Wmparc,,wm-lh-supramarginal,White-matter-left-supramarginal-from_Qdec_wmparc.volume.stats_file,1
+Left Hippocampus Volume,,Lhippo_FS_adj,Volume of left hippocampus adjusted for ICV,1
+Right Banks Of The Superior Temoral Sulcus Area,,rh_bankssts_area,Right_banks_of_the_superior_temoral_sulcus_area_from_Qdec_rh.aparc.area_file,1
+Right Posteriorcingulate Meancurv From Qdec,,rh_posteriorcingulate_meancurv,Right_posteriorcingulate_meancurv_from_Qdec_rh.aparc.meancurv_file-FreeSurfer(v5.3),1
+Right Sulcus Temporal Inferior Meancurv From Qdec,,rh_S_temporal_inf_meancurv,,1
+Left Gyrus And Sulcus Frontomargin Volume From Qdec,,lh_G_and_S_occipital_inf_meancurv,Left_gyrus_and_sulcus_occipital_inferior_meancurv_from_Qdec_lh.aparc.a2009s.meancurv_file-FreeSurfer(v5.3),0
+Right Gyrus And Sulcus Subcentral Volume From Qdec,,ST91TA,Thickness Average (aparc.stats) of RightInferiorTemporal,0
+Left Sulcus Precentral-sup-part Thickness From Qdec,,rh_temporalpole_thickness,Right_temporalpole_thickness_from_Qdec_rh.aparc.thickness.stats_file-FreeSurfer(v5.3),0
+Left Ventral Diencephalon Volume,,(G_and_S_subcentral)ThickAvg,,0
+Cortical White Matter Volume,,CorticalWhiteMatterVol,CorticalWhiteMatterVol_from_Qdec_aseg.volume.stats_file-FreeSurfer(v5.3),1
+Left Sulcus Temporal Transverse Area From Qdec,,ST10CV,Cortical Volume (aparc.stats) of Icv,0
+Left Inferiortemporal Mean Cortical Thickness,,Father_Has_Alzheimer's_Disease,,0
+Right Gyrus Temp Sup-Plan Polar Meancurv From Qdec,,left_parasubiculum,Left_parasubiculum-FreeSurfer(v6Beta),0
+Left Rostral Middle Frontal Area,,TOTSCORE,Total Score (ADAS 11),0
+Right Sulcus Oc Middle And Lunatus Area From Qdec,,(G_and_S_cingul-Mid-Ant)ThickAvg,,0
+Left Gyrus Pariet Inf-Angular Meancurv From Qdec,,(G_oc-temp_med-Parahip)GrayVol,,0
+Left Gyrus Temp Sup-Plan Tempo Meancurv From Qdec,,GDTOTAL,,0
+Right Sulcus Temporal Transverse Area From Qdec,,lh_medialorbitofrontal_meancurv,,0
+Left Cerebellum Gray Matter Volume,,(Left-Cerebellum-Cortex)Volume_mm3,,1
+Left Lat Fis-ant-Vertical Volume From Qdec,,lh_Lat_Fis-ant-Vertical_volume,Left_Lat_Fis-ant-Vertical_volume_from_Qdec_lh.aparc.a2009s.volume_file,1
+Right Insula Mean Cortical Thickness,,rh_insula_thickness,Right_insula_thickness_from_Qdec_rh.aparc.thickness.stats_file-FreeSurfer(v5.3),1
+Left Gyrus Pariet Inf-Angular Area From Qdec,,lh_G_pariet_inf-Angular_area,Left_gyrus_pariet_inf-Angular_area_from_Qdec_lh.aparc.a2009s.area.stats_file,1
+Right Temporal Pole Thickness,,lh_entorhinal_area,,0
+Left Gyrus Parietal Sup Volume From Qdec,,rh_insula_volume,Right_insula_volume_from_Qdec_rh.aparc.volume.stats_file-FreeSurfer(v5.3),0
+Left Sulcus Frontal Middle Volume From Qdec,,lh_S_front_middle_volume,Left_sulcus_frontal_middle_volume_from_Qdec_lh.aparc.a2009s.volume_file,1
+Right Sulcus Intrapariet And P Trans Meancurv From Qdec,,rh_S_intrapariet_and_P_trans_meancurv,Right_sulcus_intrapariet_and_P_trans_meancurv_from_Qdec_rh.aparc.a2009s.meancurv_file,1
+Left Superiorfrontal Area,,lh_(superiorfrontal)SurfArea,,1
+Right Sulcus Central Thickness From Qdec,,rh_G_pariet_inf-Supramar_area,,0
+Right Pericalcarine Mean Cortical Thickness,,rh_S_oc_sup_and_transversal_meancurv,,0
+Right Gyrus Occipital Middle Volume From Qdec,,Right-Cerebellum-Cortex,Right-Cerebellum-Cortex_from_Qdec_aseg.volume.stats_file-FreeSurfer(v5.3),0
+Left Precuneus Mean Cortical Thickness,,lh_precuneus_thickness,Left_precuneus_thickness_from_Qdec_lh.aparc.thickness.stats_file,1
+Left Gyrus And Sulcus Transv Frontopol Meancurv From Qdec,,(G_and_S_transv_frontopol)MeanCurv,,1
+Chest Pain,-,lh_G_temp_sup-Plan_polar_thickness,Left_gyrus_temp_sup-Plan_polar_thickness_from_Qdec_lh.aparc.a2009s.thickness_file,0
+Right Sulcus Precentral-inf-part Area From Qdec,,rh_S_precentral-inf-part_area,Right_sulcus_precentral-inf-part_area_from_Qdec_rh.aparc.a2009s.area.stats_file-FreeSurfer(v5.3),1
+Right Entorightinal Volume From Qdec aparc,,rh_(entorhinal)GrayVol,,1
+Left SurfaceHoles From Qdec Aseg,,lhSurfaceHoles,,1
+Right Rostral Anterior Cingulate Gray Matter Volume,,rh_rostralanteriorcingulate_volume,Right_rostralanteriorcingulate_volume_from_Qdec_rh.aparc.volume.stats_file-FreeSurfer(v5.3),1
+Right Gyrus Parietal Sup Meancurv From Qdec,,rh_G_parietal_sup_meancurv,Right_gyrus_parietal_sup_meancurv_from_Qdec_rh.aparc.a2009s.meancurv_file,1
+Left Gyrus Cingul-Post-ventral Area From Qdec,,wm-lh-rostralanteriorcingulate,White-matter-left-rostralanteriorcingulate-from_Qdec_wmparc.volume.stats_file,0
+Left Sulcus Frontal Inferior Meancurv From Qdec,,lh_S_calcarine_meancurv,,0
+Right Insula Area,,statciv,Sociodemographic-Patient_data:_martial_status,0
+Left Pars Opercularis Mean Cortical Thickness,,(S_orbital_med-olfact)GrayVol,,0
+White-matter-left-posteriorcingulate-from Qdec Wmparc,,lh_G_temp_sup-Lateral_volume,Left_gyrus_temp_sup-Lateral_volume_from_Qdec_lh.aparc.a2009s.volume_file,0
+Left Precentral Gray Matter Volume,,ST51CV,Cortical Volume (aparc.stats) of LeftPrecentral,1
+Right Medial Orbitofrontal Mean Cortical Thickness,,lh_caudalmiddlefrontal_volume,Left_caudalmiddlefrontal_volume_from_Qdec_lh.aparc.volume.stats_file,0
+Left Sulcus Oc-temp Lat Thickness From Qdec,,lh_S_temporal_sup_meancurv,,0
+Right Sulcus Temporal Inferior Meancurv From Qdec,,lh_G_pariet_inf-Angular_meancurv,Left_gyrus_pariet_inf-Angular_meancurv_from_Qdec_lh.aparc.a2009s.meancurv_file,0
+Right Lat Fis-ant-Vertical Thickness From Qdec,,rh_Lat_Fis-ant-Vertical_thickness,Right_Lat_Fis-ant-Vertical_thickness_from_Qdec_rh.aparc.a2009s.thickness_file-FreeSurfer(v5.3),1
+Heart Condition,A hollow organ located slightly to the left of the middle portion of the chest. It is composed of muscle and it is divided by a septum into two sides: the right side which receives de-oxygenated blood from the body and the left side which sends newly oxygenated blood to the body. Each side is composed of two chambers: the atrium (receiving blood) and ventricle (ejecting blood).,wm-rh-entorhinal,,0
+Right Gyrus Cingul-Post-ventral Thickness From Qdec,,rh_G_cingul-Post-ventral_thickness,Right_gyrus_cingul-Post-ventral_thickness_from_Qdec_rh.aparc.a2009s.thickness_file,1
+Right Sulcus Central Area From Qdec,,(S_oc_sup_and_transversal)MeanCurv,,0
+Right Posterior Cingulate Mean Cortical Thickness,,rh_posteriorcingulate_thickness,,1
+Right Gyrus And Sulcus Cingul-Ant Area From Qdec,,tracra1,Risk_factors_for_dementia:_year_of_presentation_of_history_of_head_trauma,0
+Left Gyrus Precentral Volume From Qdec,,rh_lateralorbitofrontal_area,Right_lateralorbitofrontal_area_from_Qdec_rh.aparc.area_file-FreeSurfer(v5.3),0
+Right Sulcus Oc Sup And Transversal Volume From Qdec,,(S_oc_sup_and_transversal)GrayVol,,1
+Left Transverse Temporal Mean Cortical Thickness,,rh_pericalcarine_meancurv,Right_pericalcarine_meancurv_from_Qdec_rh.aparc.meancurv_file-FreeSurfer(v5.3),0
+Right Gyrus Temporal Inferior Volume From Qdec,,rh_Pole_occipital_volume,Right_Pole_occipital_volume_from_Qdec_rh.aparc.a2009s.volume_file,0
+Right Sulcus Subparietal Volume From Qdec,,VSWEIGHT,,0
+Right Lingual Grey Matter Volume,,ST97CV,Cortical Volume (aparc.stats) of RightLingual,1
+Left Sulcus Circular Insula Inferior Area From Qdec,,lh_S_circular_insula_inf_area,Left_sulcus_circular_insula_inferior_area_from_Qdec_lh.aparc.a2009s.area.stats_file,1
+Left Gyrus And Sulcus Cingul-Mid-Ant Meancurv From Qdec,,lh_S_front_middle_volume,Left_sulcus_frontal_middle_volume_from_Qdec_lh.aparc.a2009s.volume_file,0
+Left Superiortemporal Area,,lh_S_circular_insula_ant_area,,0
+Left Caudal Middle Frontal Gray Matter Volume,,lh_cuneus_area,Left_cuneus_area_from_Qdec_lh.aparc.area_file,0
+Digit Span Test (Forward),A subtest of the Wechsler Adult Intelligence Scale - Fourth Edition. The subject is read a sequence of numbers and recalls the numbers in the same order.,rh_G_rectus_meancurv,Right_gyrus_rectus_meancurv_from_Qdec_rh.aparc.a2009s.meancurv_file,0
+Stroke,A sudden loss of neurological function secondary to hemorrhage or ischemia in the brain parenchyma due to a vascular event.,lrcalcv,,0
+Left Pericalcarine Area,,rh_parsopercularis_thickness,Right_parsopercularis_thickness_from_Qdec_rh.aparc.thickness.stats_file,0
+Biological Sex,The assemblage of physical properties or qualities by which male is distinguished from female; the physical difference between male and female; the distinguishing peculiarity of male or female.,wm-lh-superiorparietal,White-matter-left-superiorparietal-from_Qdec_wmparc.volume.stats_file,0
+Trail Making Test (TMT) B,Huntington's Disease Cognitive Assessment Battery (HD-CAB) Trail Making Test-B key variable for composite score: Time to completion (sec) of TMT Part B with upper time limit of 240 seconds (reverse scored).,llfpv,,0
+Right Accumbens Area Volume,,ST70SV,Subcortical Volume (aseg.stats) of RightAccumbensArea,1
+Left Sulcus Cingul-Marginalis Volume From Qdec,,lh_Lat_Fis-ant-Vertical_volume,Left_Lat_Fis-ant-Vertical_volume_from_Qdec_lh.aparc.a2009s.volume_file,0
+Right Gyrus And Sulcus Frontomargin Meancurv From Qdec,,rh_G_and_S_frontomargin_meancurv,Right_gyrus_and_sulcus_frontomargin_meancurv_from_Qdec_rh.aparc.a2009s.meancurv_file-FreeSurfer(v5.3),1
+Right Gyrus Insular Short Volume From Qdec,,lh_bankssts_area,,0
+Right Inferior Temporal Gray Matter Volume,,rh_(inferiortemporal)GrayVol,,1
+Left Medial Orbitofrontal Mean Cortical Thickness,,lh_G_precuneus_thickness,,0
+Right Sulcus Intrapariet And P Trans Area From Qdec,,rh_S_intrapariet_and_P_trans_area,,1
+Left Gyrus Postcentral Thickness From Qdec,,lh_G_postcentral_thickness,,1
+PET-hypoperfusion: temporal right,,lh_G_front_inf-Triangul_meancurv,Left_gyrus_frontal_inf-Triangul_meancurv_from_Qdec_lh.aparc.a2009s.meancurv_file,0
+Montreal Cognitive Assessment (MoCA),"A standardized rating scale developed by Ziad Nasreddine in 1996 to screen for mild cognitive dysfunction and impairment. This instrument assesses the following cognitive domains: attention and concentration, executive functions, memory, language, visuoconstructional skills, conceptual thinking, calculations, and orientation.",MOCA,,1
+Right Sulcus Frontal Inferior Volume From Qdec,,rh_G_insular_short_meancurv,,0
+Left Gyrus And Sulcus Cingul-Mid-Post Area From Qdec,,Left-choroid-plexus,,0
+Left Sulcus Intrapariet And P Trans Thickness From Qdec,,MH16SMOK,16. Smoking,0
+Right Hippocampus Volume,,drtboston,"""8. Boston Naming Test",0
+Right Sulcus Collat Transv Posterior Thickness From Qdec,,rh_S_collat_transv_post_thickness,Right_sulcus_collat_transv_posterior_thickness_from_Qdec_rh.aparc.a2009s.thickness_file-FreeSurfer(v5.3),1
+Right Amygdala Volume,,Right-Amygdala,Right-Amygdala_from_Qdec_aseg.volume.stats_file-FreeSurfer(v5.3),1
+Mother Dementia,,rh_S_cingul-Marginalis_thickness,,0
+Left Sulcus Circular Insula Inferior Meancurv From Qdec,,SurfaceHoles,SurfaceHoles_from_Qdec_aseg.volume.stats_file,0
+Right CA4 Volume,Right_CA4,right_CA4,Right_CA4,1
+Left Gyrus Pariet Inf-Supramar Volume From Qdec,,lh_G_pariet_inf-Supramar_volume,Left_gyrus_pariet_inf-Supramar_volume_from_Qdec_lh.aparc.a2009s.volume_file-FreeSurfer(v5.3),1
+Left Sulcus Oc Middle And Lunatus Thickness From Qdec,,rh_S_cingul-Marginalis_thickness,Right_sulcus_cingul-Marginalis_thickness_from_Qdec_rh.aparc.a2009s.thickness_file,0
+White Matter HypoIntensities Volume,,WM-hypointensities,White-matter-hypointensities_from_Qdec_aseg.volume.stats_file,1
+Left Thalamus Volume,,LeftThalamus,Volume of left thalamus,1
+Right Gyrus Oc-temp Med-Parahip Meancurv From Qdec,,lh_S_postcentral_thickness,Left_sulcus_postcentral_thickness_from_Qdec_lh.aparc.a2009s.thickness_file,0
+Left Sulcus Subparietal Volume From Qdec,,lh_S_subparietal_volume,Left_sulcus_subparietal_volume_from_Qdec_lh.aparc.a2009s.volume_file,1
+Right Medialorbitofrontal Area,,rh_medialorbitofrontal_area,,1
+Right Sulcus Occipital Anterior Area From Qdec,,right_molecular_layer_HP,,0
+Right Sulcus Precentral-inf-part Thickness From Qdec,,rh_S_precentral-inf-part_thickness,Right_sulcus_precentral-inf-part_thickness_from_Qdec_rh.aparc.a2009s.thickness_file,1
+Right Sulcus Circular Insula Inferior Area From Qdec,,rh_S_circular_insula_inf_area,Right_sulcus_circular_insula_inferior_area_from_Qdec_rh.aparc.a2009s.area.stats_file-FreeSurfer(v5.3),1
+Geriatric Depression Scale (GDS),Geriatric Depression Scale Short Form total score.,lh_G_cingul-Post-ventral_thickness,,0
+Right Caudal Anterior Cingulate Mean Cortical Thickness,,RCACM,,1
+Marital Status,A demographic parameter indicating a person's current conjugal status.,MARISTAT,,1
+Left Posterior Cingulate Gray Matter Volume,,LPOSCIN,,1
+Left Lateral Ventricle Volume,,lh_inferiortemporal_volume,,0
+Left Gyrus Insular Short Thickness From Qdec,,lh_G_insular_short_thickness,Left_gyrus_insular_short_thickness_from_Qdec_lh.aparc.a2009s.thickness_file-FreeSurfer(v5.3),1
+Left Caudal Middle Frontal Area,,ST12SV,Subcortical Volume (aseg.stats) of LeftAmygdala,0
+Right Gyrus And Sulcus Occipital Inferior Area From Qdec,,rh_G_cingul-Post-dorsal_meancurv,Right_gyrus_cingul-Post-dorsal_meancurv_from_Qdec_rh.aparc.a2009s.meancurv_file-FreeSurfer(v5.3),0
+Left Rostral Middle Frontal Area,,lh_S_occipital_ant_area,Left_sulcus_occipital_anterior_area_from_Qdec_lh.aparc.a2009s.area.stats_file-FreeSurfer(v5.3),0
+Right Precuneus Area,,rh_S_oc-temp_lat_meancurv,Right_sulcus_oc-temp_lat_meancurv_from_Qdec_rh.aparc.a2009s.meancurv_file-FreeSurfer(v5.3),0
+Left Sulcus Parieto Occipital Area From Qdec,,lh_S_parieto_occipital_area,Left_sulcus_parieto_occipital_area_from_Qdec_lh.aparc.a2009s.area.stats_file-FreeSurfer(v5.3),1
+Right Supramarginal Gray Matter Volume,,lh_insula_meancurv,Left_insula_meancurv_from_Qdec_lh.aparc.meancurv_file-FreeSurfer(v5.3),0
+Left Lat Fis-ant-Vertical Volume From Qdec,,lh_S_occipital_ant_meancurv,,0
+Left Sulcus Collat Transv Anterior Meancurv From Qdec,,lh_S_collat_transv_ant_meancurv,,1
+Left Lat Fis-ant-Horizont Thickness From Qdec,,(Lat_Fis-ant-Horizont)ThickAvg,,1
+Right Gyrus Frontal Inf-Orbital Area From Qdec,,rh_G_front_inf-Orbital_area,,1
+Right Lat Fis-ant-Horizont Thickness From Qdec,,rh_G_rectus_volume,,0
+Right Caudalmiddlefrontal Volume From Qdec aparc,,rh_caudalmiddlefrontal_volume,Right_caudalmiddlefrontal_volume_from_Qdec_rh.aparc.volume.stats_file,1
+Country of Residence,The country in which an individual permanently resides.,lh_frontalpole_thickness,Left_frontalpole_thickness_from_Qdec_lh.aparc.thickness.stats_file,0
+Left Sulcus Collat Transv Posterior Volume From Qdec,,lh_S_oc_sup_and_transversal_meancurv,,0
+Right Amygdala Volume,,(S_suborbital)GrayVol,,0
+Right Sulcus Oc-temp Med And Lingual Volume From Qdec,,rh_S_oc-temp_med_and_Lingual_volume,,1
+Left Superiortemporal Volume From Qdec aparc,,rh_G_temporal_inf_area,,0
+Right Gyrus Temp Sup-Lateral Meancurv From Qdec,,wm-rh-entorhinal,,0
+Participant ID,An alphanumeric identifier assigned to a specific patient.,Subject_ID,,1
+Right Precentral Gray Matter Volume,,rh_precentral_volume,Right_precentral_volume_from_Qdec_rh.aparc.volume.stats_file-FreeSurfer(v5.3),1
+Left Gyrus Temp Sup-Plan Polar Volume From Qdec,,rh_lateralorbitofrontal_volume,Right_lateralorbitofrontal_volume_from_Qdec_rh.aparc.volume.stats_file-FreeSurfer(v5.3),0
+Left Gyrus Frontal Inf-Opercular Volume From Qdec,,lh_(cuneus)MeanCurv,,0
+Right Sulcus Suborbital Thickness From Qdec,,rh_S_suborbital_thickness,Right_sulcus_suborbital_thickness_from_Qdec_rh.aparc.a2009s.thickness_file-FreeSurfer(v5.3),1
+Right Gyrus Cingul-Post-dorsal Area From Qdec,,lh_postcentral_meancurv,,0
+Left Gyrus Frontal Middle Thickness From Qdec,,Gender,,0
+Height,The vertical measurement or distance from the base to the top of an object; the vertical dimension of extension.,lh_G_front_inf-Triangul_area,Left_gyrus_frontal_inf-Triangul_area_from_Qdec_lh.aparc.a2009s.area.stats_file,0
+Left Hippocampus Volume,,CSF_ABETA42,Measure_of_the_ABETA_42_protein_in_the_Cerebrospinal_Fluid(CSF),0
+Left Cuneus Volume Gray Matter,,(G_and_S_cingul-Mid-Post)SurfArea,,0
+Left Cortical White Matter Volume,,lhCorticalWhiteMatterVol,,1
+Right Gyrus And Sulcus Cingul-Ant Thickness From Qdec,,wm-lh-postcentral,White-matter-left-postcentral-from_Qdec_wmparc.volume.stats_file-FreeSurfer(v5.3),0
+Right Sulcus Occipital Anterior Thickness From Qdec,,rh_S_occipital_ant_thickness,Right_sulcus_occipital_anterior_thickness_from_Qdec_rh.aparc.a2009s.thickness_file,1
+Age,How long something has existed; elapsed time since birth.,Age,Age_of_the_subject,1
+Left Pericalcarine Meancurv From Qdec,,rh_parahippocampal_meancurv,Right_parahippocampal_meancurv_from_Qdec_rh.aparc.meancurv_file,0
+White-matter-left-parsopercularis-from Qdec Wmparc,,wm-lh-parsopercularis,White-matter-left-parsopercularis-from_Qdec_wmparc.volume.stats_file-FreeSurfer(v5.3),1
+Left Gyrus Parietal Sup Volume From Qdec,,llsupalv,,1
+Left Pole Temporal Thickness From Qdec,,ST18SV,Subcortical Volume (aseg.stats) of LeftCerebellumWM,0
+Right Lateraloccipital Mean Cortical Thickness,,RLATOCCM,,1
+Thyroid,,THYROID,,1
+Right Inferiortemporal Meancurv From Qdec,,rh_inferiortemporal_meancurv,,1
+Right Sulcus Collat Transv Posterior Meancurv From Qdec,,rh_S_collat_transv_post_meancurv,Right_sulcus_collat_transv_posterior_meancurv_from_Qdec_rh.aparc.a2009s.meancurv_file,1
+Neurofilament Light Protein (NfL) in CSF,"Quantification of the levels of neurofilament light chain, typically in blood or cerebrospinal fluid. Used as a marker of neurodegeneration, in Alzheimer's disease, Amyotrophic Lateral Sclerosis, multiple sclerosis and Huntington's disease.",CSFNFL,,1
+Left Lateraloccipital Meancurv From Qdec,,lh_lateraloccipital_meancurv,Left_lateraloccipital_meancurv_from_Qdec_lh.aparc.meancurv_file,1
+Right-UnsegmentedWhiteMatter-from Qdec Wmparc,Right-UnsegmentedWhiteMatter-from_Qdec_wmparc.volume.stats_file,Right-UnsegmentedWhiteMatter,Right-UnsegmentedWhiteMatter-from_Qdec_wmparc.volume.stats_file-FreeSurfer(v5.3),1
+Year of Birth,The year in which a person was born.,RINFTEMP,,0
+Left Gyrus Temp Sup-Lateral Meancurv From Qdec,,lh_G_temp_sup-Lateral_meancurv,Left_gyrus_temp_sup-Lateral_meancurv_from_Qdec_lh.aparc.a2009s.meancurv_file-FreeSurfer(v5.3),1
+Right Gyrus And Sulcus Cingul-Mid-Post Volume From Qdec,,rh_G_temporal_middle_area,Right_gyrus_temporal_middle_area_from_Qdec_rh.aparc.a2009s.area.stats_file,0
+Left Parahippocampal Gray Matter Volume,,lh_parahippocampal_volume,,1
+Right Isthmuscingulate Area From Qdec,,rh_isthmuscingulate_area,,1
+Left Insula Mean Cortical Thickness,,lh_(insula)ThickAvg,,1
+Left Insula Mean Cortical Thickness,,(Pole_temporal)ThickAvg,,0
+Left Paracentral Meancurv From Qdec,,lh_pericalcarine_thickness,Left_pericalcarine_thickness_from_Qdec_lh.aparc.thickness.stats_file,0
+Left Sulcus Frontal Sup Meancurv From Qdec,,Amyloid_beta_1_42,Beta-amyloid 1-42 concentration in CSF,0
+Right Gyrus Cingul-Post-dorsal Volume From Qdec,,(G_cingul-Post-dorsal)GrayVol,,1
+Right Cerebellum Gray Matter Volume,,rh_S_oc_middle_and_Lunatus_volume,Right_sulcus_oc_middle_and_Lunatus_volume_from_Qdec_rh.aparc.a2009s.volume_file-FreeSurfer(v5.3),0
+Year of Birth,The year in which a person was born.,wm-lh-pericalcarine,White-matter-left-pericalcarine-from_Qdec_wmparc.volume.stats_file-FreeSurfer(v5.3),0
+Left Gyrus Precentral Volume From Qdec,,rh_medialorbitofrontal_area,Right_medialorbitofrontal_area_from_Qdec_rh.aparc.area_file,0
+Right Gyrus And Sulcus Frontomargin Volume From Qdec,,Right-VentralDC,Right-VentralDC_from_Qdec_aseg.volume.stats_file-FreeSurfer(v5.3),0
+Stroke,A sudden loss of neurological function secondary to hemorrhage or ischemia in the brain parenchyma due to a vascular event.,Medical History.Stroke,Stroke,1
+Left Sulcus Circular Insula Sup Meancurv From Qdec,,rh_G_pariet_inf-Supramar_area,Right_gyrus_pariet_inf-Supramar_area_from_Qdec_rh.aparc.a2009s.area.stats_file-FreeSurfer(v5.3),0
+Left Frontal Pole Area,,(G_precentral)ThickAvg,,0
+Right Caudal Anterior Cingulate Area,,(Lat_Fis-ant-Horizont)ThickAvg,,0
+Right Frontal Pole Thickness,,lh_G_postcentral_volume,,0
+Left Rostral Anterior Cingulate Gray Matter Volume,,lrpcingv,,0
+Left Gyrus Frontal Middle Area From Qdec,,lh_G_front_middle_area,Left_gyrus_frontal_middle_area_from_Qdec_lh.aparc.a2009s.area.stats_file,1
+Cancer,"A tumor composed of atypical neoplastic, often pleomorphic cells that invade other tissues. Malignant neoplasms often metastasize to distant anatomic sites and may recur after excision. The most common malignant neoplasms are carcinomas (adenocarcinomas or squamous cell carcinomas), Hodgkin and non-Hodgkin lymphomas, leukemias, melanomas, and sarcomas.",MHSCANCER,13. Problems with cancer?,1
+Right Inferior Parietal Area,,rh_inferiorparietal_area,Right_inferiorparietal_area_from_Qdec_rh.aparc.area_file-FreeSurfer(v5.3),1
+A-beta 1-42 in CSF,The determination of the amount of the 1-42 amino acid beta amyloid protein isoform present in a sample.,rh_frontalpole_area,Right_frontalpole_area_from_Qdec_rh.aparc.area_file-FreeSurfer(v5.3),0
+Right Gyrus And Sulcus Paracentral Meancurv From Qdec,,(G_and_S_paracentral)MeanCurv,,1
+Right Paracentral Grey Matter Volume,,total_score,,0
+Right Sulcus Orbital Lateral Volume From Qdec,,lh_S_parieto_occipital_area,Left_sulcus_parieto_occipital_area_from_Qdec_lh.aparc.a2009s.area.stats_file,0
+Left Temporal Pole Gray Matter Volume,,(G_and_S_occipital_inf)SurfArea,,0
+Neurofilament Light Chain (NfL) in Plasma,"Quantification of the levels of neurofilament light chain, typically in blood or cerebrospinal fluid. Used as a marker of neurodegeneration, in Alzheimer's disease, Amyotrophic Lateral Sclerosis, multiple sclerosis and Huntington's disease.",PLASMA_NFL,,1
+Left Sulcus Interm Prim-Jensen Thickness From Qdec,,lh_S_interm_prim-Jensen_thickness,Left_sulcus_interm_prim-Jensen_thickness_from_Qdec_lh.aparc.a2009s.thickness_file-FreeSurfer(v5.3),1
+Left Banks Of The Superior Temoral Sulcus Cortical Thickness,,lh_bankssts_thickness,,1
+Right Isthmuscingulate Volume,,rh_isthmuscingulate_volume,Right_isthmuscingulate_volume_from_Qdec_rh.aparc.volume.stats_file-FreeSurfer(v5.3),1
+Right Sulcus Calcarine Thickness From Qdec,,Right_vessel,,0
+Left Gyrus And Sulcus Cingul-Ant Thickness From Qdec,,rh_G_Ins_lg_and_S_cent_ins_volume,,0
+Left Caudal Middle Frontal Mean Cortical Thickness,,rh_(inferiorparietal)GrayVol,,0
+Right Superiorfrontal Meancurv From Qdec,,rh_(superiorfrontal)MeanCurv,,1
+Mother Age Onset,,wm-rh-rostralmiddlefrontal,White-matter-Right-rostralmiddlefrontal-from_Qdec_wmparc.volume.stats_file,0
+Left Pole Occipital Volume From Qdec,,lh_Pole_occipital_volume,Left_Pole_occipital_volume_from_Qdec_lh.aparc.a2009s.volume_file,1
+White-matter-left-postcentral-from Qdec Wmparc,,wm-lh-postcentral,,1
+Left Sulcus Interm Prim-Jensen Area From Qdec,,lh_S_interm_prim-Jensen_area,Left_sulcus_interm_prim-Jensen_area_from_Qdec_lh.aparc.a2009s.area.stats_file-FreeSurfer(v5.3),1
+Left Pericalcarine Gray Matter Volume,,lh_pericalcarine_volume,,1
+Right Gyrus Orbital Thickness From Qdec,,rh_G_orbital_thickness,Right_gyrus_orbital_thickness_from_Qdec_rh.aparc.a2009s.thickness_file-FreeSurfer(v5.3),1
+Right Sulcus Parieto Occipital Area From Qdec,,rh_S_parieto_occipital_area,Right_sulcus_parieto_occipital_area_from_Qdec_rh.aparc.a2009s.area.stats_file,1
+Right Lingual Grey Matter Volume,,rh_S_cingul-Marginalis_volume,Right_sulcus_cingul-Marginalis_volume_from_Qdec_rh.aparc.a2009s.volume_file,0
+Hachinski,Modified Hachinski Ischemic Scale-NACC Version (MHIS-NACC) Sum all circled answers for a total score.,HACHIN,,1
+White-matter-Right-parahippocampal-from Qdec Wmparc,,rh_G_insular_short_thickness,Right_gyrus_insular_short_thickness_from_Qdec_rh.aparc.a2009s.thickness_file,0
+Left Pars Triangularis Mean Cortical Thickness,,NPISCORE,,0
+Right Middletemporal Area,,(G_and_S_cingul-Mid-Post)ThickAvg,,0
+Left Fusiform Mean Cortical Thickness,,(G_postcentral)MeanCurv,,0
+Right Isthmuscingulate Area From Qdec,,(S_precentral-inf-part)MeanCurv,,0
+Left Lat Fis-ant-Vertical Area From Qdec,,wm-lh-superiorparietal,,0
+Left Lateral Ventricle Volume,,Left-Lateral-Ventricle,Left-Lateral-Ventricle_from_Qdec_aseg.volume.stats_file,1
+Month of Birth,The month in which a person was born.,Psych_side_diag,Psych_side_diag,0
+Cerebrospinal Fluid Volume,,EstimatedTotalIntraCranialVol,,0
+Trail Making Test (TMT) B,Huntington's Disease Cognitive Assessment Battery (HD-CAB) Trail Making Test-B key variable for composite score: Time to completion (sec) of TMT Part B with upper time limit of 240 seconds (reverse scored).,TMTBC,Trial_making_test_B,1
+Left Pole Temporal Thickness From Qdec,,lh_Pole_temporal_thickness,Left_Pole_temporal_thickness_from_Qdec_lh.aparc.a2009s.thickness_file,1
+Right Gyrus Cuneus Meancurv From Qdec,,rh_G_cuneus_meancurv,Right_gyrus_cuneus_meancurv_from_Qdec_rh.aparc.a2009s.meancurv_file-FreeSurfer(v5.3),1
+Race,A geographic ancestral origin category that is assigned to a population group based mainly on physical characteristics that are thought to be distinct and inherent.,Race,Racial_identity,1
+Left Superiorparietal Meancurv From Qdec,,lh_(parstriangularis)GrayVol,,0
+Right Superiorparietal Mean Cortical Thickness,,rh_(superiorparietal)ThickAvg,,1
+Right Frontalpole Area,,lh_G_temp_sup-Plan_tempo_thickness,Left_gyrus_temp_sup-Plan_tempo_thickness_from_Qdec_lh.aparc.a2009s.thickness_file,0
+White-matter-Right-medialorbitofrontal-from Qdec Wmparc,,wm-rh-medialorbitofrontal,,1
+Left Pole Occipital Volume From Qdec,,lh_bankssts_meancurv,Left_banks_of_the_superior_temoral_sulcus_meancurv_from_Qdec_lh.aparc.meancurv_file-FreeSurfer(v5.3),0
+Left Paracentral Area,,(G_Ins_lg_and_S_cent_ins)ThickAvg,,0
+Left Lingual Mean Cortical Thickness,,rh_rostralanteriorcingulate_meancurv,,0
+Right Postcentral Mean Cortical Thickness,,lh_superiortemporal_meancurv,Left_superiortemporal_meancurv_from_Qdec_lh.aparc.meancurv_file,0
+Right Sulcus Circular Insula Inferior Volume From Qdec,,(S_circular_insula_inf)GrayVol,,1
+Left Middletemporal Area,,right_parasubiculum,Right_parasubiculum,0
+Thyroid,,rh_G_oc-temp_med-Lingual_thickness,,0
+Left Pallidum Volume,,(Left-Pallidum)Volume_mm3,,1
+Right Gyrus Temporal Inferior Volume From Qdec,,lh_(rostralanteriorcingulate)ThickAvg,,0
+Left Transverse Temporal Grey Matter Volume,,lh_temporalpole_thickness,Left_temporalpole_thickness_from_Qdec_lh.aparc.thickness.stats_file-FreeSurfer(v5.3),0
+Left Precentral Meancurv From Qdec,,lh_precentral_meancurv,,1
+Alzheimer’s Disease Assessment Scale 13-item (ADAS13),"Alzheimer's Disease Assessment Scale-Cognitive CDISC Version (ADAS-Cog CDISC Version) Word recognition task for word 13 Trials 1, 2, 3.",ADAS_Total_Raw_score,,1
+Right Banks Of The Superior Temoral Sulcus Thickness,,rh_Pole_occipital_thickness,Right_Pole_occipital_thickness_from_Qdec_rh.aparc.a2009s.thickness_file-FreeSurfer(v5.3),0
+CC Mid Anterior From Qdec Aseg,,lh_middletemporal_meancurv,Left_middletemporal_meancurv_from_Qdec_lh.aparc.meancurv_file,0
+Right Fusiform Volume From Qdec aparc,,rh_fusiform_volume,Right_fusiform_volume_from_Qdec_rh.aparc.volume.stats_file-FreeSurfer(v5.3),1
+Participant ID,An alphanumeric identifier assigned to a specific patient.,past_depression,Any diagnosis of depression in the past?,0
+Left Sulcus Calcarine Meancurv From Qdec,,(S_calcarine)MeanCurv,,1
+APOE,"Human APOE*4 allele is located in the vicinity of 19q13.2 and is approximately 4 kb in length. This allele, which encodes apolipoprotein E4, plays a role in triglyceride metabolism. The allele is associated with increased occurrence of both Alzheimer disease and coronary artery disease.",LSUPTEMM,,0
+LeftCortexVol From Qdec Aseg,,lhCortexVol,LeftCortexVol_from_Qdec_aseg.volume.stats_file-FreeSurfer(v5.3),1
+Right Gyrus Temporal Inferior Meancurv From Qdec,,lh_isthmuscingulate_meancurv,,0
+White-matter-Right-pericalcarine-from Qdec Wmparc,White-matter-Right-pericalcarine-from_Qdec_wmparc.volume.stats_file,wm-rh-pericalcarine,White-matter-Right-pericalcarine-from_Qdec_wmparc.volume.stats_file-FreeSurfer(v5.3),1
+Right Lateralorbitofrontal Mean Cortical Thickness,,RPARHIPM,,0
+BMI,An individual's weight in kilograms divided by the square of the height in meters.,lh_parsopercularis_area,,0
+Right Temporalpole Meancurv From Qdec,,rh_(temporalpole)MeanCurv,,1
+Right Gyrus Occipital Middle Volume From Qdec,,lrmoccgv,,1
+Left Sulcus Oc Middle And Lunatus Area From Qdec,,rh_(parahippocampal)MeanCurv,,0
+Right Pericalcarine Area,,rh_(pericalcarine)SurfArea,,1
+Right Sulcus Interm Prim-Jensen Area From Qdec,,CSF_ABETA42,Measure_of_the_ABETA_42_protein_in_the_Cerebrospinal Fluid(CSF),0
+Right Rostral Anterior Cingulate Gray Matter Volume,,rh_rostralanteriorcingulate_volume,Right_rostralanteriorcingulate_volume_from_Qdec_rh.aparc.volume.stats_file,1
+Left Sulcus Temporal Transverse Meancurv From Qdec,,rh_S_precentral-inf-part_area,Right_sulcus_precentral-inf-part_area_from_Qdec_rh.aparc.a2009s.area.stats_file-FreeSurfer(v5.3),0
+Left CA3 Volume,Left_CA3,left_CA3,Left_CA3-FreeSurfer(v6Beta),1
+Left Sulcus Oc Sup And Transversal Meancurv From Qdec,,AV45,,0
+Right Sulcus Suborbital Meancurv From Qdec,,Alcohol,Alcohol use ,0
+Right Lat Fis-ant-Vertical Volume From Qdec,,lh_G_precuneus_thickness,,0
+Left Middletemporal Area,,lh_(middletemporal)SurfArea,,1
+Right Gyrus Oc-temp Lat-fusifor Thickness From Qdec,,lh_S_precentral-sup-part_volume,Left_sulcus_precentral-sup-part_volume_from_Qdec_lh.aparc.a2009s.volume_file-FreeSurfer(v5.3),0
+Left Fusiform Mean Cortical Thickness,,rh_MeanThickness_thickness,Right_MeanThickness_thickness_from_Qdec_rh.aparc.thickness.stats_file,0
+White-matter-left-rostralmiddlefrontal-from Qdec Wmparc,,wm-lh-rostralmiddlefrontal,White-matter-left-rostralmiddlefrontal-from_Qdec_wmparc.volume.stats_file-FreeSurfer(v5.3),1
+Left Cuneus Volume Gray Matter,,RMIDTEMM,,0
+Right Gyrus And Sulcus Transv Frontopol Volume From Qdec,,rh_G_and_S_transv_frontopol_volume,Right_gyrus_and_sulcus_transv_frontopol_volume_from_Qdec_rh.aparc.a2009s.volume_file,1
+Left Sulcus Occipital Anterior Thickness From Qdec,,lh_S_occipital_ant_thickness,Left_sulcus_occipital_anterior_thickness_from_Qdec_lh.aparc.a2009s.thickness_file,1
+Right Cuneus Gray Matter Volume,,rh_(cuneus)GrayVol,,1
+Left Caudalanteriorcingulate Meancurv From Qdec,,wm-lh-temporalpole,White-matter-left-temporalpole-from_Qdec_wmparc.volume.stats_file,0
+Mother Dementia,,MOTHDEM,,1
+Left Caudal Middle Frontal Mean Cortical Thickness,,LCMFM,,1
+Right Entorightinal Area,,rh_entorhinal_area,Right_entorightinal_area_from_Qdec_rh.aparc.area_file-FreeSurfer(v5.3),1
+Right Gyrus And Sulcus Transv Frontopol Area From Qdec,,(Right-vessel)Volume_mm3,,0
+Mother Age Onset,,MOTHSXAGE,,1
+Verbal fluency tests (Semantic) Animal,A test that measures the verbal fluency of an individual. This tool measures both semantic fluency and phonetic fluency.,CATANIMSC,,1
+Right-non-white Matter Hypointensities Volume,Right-non-white matter hypointensities,Right-non-WM-hypointensities,Right-non-White-matter-hypointensities_from_Qdec_aseg.volume.stats_file,1
+Anxiety,"A feeling of worry, nervousness, or unease about something with an uncertain outcome.",(S_temporal_sup)SurfArea,,0
+Right Sulcus Postcentral Meancurv From Qdec,,rh_S_orbital_lateral_volume,,0
+Left Insula Volume From Qdec aparc,,TMT_Score_A,,0
+Left Sulcus Precentral-inf-part Area From Qdec,,rh_(isthmuscingulate)SurfArea,,0
+Vascular Endothelial Growth Factor (VEGF) in Plasma,A sub-family of the cysteine knot platelet-derived growth factor family. Members of the vascular endothelial growth factor (VEGF) family play a role in the promotion of embryonic vasculogenesis and the stimulation of angiogenesis during physiologic and pathologic processes.,rh_frontalpole_meancurv,Right_frontalpole_meancurv_from_Qdec_rh.aparc.meancurv_file-FreeSurfer(v5.3),0
+Left Sulcus Frontal Sup Area From Qdec,,lh_S_front_sup_area,Left_sulcus_frontal_sup_area_from_Qdec_lh.aparc.a2009s.area.stats_file,1
+Mother Age Onset,,lh_isthmuscingulate_volume,Left_isthmuscingulate_volume_from_Qdec_lh.aparc.volume.stats_file-FreeSurfer(v5.3),0
+Left Gyrus Pariet Inf-Supramar Volume From Qdec,,lh_G_temporal_inf_volume,Left_gyrus_temporal_inferior_volume_from_Qdec_lh.aparc.a2009s.volume_file,0
+Left Supramarginal Area,,rh_G_front_inf-Triangul_thickness,,0
+Left Gyrus Temp Sup-G T Transv Thickness From Qdec,,(G_temp_sup-G_T_transv)ThickAvg,,1
+Right Ventral Diencephalon Volume,,(Right-VentralDC)Volume_mm3,,1
+Logical Memory - Delayed Recall,"A subtest of the Wechsler Memory Scale, 4th Edition that assesses narrative memory under a free recall condition. A short story is presented orally. After a delay, the subject is asked to recall the story from memory.",Logic_Memory_Delayed,,1
+Right Sulcus Temporal Transverse Volume From Qdec,,rh_S_temporal_transverse_volume,,1
+Left Inferiorparietal Meancurv From Qdec,,lh_inferiorparietal_meancurv,Left_inferiorparietal_meancurv_from_Qdec_lh.aparc.meancurv_file,1
+Left Gyrus Postcentral Thickness From Qdec,,lh_G_postcentral_thickness,Left_gyrus_postcentral_thickness_from_Qdec_lh.aparc.a2009s.thickness_file,1
+Left Gyrus Frontal Inf-Opercular Thickness From Qdec,,(S_circular_insula_ant)SurfArea,,0
+Right Sulcus Circular Insula Anterior Area From Qdec,,Left-Lateral-Ventricle,Left-Lateral-Ventricle_from_Qdec_aseg.volume.stats_file,0
+Month of Birth,The month in which a person was born.,lh_lateralorbitofrontal_volume,Left_lateralorbitofrontal_volume_from_Qdec_lh.aparc.volume.stats_file,0
+Right Sulcus Orbital Lateral Thickness From Qdec,,rh_S_orbital_lateral_thickness,Right_sulcus_orbital_lateral_thickness_from_Qdec_rh.aparc.a2009s.thickness_file-FreeSurfer(v5.3),1
+Left Sulcus Circular Insula Sup Thickness From Qdec,,(S_circular_insula_sup)ThickAvg,,1
+Left Caudal Middle Frontal Area,,lh_(caudalmiddlefrontal)SurfArea,,1
+Left Lateral Occipital Gray Matter Volume,,lh_lateraloccipital_volume,,1
+FDG PET,Fluorodeoxyglucose Positron Emission Tomography,FDG,,1
+Left Gyrus And Sulcus Frontomargin Thickness From Qdec,,lrmfgyv,,0
+Left Sulcus Oc Sup And Transversal Area From Qdec,,lh_S_oc_sup_and_transversal_area,Left_sulcus_oc_sup_and_transversal_area_from_Qdec_lh.aparc.a2009s.area.stats_file-FreeSurfer(v5.3),1
+Left Sulcus Temporal Transverse Thickness From Qdec,,lh_S_temporal_transverse_thickness,Left_sulcus_temporal_transverse_thickness_from_Qdec_lh.aparc.a2009s.thickness_file,1
+Right Sulcus Calcarine Thickness From Qdec,,rh_S_calcarine_thickness,Right_sulcus_calcarine_thickness_from_Qdec_rh.aparc.a2009s.thickness_file,1
+Right Gyrus And Sulcus Cingul-Ant Volume From Qdec,,lh_parstriangularis_area,Left_parstriangularis_area_from_Qdec_lh.aparc.area_file,0
+Right Amygdala Volume,,rh_G_orbital_thickness,Right_gyrus_orbital_thickness_from_Qdec_rh.aparc.a2009s.thickness_file,0
+Year of Birth,The year in which a person was born.,AGEYR,Age in Years at Consent,1
+Left Gyrus Oc-temp Med-Lingual Meancurv From Qdec,,lh_G_oc-temp_med-Lingual_meancurv,Left_gyrus_oc-temp_med-Lingual_meancurv_from_Qdec_lh.aparc.a2009s.meancurv_file,1
+Diagnosis,"The investigation, analysis and recognition of the presence and nature of disease, condition, or injury from expressed signs and symptoms; also, the scientific determination of any kind; the concise results of such an investigation.",rh_G_subcallosal_volume,Right_gyrus_subcallosal_volume_from_Qdec_rh.aparc.a2009s.volume_file-FreeSurfer(v5.3),0
+Left Gyrus And Sulcus Cingul-Mid-Post Thickness From Qdec,,rh_G_temporal_inf_volume,,0
+Left Rostral Anterior Cingulate Mean Cortical Thickness,,LROSANCM,,1
+Left Pars Orbitalis Area,,lh_parsorbitalis_area,Left_parsorbitalis_area_from_Qdec_lh.aparc.area_file,1
+Left Sulcus Temporal Sup Volume From Qdec,,lh_S_temporal_sup_volume,Left_sulcus_temporal_sup_volume_from_Qdec_lh.aparc.a2009s.volume_file,1
+Right Superiorparietal Mean Cortical Thickness,,lh_S_collat_transv_ant_thickness,Left_sulcus_collat_transv_anterior_thickness_from_Qdec_lh.aparc.a2009s.thickness_file-FreeSurfer(v5.3),0
+Left Sulcus Central Volume From Qdec,,lh_S_central_volume,Left_sulcus_central_volume_from_Qdec_lh.aparc.a2009s.volume_file,1
+Left Superior Temporal Mean Cortical Thickness,,LSUPTEMM,,1
+A-beta 1-42 in CSF,The determination of the amount of the 1-42 amino acid beta amyloid protein isoform present in a sample.,(G_temp_sup-Lateral)GrayVol,,0
+Left Sulcus Oc-temp Lat Volume From Qdec,,(S_oc-temp_lat)GrayVol,,1
+Left Sulcus Oc Sup And Transversal Meancurv From Qdec,,PACKSPER,,0
+Right Sulcus Oc-temp Med And Lingual Thickness From Qdec,,rh_G_front_sup_volume,Right_gyrus_frontal_sup_volume_from_Qdec_rh.aparc.a2009s.volume_file-FreeSurfer(v5.3),0
+Right Sulcus Orbital-H Shaped Volume From Qdec,,rh_G_cuneus_area,Right_gyrus_cuneus_area_from_Qdec_rh.aparc.a2009s.area.stats_file,0
+Right Precentral Meancurv From Qdec,,Right-VentralDC,,0
+A-beta 1-42 in Plasma,The determination of the amount of the 1-42 amino acid beta amyloid protein isoform present in a sample.,Plasma_Abeta1-42,Plasma_Abeta1-42,1
+PET-hypoperfusion: posterior cingulate,,PETCINPO,PET-hypoperfusion:-posterior_cingulate,1
+Right Sulcus Collat Transv Anterior Area From Qdec,,rh_S_collat_transv_ant_area,Right_sulcus_collat_transv_anterior_area_from_Qdec_rh.aparc.a2009s.area.stats_file,1
+Right Gyrus Frontal Inf-Opercular Thickness From Qdec,,lh_bankssts_volume,,0
+Right Gyrus Subcallosal Volume From Qdec,,lh_G_temporal_inf_thickness,Left_gyrus_temporal_inferior_thickness_from_Qdec_lh.aparc.a2009s.thickness_file,0
+Right Gyrus Temp Sup-Lateral Area From Qdec,,rh_G_temp_sup-Lateral_area,,1
+Right Sulcus Circular Insula Inferior Meancurv From Qdec,,(S_circular_insula_inf)MeanCurv,,1
+Left Sulcus Cingul-Marginalis Area From Qdec,,lh_S_cingul-Marginalis_area,Left_sulcus_cingul-Marginalis_area_from_Qdec_lh.aparc.a2009s.area.stats_file-FreeSurfer(v5.3),1
+Right Gyrus Frontal Inf-Triangul Area From Qdec,,rh_G_front_inf-Triangul_area,Right_gyrus_frontal_inf-Triangul_area_from_Qdec_rh.aparc.a2009s.area.stats_file-FreeSurfer(v5.3),1
+Left Pars Orbitalis Area,,ST46SA,Surface Area (aparc.stats) of LeftParsOrbitalis,1
+Right Paracentral Mean Cortical Thickness,,RPARCENM,,1
+Left Parahippocampal Gray Matter Volume,,lh_parahippocampal_volume,Left_parahippocampal_volume_from_Qdec_lh.aparc.volume.stats_file-FreeSurfer(v5.3),1
+A-beta 1-42 in CSF,The determination of the amount of the 1-42 amino acid beta amyloid protein isoform present in a sample.,ABETA,ABETA,1
+Right Sulcus Orbital Lateral Volume From Qdec,,tribgre,TMT_raw_score-part_B,0
+Fourth Ventricle Volume,,4th-Ventricle,,1
+Right Sulcus Precentral-inf-part Meancurv From Qdec,,lh_parsorbitalis_thickness,,0
+Right Insula Area,,ST130SA,Surface Area (aparc.stats) of RightInsula,1
+Right Parsopercularis Area,,rh_(parsopercularis)SurfArea,,1
+Right Sulcus Circular Insula Anterior Thickness From Qdec,,right_molecular_layer_HP,Right_molecular_layer_HP-FreeSurfer(v6Beta),0
+Right Accumbens Area Volume,,Right-Accumbens-area,Right-Accumbens-area_from_Qdec_aseg.volume.stats_file,1
+White-matter-Right-lingual-from Qdec Wmparc,,Neuropsych.FAS (total),Controlled Oral Word Association Test Total,0
+White-matter-left-parstriangularis-from Qdec Wmparc,,wm-lh-parstriangularis,White-matter-left-parstriangularis-from_Qdec_wmparc.volume.stats_file,1
+Right Gyrus And Sulcus Frontomargin Meancurv From Qdec,,TOBAC30,,0
+Right Sulcus Collat Transv Posterior Thickness From Qdec,,rh_S_collat_transv_post_thickness,Right_sulcus_collat_transv_posterior_thickness_from_Qdec_rh.aparc.a2009s.thickness_file,1
+Left Gyrus Frontal Inf-Opercular Area From Qdec,,(S_temporal_transverse)SurfArea,,0
+Left Thalamus Volume,,ST61SV,Subcortical Volume (aseg.stats) of LeftThalamus,1
+Right Gyrus Occipital Sup Volume From Qdec,,lh_G_and_S_subcentral_volume,Left_gyrus_and_sulcus_subcentral_volume_from_Qdec_lh.aparc.a2009s.volume_file-FreeSurfer(v5.3),0
+Left Rostral Anterior Cingulate Mean Cortical Thickness,,lh_rostralanteriorcingulate_thickness,Left_rostralanteriorcingulate_thickness_from_Qdec_lh.aparc.thickness.stats_file-FreeSurfer(v5.3),1
+Biological Sex,The assemblage of physical properties or qualities by which male is distinguished from female; the physical difference between male and female; the distinguishing peculiarity of male or female.,Sex,Sex,1
+Right Lat Fis-ant-Horizont Thickness From Qdec,,lh_S_orbital-H_Shaped_meancurv,Left_sulcus_orbital-H_Shaped_meancurv_from_Qdec_lh.aparc.a2009s.meancurv_file-FreeSurfer(v5.3),0
+Alzheimer's Disease Cooperative Study - Activities of Daily Living (ADCS_ADL),Alzheimer's Disease Cooperative Study-Activities of Daily Living Inventory (ADCS-ADL) Total score.,No total score.,,1
+Right Molecular Layer HP Volume,Right_molecular_layer_HP,right_molecular_layer_HP,Right_molecular_layer_HP,1
+Left Subiculum Volume,Left_subiculum,wm-lh-paracentral,,0
+Right Isthmuscingulate Volume,,(S_front_middle)GrayVol,,0
+A-beta 1-40 in Plasma,The determination of the amount of amyloid beta protein which is composed of peptides 1 to 40 in a sample.,AB40,,1
+A-beta 1-40 in Plasma,The determination of the amount of amyloid beta protein which is composed of peptides 1 to 40 in a sample.,rh_(precentral)MeanCurv,,0
+Handedness,The preferred hand of use for controlled and efficient performance of motor tasks.,HANDED,"Is the subject left- or right-handed (for example, which hand would s/he normally use to write or throw a ball)?",1
+Left Frontalpole Meancurv From Qdec,,(G_occipital_middle)ThickAvg,,0
+Right Gyrus Pariet Inf-Supramar Meancurv From Qdec,,rh_G_oc-temp_med-Lingual_area,Right_gyrus_oc-temp_med-Lingual_area_from_Qdec_rh.aparc.a2009s.area.stats_file-FreeSurfer(v5.3),0
+Right Lat Fis-ant-Vertical Area From Qdec,,lh_G_temp_sup-Plan_tempo_volume,Left_gyrus_temp_sup-Plan_tempo_volume_from_Qdec_lh.aparc.a2009s.volume_file-FreeSurfer(v5.3),0
+Left Gyrus And Sulcus Paracentral Thickness From Qdec,,(G_and_S_paracentral)ThickAvg,,1
+Left HATA Volume,Left_HATA,wm-rh-rostralmiddlefrontal,White-matter-Right-rostralmiddlefrontal-from_Qdec_wmparc.volume.stats_file,0
+Left Sulcus Precentral-inf-part Thickness From Qdec,,rh_Lat_Fis-ant-Vertical_meancurv,Right_Lat_Fis-ant-Vertical_meancurv_from_Qdec_rh.aparc.a2009s.meancurv_file-FreeSurfer(v5.3),0
+Left Lat Fis-ant-Vertical Area From Qdec,,(Lat_Fis-ant-Vertical)SurfArea,,1
+Right Lat Fis-post Area From Qdec,,rh_Lat_Fis-post_area,Right_Lat_Fis-post_area_from_Qdec_rh.aparc.a2009s.area.stats_file,1
+Right Gyrus Temp Sup-G T Transv Thickness From Qdec,,rh_G_temp_sup-G_T_transv_thickness,Right_gyrus_temp_sup-G_T_transv_thickness_from_Qdec_rh.aparc.a2009s.thickness_file-FreeSurfer(v5.3),1
+Height,The vertical measurement or distance from the base to the top of an object; the vertical dimension of extension.,height,"""2. Height (inches):",1
+Schizophrenia,"A major psychotic disorder characterized by abnormalities in the perception or expression of reality. It affects the cognitive and psychomotor functions. Common clinical signs and symptoms include delusions, hallucinations, disorganized thinking, and retreat from reality.",rh_S_temporal_transverse_volume,Right_sulcus_temporal_transverse_volume_from_Qdec_rh.aparc.a2009s.volume_file,0
+Right Pole Temporal Thickness From Qdec,,(S_temporal_inf)GrayVol,,0
+Left Precuneus Area,,Right-Putamen,Right-Putamen_from_Qdec_aseg.volume.stats_file,0
+Right Hippocampus Volume,,RHIPPO,,1
+Right Gyrus And Sulcus Occipital Inferior Meancurv From Qdec,,(G_and_S_occipital_inf)MeanCurv,,1
+Vision,"Tests to assess the ability to focus on and discern objects, colors, depth, etc.",CC_Mid_Anterior,CC_Mid_Anterior_from_Qdec_aseg.volume.stats_file-FreeSurfer(v5.3),0
+Right Sulcus Circular Insula Sup Thickness From Qdec,,rh_S_circular_insula_sup_thickness,,1
+Right Entorightinal Area,,rh_(entorhinal)SurfArea,,1
+Right Rostral Middle Frontal Mean Cortical Thickness,,RROSMFM,,1
+Right Gyrus And Sulcus Subcentral Thickness From Qdec,,rh_G_and_S_subcentral_thickness,Right_gyrus_and_sulcus_subcentral_thickness_from_Qdec_rh.aparc.a2009s.thickness_file,1
+Right Lateralorbitofrontal Volume,,ST95CV,Cortical Volume (aparc.stats) of RightLateralOrbitofrontal,1
+Right Caudal Anterior Cingulate Mean Cortical Thickness,,rh_parsopercularis_meancurv,Right_parsopercularis_meancurv_from_Qdec_rh.aparc.meancurv_file-FreeSurfer(v5.3),0
+Right Gyrus And Sulcus Transv Frontopol Meancurv From Qdec,,Clock_Drawing_score,,0
+Heart Rate,"The number of heartbeats per unit of time, usually expressed as beats per minute.",Vital Signs.Heart rate,Heart rate,1
+Left Parasubiculum Volume,Left_parasubiculum,lh_G_and_S_transv_frontopol_thickness,Left_gyrus_and_sulcus_transv_frontopol_thickness_from_Qdec_lh.aparc.a2009s.thickness_file,0
+Left Gyrus Temp Sup-G T Transv Volume From Qdec,,PET-ROI-temporal_left,,0
+Right Superior Frontal Gray Matter Volume,,rh_S_circular_insula_inf_thickness,,0
+Left Sulcus Suborbital Thickness From Qdec,,lh_S_suborbital_thickness,Left_sulcus_suborbital_thickness_from_Qdec_lh.aparc.a2009s.thickness_file,1
+Right Fusiform Volume From Qdec aparc,,rh_(fusiform)GrayVol,,1
+Right Gyrus And Sulcus Subcentral Area From Qdec,,lh_lateralorbitofrontal_area,Left_lateralorbitofrontal_area_from_Qdec_lh.aparc.area_file,0
+Right Transverse Temporal Grey Matter Volume,,lh_(insula)GrayVol,,0
+Right Sulcus Temporal Sup Area From Qdec,,lh_G_oc-temp_lat-fusifor_thickness,Left_gyrus_oc-temp_lat-fusifor_thickness_from_Qdec_lh.aparc.a2009s.thickness_file-FreeSurfer(v5.3),0
+Right Medialorbitofrontal Meancurv From Qdec,,rh_medialorbitofrontal_meancurv,,1
+Right Gyrus Temporal Inferior Thickness From Qdec,,rh_G_temporal_inf_thickness,Right_gyrus_temporal_inferior_thickness_from_Qdec_rh.aparc.a2009s.thickness_file,1
+Left Caudalanteriorcingulate Meancurv From Qdec,,lh_caudalanteriorcingulate_meancurv,Left_caudalanteriorcingulate_meancurv_from_Qdec_lh.aparc.meancurv_file,1
+Left Gyrus Pariet Inf-Supramar Meancurv From Qdec,,lh_G_pariet_inf-Supramar_meancurv,Left_gyrus_pariet_inf-Supramar_meancurv_from_Qdec_lh.aparc.a2009s.meancurv_file,1
