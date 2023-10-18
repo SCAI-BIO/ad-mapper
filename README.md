@@ -22,5 +22,16 @@ pip install -r backend/requirements.txt
 ```
 ## Frontend
 
+In the frontend folder do:
+
+```bash
+npm i . 
+```
+And adjust the VUE_APP_API variable in .env.development(/production) if necessary. 
+
+## Run everything 
+_Backend_: In the backend folder: ```bash uvicorn main:app```
+_Frontend_: ```bash npm run serve```
+
 
 
