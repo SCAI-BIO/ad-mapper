@@ -10,6 +10,11 @@ In the base directory do:
 ```bash
 export PYTHONPATH=$(pwd):PYTHONPATH
 ```
+In the backend directory do: 
+```bash
+export BASEDIR=$(pwd)
+```
+
 
 Install backend/requirements.txt using  
 ```bash
