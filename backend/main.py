@@ -2,6 +2,7 @@ import os
 from uuid import uuid4
 os.environ['KMP_DUPLICATE_LIB_OK']='True' ## don't know why :(
 import torch
+import requests
 
 BACKEND_URL = os.environ.get("BACKEND_URL", "http://localhost:8000")
 
@@ -40,7 +41,11 @@ from fastapi.middleware.cors import CORSMiddleware
 
 ## Supertokens initialization
 print("Loading FASTAPI...")
-app = FastAPI()
+
+app = FastAPI(
+    version="0.2.0",
+)
+
 origins = [
     "*"
 ]
@@ -65,8 +70,22 @@ print("loading done")
 
 
 
+def load_model_files():
+    if not os.path.exists(os.path.join(BASEDIR, "ai_mapper","bioBERT_ai_mapper_v3_dataset.pth" )):
+        print("Downloading model files...")
+        r = requests.get("https://huggingface.co/phwegn/ad-mapper/resolve/main/bioBERT_ai_mapper_v3_dataset.pth")
+        with open(os.path.join(BASEDIR, "ai_mapper","bioBERT_ai_mapper_v3_dataset.pth" ), 'wb') as f:
+            f.write(r.content)
+    if not os.path.exists(os.path.join(BASEDIR, "ai_mapper","bioBERT_classifier_v3_optimized_dataset_60_epochs.pth" )):
+        print("Downloading model files...")
+        r = requests.get("https://huggingface.co/phwegn/ad-mapper/resolve/main/bioBERT_classifier_v3_optimized_dataset_60_epochs.pth")
+        with open(os.path.join(BASEDIR, "ai_mapper","bioBERT_classifier_v3_optimized_dataset_60_epochs.pth" ), 'wb') as f:
+            f.write(r.content)
 
 
+
+
+load_model_files()
 ## initialte ai-model 
 
 config = {
