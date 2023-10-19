@@ -23,7 +23,7 @@ jobs:
       id: versions
       run: |
         echo "FRONTEND_VERSION=$(node -p "require('./frontend/variable-mapper/package.json').version")" >> "$GITHUB_OUTPUT"
-        echo "BACKEND_VERSION=0.0.1 >> "$GITHUB_OUTPUT"
+        echo "BACKEND_VERSION=0.2.0" >> >> "$GITHUB_OUTPUT"
     - name: Build & push frontend
       uses: docker/build-push-action@v5
       with:
