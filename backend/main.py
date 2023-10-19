@@ -34,7 +34,7 @@ import pandas as pd
 mapper_data = pd.read_csv(os.path.join(BASEDIR, "ai_mapper/embedding_spaces/CDM/ad-mapper_data.csv"))#.drop(columns=['AMED'])
 
 
-
+mapper_data2 = pd.read_csv(os.path.join(BASEDIR, "ad-mapper_data.csv"))#.drop(columns=['AMED'])
 
 #from starlette.middleware.cors import CORSMiddleware
 from fastapi.middleware.cors import CORSMiddleware
@@ -301,7 +301,7 @@ def ai_mapping_2(variable_name : str = None, variable_description : str = None, 
 
 @app.post("/v2/csv-mapper", response_model = AIMapperOutputModelCSV )
 def ai_mapping_2_csv(csvFile: UploadFile, variableColumnName: str = "Variable", definitionColumnName: str = "Definition", k: int = 10, w_1: float = 1.0, w_2 : float = 0.0, bypass_binary: bool = False, class_prob_threshold: float = 0.5, usePriorMappings: bool = False, useDefinitions: bool =True, useSubstringMetric: bool = False, return_all_mappings: bool = False, delimiter: str = ";"):
-    
+    print(delimiter)
     file_content = csvFile.file.read()
 
     df = pd.read_csv(io.StringIO(file_content.decode('utf-8')), sep=delimiter)
@@ -363,7 +363,7 @@ def download_cdm():
 @app.get("/get-cdm-as-json")
 def get_cdm_as_csv():
     
-    return mapper_data.fillna("").to_dict(orient="records")
+    return mapper_data2.fillna("").to_dict(orient="records")
     
 
 # POST variable

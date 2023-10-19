@@ -29,9 +29,9 @@
                 <select name="delimiter" id="delimiter" v-model="delimiter"
                   class="block w-full rounded-md border-gray-300 shadow-sm focus:border-indigo-500 focus:ring-indigo-500 sm:text-sm"
                >
-                  <option value="true">;</option>
-                  <option value="false">,</option>
-                  <option value="false">\t</option>
+                  <option value=";">;</option>
+                  <option value=",">,</option>
+                  <option value="\t">\t</option>
                 </select>
               </div>
             </div>

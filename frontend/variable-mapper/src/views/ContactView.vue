@@ -10,7 +10,7 @@
         <div class="lg:col-span-2">
           <ul role="list" class="space-y-12 sm:grid sm:grid-cols-2 sm:gap-12 sm:space-y-0 lg:gap-x-8">
             <li v-for="person in people" :key="person.name">
-              <div class="flex items-center space-x-4 lg:space-x-6">
+              <div class="flex space-x-4 lg:space-x-6">
                 <img class="w-16 h-16 rounded-full lg:w-20 lg:h-20" :src="person.imageUrl" alt="" />
                 <div class="font-medium text-lg leading-6 space-y-1">
                   <h3>{{ person.name }}</h3>
