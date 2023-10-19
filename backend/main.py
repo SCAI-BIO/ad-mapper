@@ -42,11 +42,15 @@ from fastapi.middleware.cors import CORSMiddleware
 ## Supertokens initialization
 print("Loading FASTAPI...")
 
+
+version="0.2.1"
+
+
 app = FastAPI(
-    version="0.2.0",
+    version=version,
 )
 
-version="0.2.0"
+
 
 origins = [
     "*"
