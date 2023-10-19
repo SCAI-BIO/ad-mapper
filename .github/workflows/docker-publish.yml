@@ -17,10 +17,11 @@ jobs:
         registry: ghcr.io
         username: ${{ github.actor }}
         password: ${{ secrets.GITHUB_TOKEN }}
+    - name: Checkout
+      uses: actions/checkout@v2
     - name: Get Version Tags
       id: versions
       run: |
-        pwd
         echo "FRONTEND_VERSION=$(node -p "require('./frontend/variable-mapper/package.json').version")" >> "$GITHUB_OUTPUT"
         echo "BACKEND_VERSION=0.0.1 >> "$GITHUB_OUTPUT"
     - name: Build & push frontend
