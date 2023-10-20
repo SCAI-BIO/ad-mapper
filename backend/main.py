@@ -43,7 +43,7 @@ from fastapi.middleware.cors import CORSMiddleware
 print("Loading FASTAPI...")
 
 
-version="0.2.3"
+version="0.2.4"
 
 
 app = FastAPI(
@@ -345,7 +345,7 @@ def ai_mapping_2_csv(csvFile: UploadFile, variableColumnName: str = "Variable", 
     pd.DataFrame(data, columns=columns).to_csv(f'tmp/{uuid}.csv')
 
     return {
-        "file": BACKEND_URL + "/download/" + uuid
+        "file": BACKEND_URL + "download/" + uuid
     }
 
 

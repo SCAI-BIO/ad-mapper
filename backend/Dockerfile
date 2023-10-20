@@ -8,6 +8,8 @@ RUN python3 -m pip install -r requirements.txt
 
 ENV BASEDIR="/app"
 
+ENV BACKEND_URL="https://ad-mapper.scai.fraunhofer.de/api/"
+
 RUN python3 /app/load_models.py
 
 EXPOSE 8000

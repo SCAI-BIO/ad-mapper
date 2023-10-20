@@ -1,0 +1,4 @@
+,Variable,Description,target,OMOP
+0,gender,,biological sex,4135376.0
+1,Left hippocampus,The volume of the hippocampus (left),left hippocampus volume,
+2,clock_draw,Clock drawing test,clock drawing test,
