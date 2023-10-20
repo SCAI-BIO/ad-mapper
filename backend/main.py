@@ -6,6 +6,8 @@ import requests
 
 BACKEND_URL = os.environ.get("BACKEND_URL", "http://localhost:8000")
 
+BACKEND_URL="https://ad-mapper.scai.fraunhofer.de/api/"
+
 
 from fastapi import FastAPI, File, HTTPException, UploadFile
 
@@ -43,7 +45,7 @@ from fastapi.middleware.cors import CORSMiddleware
 print("Loading FASTAPI...")
 
 
-version="0.2.4"
+version="0.2.5"
 
 
 app = FastAPI(
