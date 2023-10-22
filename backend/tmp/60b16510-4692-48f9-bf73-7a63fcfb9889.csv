@@ -1,0 +1,6 @@
+,"""Variable""","""Description""",target,OMOP
+0,"""gender""",,biological sex,4135376.0
+1,"""Left hippocampus""","""The volume of the hippocampus (left)""",left hippocampus volume,
+2,"""clock_draw""","""Clock drawing test""",clock drawing test,
+3,"""Cognitive tests: TMT""","""Trail Making Test date (dd/mm/yyyy)""",verbal fluency tests (semantic) animal,
+4,"""Cognitive tests: MMSE""","""Mini-Mental State Examination (MMSE) assessment date (dd/mm/yyyy)""",mini-mental state examination (mmse),40491929.0
