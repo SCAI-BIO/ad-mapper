@@ -39,3 +39,4 @@ class AIMapperOutputModelCSV(BaseModel):
 
 
     file: str = ""
+    message: str = ""

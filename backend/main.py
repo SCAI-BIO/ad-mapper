@@ -4,16 +4,16 @@ os.environ['KMP_DUPLICATE_LIB_OK']='True' ## don't know why :(
 import torch
 import requests
 
-BACKEND_URL = os.environ.get("BACKEND_URL", "http://localhost:8000")
+BACKEND_URL = os.environ.get("BACKEND_URL", "http://localhost:8000/")
 
-BACKEND_URL="https://ad-mapper.scai.fraunhofer.de/api/"
+#BACKEND_URL="https://ad-mapper.scai.fraunhofer.de/api/"
 
 
 from fastapi import FastAPI, File, HTTPException, UploadFile
 
 from fastapi.responses import FileResponse, Response
 from fastapi.middleware.cors import CORSMiddleware
-import io
+import io, threading
 
 from schema import Mapping, Variable, ExternalVariable, AIMapperOutputModel, AIMapperOutputModelCSV
 
@@ -45,7 +45,7 @@ from fastapi.middleware.cors import CORSMiddleware
 print("Loading FASTAPI...")
 
 
-version="0.2.6"
+version="0.2.7"
 
 
 app = FastAPI(
@@ -301,12 +301,42 @@ def ai_mapping_2(variable_name : str = None, variable_description : str = None, 
 
 # method to read csv and load it with pandas
 
+def process_csv(df, variableColumnName, definitionColumnName, k, w_1, w_2, bypass_binary, class_prob_threshold, usePriorMappings, useDefinitions, useSubstringMetric, uuid):
+    data = []
+    columns = df.columns.tolist() + ['target', 'OMOP']
+    total = len(df)
+    with open(f"tmp/{uuid}.txt", "w") as f:
+        f.write(f"Mapping {total} Variables...\n")
+        f.write(f"This can take a couple of minutes")
+    for i, row in df.iterrows():
+        print(f"Mapping {i+1}/{total} Variables...")
+        with open(f"tmp/{uuid}.txt", "a") as f:
+            f.write(f"Mapping {i+1}/{total} Variables...\n")
+        variable_name = row[variableColumnName] if str(row[variableColumnName]).lower() != "nan" else ""
+        variable_description = row[definitionColumnName] if str(row[definitionColumnName]).lower() != "nan" else ""
+        response = map_variables_v2(variable_name, variable_description, k, w_1, w_2, bypass_binary, class_prob_threshold, usePriorMappings, useDefinitions, useSubstringMetric)
+        winner = response['winner'][0]
+        omop = mapper_data[mapper_data['Feature'].str.lower() == winner]['OMOP'].values[0] if len(mapper_data[mapper_data['Feature'].str.lower() == winner]) > 0 else ""
+        row_to_add = list(row) + [winner, omop]
+        data.append(row_to_add)
+    pd.DataFrame(data, columns=columns)
+    pd.DataFrame(data, columns=columns).to_csv(f'tmp/{uuid}.csv')
+
 @app.post("/v2/csv-mapper", response_model = AIMapperOutputModelCSV )
-def ai_mapping_2_csv(csvFile: UploadFile, variableColumnName: str = "Variable", definitionColumnName: str = "Definition", k: int = 10, w_1: float = 1.0, w_2 : float = 0.0, bypass_binary: bool = False, class_prob_threshold: float = 0.5, usePriorMappings: bool = False, useDefinitions: bool =True, useSubstringMetric: bool = False, return_all_mappings: bool = False, delimiter: str = ";"):
-    print(delimiter)
+async def ai_mapping_2_csv(csvFile: UploadFile, variableColumnName: str = "Variable", definitionColumnName: str = "Definition", k: int = 10, w_1: float = 1.0, w_2 : float = 0.0, bypass_binary: bool = False, class_prob_threshold: float = 0.5, usePriorMappings: bool = False, useDefinitions: bool =True, useSubstringMetric: bool = False, return_all_mappings: bool = False, delimiter: str = ";"):
+    
     file_content = csvFile.file.read()
 
-    df = pd.read_csv(io.StringIO(file_content.decode('utf-8')), sep=delimiter)
+    try:
+
+        df = pd.read_csv(io.StringIO(file_content.decode('utf-8')), sep=delimiter)
+    except Exception as e:
+        try:
+            print(e)
+            df = pd.read_csv(io.StringIO(file_content.decode('utf-8')), sep=delimiter, encoding='unicode_escape')
+        except Exception as e:
+            print(e)
+            return Response(status_code=500, content=f"Could not read csv file. Please Check encoding --> utf-8 required: Exception: {e}", media_type="text/plain")
 
     if len(df.columns.tolist()) < 2:
         return Response(status_code=500, content="CSV file does not contain enough columns. Maybe not ; as seperator?", media_type="text/plain")
@@ -316,38 +346,22 @@ def ai_mapping_2_csv(csvFile: UploadFile, variableColumnName: str = "Variable", 
     if definitionColumnName not in df.columns.tolist():
         return Response(status_code=500, content="Definition column name not found in csv file.", media_type="text/plain")
 
-    data = []
-
-    columns = df.columns.tolist() + ['target', 'OMOP']
-
-    if return_all_mappings:
-        all_mapped_cols = mapper_data.columns.tolist()[(mapper_data.columns.tolist().index('OMOP')+1):]
-        
-        columns = columns + all_mapped_cols
-    for i, row in df.iterrows():
-        variable_name = row[variableColumnName] if str(row[variableColumnName]).lower() != "nan" else ""
-        variable_description = row[definitionColumnName] if str(row[definitionColumnName]).lower() != "nan" else ""
-        response = map_variables_v2(variable_name, variable_description)
-        winner = response['winner'][0]
-        omop = mapper_data[mapper_data['Feature'].str.lower() == winner]['OMOP'].values[0] if len(mapper_data[mapper_data['Feature'].str.lower() == winner]) > 0 else ""
-        row_to_add = list(row) + [winner, omop]
-        if return_all_mappings:
-            sub_df = mapper_data[mapper_data['Feature'].str.lower() == winner]
-            for col in all_mapped_cols:
-                if len(sub_df[col].values) == 0:
-                    row_to_add.append("")
-                else:
-                    row_to_add.append(sub_df[col].values[0])
-            
-        data.append(row_to_add)
-
-    ## get random uuid
     uuid = str(uuid4())
 
-    pd.DataFrame(data, columns=columns).to_csv(f'tmp/{uuid}.csv')
+    if len(df) > 15:
+        print(f"Starting mapping process in background. You can download the file at {BACKEND_URL}download/{uuid}")
+        thread = threading.Thread(target=process_csv, args=(df, variableColumnName, definitionColumnName, k, w_1, w_2, bypass_binary, class_prob_threshold, usePriorMappings, useDefinitions, useSubstringMetric, uuid, ) )
+        thread.start()
+        message = f"Found more than 15 rows. Starting mapping process in background. You can download the file in a few minutes at {BACKEND_URL}download/{uuid}"
+    else:
+        print(f"Starting mapping process. You can download the file at {BACKEND_URL}download/{uuid}")
+        process_csv(df, variableColumnName, definitionColumnName, k, w_1, w_2, bypass_binary, class_prob_threshold, usePriorMappings, useDefinitions, useSubstringMetric, uuid)
+        message = f"Mapping process finished. You can download the file at {BACKEND_URL}download/{uuid}"
+
     #print(BACKEND_URL)
     return {
-        "file": BACKEND_URL + "download/" + uuid
+        "file": BACKEND_URL + "download/" + uuid, 
+        "message": message
     }
 
 
@@ -355,7 +369,15 @@ def ai_mapping_2_csv(csvFile: UploadFile, variableColumnName: str = "Variable", 
 
 @app.get("/download/{uuid}")
 def download(uuid: str):
-    return FileResponse(f'tmp/{uuid}.csv')
+    if os.path.exists(f"tmp/{uuid}.csv"):
+        return FileResponse(f'tmp/{uuid}.csv')
+    else:
+        if os.path.exists(f"tmp/{uuid}.txt"):
+            with open(f"tmp/{uuid}.txt", "r") as f:
+                return Response(content=f.read(), media_type="text/plain")
+        else:
+
+            return Response(status_code=404, content="File not found. If you got this link as an output of a mapping process retry in a couple of minutes.", media_type="text/plain")
 
 @app.get("/download-cdm")
 def download_cdm():
