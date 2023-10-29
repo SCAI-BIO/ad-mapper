@@ -321,23 +321,32 @@ def process_csv(df, variableColumnName, definitionColumnName, k, w_1, w_2, bypas
         data.append(row_to_add)
     pd.DataFrame(data, columns=columns)
     pd.DataFrame(data, columns=columns).to_csv(f'tmp/{uuid}.csv')
+    os.remove(f"tmp/{uuid}.txt")
+
+@app.get("/running-processes", response_model = list)
+def running_processes():
+    return list([txt.replace(".txt", "") for txt in filter(lambda x: x.endswith(".txt"), os.listdir("tmp"))])
+
+
 
 @app.post("/v2/csv-mapper", response_model = AIMapperOutputModelCSV )
 async def ai_mapping_2_csv(csvFile: UploadFile, variableColumnName: str = "Variable", definitionColumnName: str = "Definition", k: int = 10, w_1: float = 1.0, w_2 : float = 0.0, bypass_binary: bool = False, class_prob_threshold: float = 0.5, usePriorMappings: bool = False, useDefinitions: bool =True, useSubstringMetric: bool = False, return_all_mappings: bool = False, delimiter: str = ";"):
     
     file_content = csvFile.file.read()
 
-    try:
 
-        df = pd.read_csv(io.StringIO(file_content.decode('utf-8')), sep=delimiter)
-    except Exception as e:
+    ## try different encodings
+
+    for encoding in ["utf-8", "unicode_escape", "cp1252", "ISO-8859-1", "", "ENDING"]:
+        if encoding == "ENDING":
+            return Response(status_code=500, content=f"Could not read csv file. Please Check encoding --> utf-8 required", media_type="text/plain")
         try:
-            print(e)
-            df = pd.read_csv(io.StringIO(file_content.decode('utf-8')), sep=delimiter, encoding='unicode_escape')
+            df = pd.read_csv(io.StringIO(file_content.decode('utf-8')), sep=delimiter, encoding=encoding)
+            break
         except Exception as e:
             print(e)
-            return Response(status_code=500, content=f"Could not read csv file. Please Check encoding --> utf-8 required: Exception: {e}", media_type="text/plain")
-
+            continue
+            
     if len(df.columns.tolist()) < 2:
         return Response(status_code=500, content="CSV file does not contain enough columns. Maybe not ; as seperator?", media_type="text/plain")
 

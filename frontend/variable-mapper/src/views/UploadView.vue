@@ -7,7 +7,10 @@
             <h3 class="text-lg font-medium leading-6 text-gray-900">Upload your variables as .csv </h3>
 
             <div class="mb-4">
-              <label for="variable_col" class="block text-sm font-medium text-gray-700">Variable column-name</label>
+              <label for="variable_col" class="block text-sm font-medium text-gray-700 popover-elem">Variable column-name</label>
+              <div class="absolute bg-gray-100 border border-gray-300 p-4 rounded shadow hidden">
+                
+              </div>
               <div class="mt-1">
                 <input type="text" name="variable_col" id="variable_col" v-model="variableCol"
                   class="block w-full rounded-md border-gray-300 shadow-sm focus:border-indigo-500 focus:ring-indigo-500 sm:text-sm"
@@ -15,8 +18,11 @@
               </div>
             </div>
             <div class="mb-4">
-              <label for="description_col" class="block text-sm font-medium text-gray-700">Definition
+              <label for="description_col" class="block text-sm font-medium text-gray-700 popover-elem">Definition
                 column-name</label>
+                <div class="absolute bg-gray-100 border border-gray-300 p-4 rounded shadow hidden">
+                
+              </div>
               <div class="mt-1">
                 <input type="text" name="description_col" id="description_col" v-model="descriptionCol"
                   class="block w-full rounded-md border-gray-300 shadow-sm focus:border-indigo-500 focus:ring-indigo-500 sm:text-sm"
@@ -24,7 +30,10 @@
               </div>
             </div>
             <div class="mb-4">
-              <label for="description_col" class="block text-sm font-medium text-gray-700">Delimiter</label>
+              <label for="delimiter" class="block text-sm font-medium text-gray-700 popover-elem">Delimiter</label>
+              <div class="absolute bg-gray-100 border border-gray-300 p-4 rounded shadow hidden">
+                
+              </div>
               <div class="mt-1">
                 <select name="delimiter" id="delimiter" v-model="delimiter"
                   class="block w-full rounded-md border-gray-300 shadow-sm focus:border-indigo-500 focus:ring-indigo-500 sm:text-sm"
@@ -37,7 +46,10 @@
             </div>
           
             <div class="mb-4">
-              <label for="description_col" class="block text-sm font-medium text-gray-700">K (Number of candidates)</label>
+              <label for="k" class="block text-sm font-medium text-gray-700 popover-elem">K (Number of candidates)</label>
+              <div class="absolute bg-gray-100 border border-gray-300 p-4 rounded shadow hidden">
+                
+              </div>
               <div class="mt-1">
                 <input type="number" name="k" id="k" v-model="k"
                   class="block w-full rounded-md border-gray-300 shadow-sm focus:border-indigo-500 focus:ring-indigo-500 sm:text-sm"
@@ -45,7 +57,10 @@
               </div>
             </div>
             <div class="mb-4">
-              <label for="description_col" class="block text-sm font-medium text-gray-700">Return all mappings</label>
+              <label for="returnAll" class="block text-sm font-medium text-gray-700 popover-elem">Return all mappings</label>
+              <div class="absolute bg-gray-100 border border-gray-300 p-4 rounded shadow hidden">
+                
+              </div>
               <div class="mt-1">
                 <select name="returnAll" id="returnAll" v-model="returnAll"
                   class="block w-full rounded-md border-gray-300 shadow-sm focus:border-indigo-500 focus:ring-indigo-500 sm:text-sm"
@@ -56,7 +71,10 @@
               </div>
             </div>
             <div class="mb-4">
-              <label for="description_col" class="block text-sm font-medium text-gray-700">W1 (AI-based model)</label>
+              <label for="w1" class="block text-sm font-medium text-gray-700 popover-elem">W1 (AI-based model)</label>
+              <div class="absolute bg-gray-100 border border-gray-300 p-4 rounded shadow hidden">
+                
+              </div>
               <div class="mt-1">
                 <input type="float" name="w1" id="w1" v-model="w1"
                   class="block w-full rounded-md border-gray-300 shadow-sm focus:border-indigo-500 focus:ring-indigo-500 sm:text-sm"
@@ -64,7 +82,10 @@
               </div>
             </div>
             <div class="mb-4">
-              <label for="description_col" class="block text-sm font-medium text-gray-700">W2 (String matching)</label>
+              <label for="w2" class="block text-sm font-medium text-gray-700 popover-elem">W2 (String matching)</label>
+              <div class="absolute bg-gray-100 border border-gray-300 p-4 rounded shadow hidden">
+                
+              </div>
               <div class="mt-1">
                 <input type="float" name="w2" id="w2" v-model="w2"
                   class="block w-full rounded-md border-gray-300 shadow-sm focus:border-indigo-500 focus:ring-indigo-500 sm:text-sm"
@@ -134,6 +155,10 @@
 <script>
 
 import axios from 'axios';
+
+
+
+
 export default {
 
   data: function(){
@@ -153,6 +178,50 @@ export default {
       returnAll: false, 
       status_code: 200
     };
+  },
+
+  mounted: function(){
+      const popover_helpers = [
+    {
+      name: "Variable column-name",
+      description: "The name of the column in your .csv file that contains the variable names."
+    },
+    {
+      name: "Definition column-name",
+      description: "The name of the column in your .csv file that contains the variable definitions."
+    },
+    {
+      name: "Delimiter",
+      description: "The delimiter used in your .csv file."
+    },
+    {
+      name: "K (Number of candidates)",
+      description: "The number of candidates generated by the AI-based model. More candidates may yield a more accurate prdiction, but also increases compute time."
+    },
+    {
+      name: "Return all mappings",
+      description: "If set to true, all known mappings onto to predicted target variable will be returned. If set to false, only the target will be returned."
+    },
+    {
+      name: "W1 (AI-based model)",
+      description: "The weight of the AI-based model. Final class probability will be determined by W1 * AI-based model + W2 * string matching."
+    },
+    {
+      name: "W2 (String matching)",
+      description: "The weight of the string matching algorithm. Final class rpoability will be determined by W1 * AI-based model + W2 * string matching."
+    }
+  ];
+    const popover_elems = document.querySelectorAll('.popover-elem');
+    //var i=0;
+    popover_elems.forEach( (elem, i) => {
+      elem.addEventListener('mouseover', () => {
+        elem.nextElementSibling.classList.remove('hidden');
+        elem.nextElementSibling.innerHTML = popover_helpers[i].description;
+      });
+      elem.addEventListener('mouseout', () => {
+        elem.nextElementSibling.classList.add('hidden');
+      });
+    });
   },
 
   methods: {

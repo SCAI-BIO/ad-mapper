@@ -52,7 +52,7 @@
     },
     {
       name: 'Custom APIs',
-      href: `${process.env.VUE_APP_API}/docs`,
+      href: `${ process.env.VUE_APP_API }/docs`,
       description:
         "In addition to its user-friendly interface, this tool provides robust RESTful APIs, enabling third-party services to leverage the capabilities of the mapping assistant tool.",
       icon: null,
