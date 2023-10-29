@@ -95,7 +95,7 @@
             
 
           </div>
-          <div class="mt-5 space-y-6 md:mt-0 md:col-span-2">
+          <div class="mt-5 space-y-6 md:mt-0 md:col-span-2" @drop="dropCSVFile">
             <div>
               <!--<label class="block text-sm font-medium text-gray-700">.csv file</label>-->
               <div class="mt-1 flex justify-center px-6 pt-5 pb-6 border-2 border-gray-300 border-dashed rounded-md">
@@ -110,7 +110,7 @@
                     <label for="fileUpload"
                       class="relative cursor-pointer bg-white rounded-md font-medium text-indigo-600 hover:text-indigo-500 focus-within:outline-none focus-within:ring-2 focus-within:ring-offset-2 focus-within:ring-indigo-500">
                       <span>Upload a file</span>
-                      <input id="fileUpload" @change="uploadChange" name="fileUpload" type="file" class="sr-only" />
+                      <input id="fileUpload" @change="uploadChange"  name="fileUpload" type="file" class="sr-only" />
                     </label>
                     <p class="pl-1">or drag and drop</p>
                   </div>
@@ -262,6 +262,13 @@ export default {
     var file = e.target.files[0];
     console.log(file);
     this.fileName = file.name;
+  }, 
+  dropCSVFile: function(e){
+    e.preventDefault();
+    var file = e.dataTransfer.files[0];
+    console.log(file);
+    this.fileName = file.name;
+    document.getElementById("fileUpload").files = e.dataTransfer.files;
   }
 }
 }
