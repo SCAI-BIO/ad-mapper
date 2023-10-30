@@ -165,7 +165,7 @@ export default {
     return {
       variableCol: "",
       descriptionCol: "",
-      delimiter: ";",
+      delimiter: ",",
       responseContent: "",
       loading: false,
       respShow: false,
@@ -173,7 +173,7 @@ export default {
       fileName: "", 
       w1: 1.0,
       w2: 0.0,
-      k: 10,
+      k: 5,
       error: false, 
       returnAll: false, 
       status_code: 200
