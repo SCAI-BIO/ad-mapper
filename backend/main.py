@@ -6,7 +6,7 @@ import requests
 
 BACKEND_URL = os.environ.get("BACKEND_URL", "http://localhost:8000/")
 
-#BACKEND_URL="https://ad-mapper.scai.fraunhofer.de/api/"
+BACKEND_URL="https://ad-mapper.scai.fraunhofer.de/api/"
 
 
 from fastapi import FastAPI, File, HTTPException, UploadFile
