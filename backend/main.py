@@ -45,7 +45,7 @@ from fastapi.middleware.cors import CORSMiddleware
 print("Loading FASTAPI...")
 
 
-version="0.2.7"
+version="0.2.8"
 
 
 app = FastAPI(
