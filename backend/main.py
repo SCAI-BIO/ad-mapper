@@ -336,10 +336,11 @@ async def ai_mapping_2_csv(csvFile: UploadFile, variableColumnName: str = "Varia
 
 
     ## try different encodings
+    encodings = ["utf-8", "unicode_escape", "cp1252", "ISO-8859-1", "", "ENDING"]
 
-    for encoding in ["utf-8", "unicode_escape", "cp1252", "ISO-8859-1", "", "ENDING"]:
+    for encoding in encodings:
         if encoding == "ENDING":
-            return Response(status_code=500, content=f"Could not read csv file. Please Check encoding --> utf-8 required", media_type="text/plain")
+            return Response(status_code=500, content=f"Could not read csv file. Please Check encoding -->one of {encodings} required", media_type="text/plain")
         try:
             df = pd.read_csv(io.StringIO(file_content.decode('utf-8')), sep=delimiter, encoding=encoding)
             break

@@ -1,0 +1,1040 @@
+,Phase,FLDNAME,TBLNAME,CRFNAME,TEXT,TYPE,LENGTH,CODE,UNITS,target,OMOP
+0,J-ADNI,ANARTERR,NEUROBAT,Neuropsychological Battery,ANART Total Score (Total # of errors),N,2,0..50,,american national reading test (anart),46236235.0
+1,J-ADNI,ANARTND,NEUROBAT,Neuropsychological Battery,Check here if:,T,20,1=ANART Not Done - Spanish speaking,,No suitable variable found.,
+2,J-ADNI,ARM,ARM,,Diagnosis/Scan Category Assignment,N,1,1=NL - 1.5T only;2=MCI - 1.5T only;3=AD - 1.5T only;4=NL - PET+1.5T;5=MCI - PET+1.5T;6=AD - PET+1.5T;7=NL - 3T+1.5T;8=MCI - 3T+1.5T;9=AD - 3T+1.5T;10=NL-FDGPET+1.5T+3T;11=MCI-FDGPET+1.5T+3T;12=AD-FDGPET+1.5T+3T;13=NL-FDGPET+Amyloid PET+1.5T;14=MCI-FDGPET+Amyloid PET+1.5T;15=AD-FDGPET+Amyloid PET+1.5T;16=NL-FDGPET+Amyloid PET+1.5T+3T;17=MCI-FDGPET+Amyloid PET+1.5T+3T;18=AD-(FDGPET+)Amyloid PET+1.5T+3T,,No suitable variable found.,
+3,J-ADNI,AVDEL30MIN,NEUROBAT,Neuropsychological Battery,30 Minute Delay Total,N,2,0..15,,No suitable variable found.,
+4,J-ADNI,AVDELERR1,NEUROBAT,Neuropsychological Battery,Total Intrusions,N,2,,,No suitable variable found.,
+5,J-ADNI,AVDELERR2,NEUROBAT,Neuropsychological Battery,Recognition Errors,N,2,,,No suitable variable found.,
+6,J-ADNI,AVDELTOT,NEUROBAT,Neuropsychological Battery,Recognition Score,N,2,0..15,,No suitable variable found.,
+7,J-ADNI,AVERR1,NEUROBAT,Neuropsychological Battery,Total Intrusions,N,2,,,No suitable variable found.,
+8,J-ADNI,AVERR2,NEUROBAT,Neuropsychological Battery,Total Intrusions,N,2,,,No suitable variable found.,
+9,J-ADNI,AVERR3,NEUROBAT,Neuropsychological Battery,Total Intrusions,N,2,,,No suitable variable found.,
+10,J-ADNI,AVERR4,NEUROBAT,Neuropsychological Battery,Total Intrusions,N,2,,,No suitable variable found.,
+11,J-ADNI,AVERR5,NEUROBAT,Neuropsychological Battery,Total Intrusions,N,2,,,No suitable variable found.,
+12,J-ADNI,AVERR6,NEUROBAT,Neuropsychological Battery,Total Intrusions,N,2,,,No suitable variable found.,
+13,J-ADNI,AVERRB,NEUROBAT,Neuropsychological Battery,Total Intrusions,N,2,,,No suitable variable found.,
+14,J-ADNI,AVTOT1,NEUROBAT,Neuropsychological Battery,Trial 1 Total,N,2,0..15,,No suitable variable found.,
+15,J-ADNI,AVTOT2,NEUROBAT,Neuropsychological Battery,Trial 2 Total,N,2,0..15,,No suitable variable found.,
+16,J-ADNI,AVTOT3,NEUROBAT,Neuropsychological Battery,Trial 3 Total,N,2,0..15,,No suitable variable found.,
+17,J-ADNI,AVTOT4,NEUROBAT,Neuropsychological Battery,Trial 4 Total,N,2,0..15,,No suitable variable found.,
+18,J-ADNI,AVTOT5,NEUROBAT,Neuropsychological Battery,Trial 5 Total,N,2,0..15,,No suitable variable found.,
+19,J-ADNI,AVTOT6,NEUROBAT,Neuropsychological Battery,Trial 6 Total,N,2,0..15,,No suitable variable found.,
+20,J-ADNI,AVTOTB,NEUROBAT,Neuropsychological Battery,List B Total,N,2,0..15,,No suitable variable found.,
+21,J-ADNI,AXABDOMN,ADSXLIST,Diagnosis and Symptoms Checklist,5. Abdominal discomfort,N,1,1=Absent; 2=Present,,No suitable variable found.,
+22,J-ADNI,AXANKLE,ADSXLIST,Diagnosis and Symptoms Checklist,19. Ankle swelling,N,1,1=Absent; 2=Present,,No suitable variable found.,
+23,J-ADNI,AXBREATH,ADSXLIST,Diagnosis and Symptoms Checklist,13. Shortness of breath,N,1,1=Absent; 2=Present,,No suitable variable found.,
+24,J-ADNI,AXCHEST,ADSXLIST,Diagnosis and Symptoms Checklist,16. Chest pain,N,1,1=Absent; 2=Present,,chest pain,77670.0
+25,J-ADNI,AXCONSTP,ADSXLIST,Diagnosis and Symptoms Checklist,4. Constipation,N,1,1=Absent; 2=Present,,No suitable variable found.,
+26,J-ADNI,AXCOUGH,ADSXLIST,Diagnosis and Symptoms Checklist,14. Coughing,N,1,1=Absent; 2=Present,,No suitable variable found.,
+27,J-ADNI,AXCRYING,ADSXLIST,Diagnosis and Symptoms Checklist,24. Crying,N,1,1=Absent; 2=Present,,No suitable variable found.,
+28,J-ADNI,AXDIARRH,ADSXLIST,Diagnosis and Symptoms Checklist,3. Diarrhea,N,1,1=Absent; 2=Present,,No suitable variable found.,
+29,J-ADNI,AXDIZZY,ADSXLIST,Diagnosis and Symptoms Checklist,7. Dizziness,N,1,1=Absent; 2=Present,,No suitable variable found.,
+30,J-ADNI,AXDPMOOD,ADSXLIST,Diagnosis and Symptoms Checklist,23. Depressed mood,N,1,1=Absent; 2=Present,,depression,45878997.0
+31,J-ADNI,AXDROWSY,ADSXLIST,Diagnosis and Symptoms Checklist,9. Drowsiness,N,1,1=Absent; 2=Present,,No suitable variable found.,
+32,J-ADNI,AXDRYMTH,ADSXLIST,Diagnosis and Symptoms Checklist,12. Dry mouth,N,1,1=Absent; 2=Present,,No suitable variable found.,
+33,J-ADNI,AXELMOOD,ADSXLIST,Diagnosis and Symptoms Checklist,25. Elevated mood,N,1,1=Absent; 2=Present,,depression,45878997.0
+34,J-ADNI,AXENERGY,ADSXLIST,Diagnosis and Symptoms Checklist,8. Low energy,N,1,1=Absent; 2=Present,,No suitable variable found.,
+35,J-ADNI,AXFALL,ADSXLIST,Diagnosis and Symptoms Checklist,27. Fall,N,1,1=Absent; 2=Present,,No suitable variable found.,
+36,J-ADNI,AXHDACHE,ADSXLIST,Diagnosis and Symptoms Checklist,11. Headache,N,1,1=Absent; 2=Present,,No suitable variable found.,
+37,J-ADNI,AXINSOMN,ADSXLIST,Diagnosis and Symptoms Checklist,22. Insomnia,N,1,1=Absent; 2=Present,,No suitable variable found.,
+38,J-ADNI,AXMUSCLE,ADSXLIST,Diagnosis and Symptoms Checklist,20. Muscloskeletal pain,N,1,1=Absent; 2=Present,,No suitable variable found.,
+39,J-ADNI,AXNAUSEA,ADSXLIST,Diagnosis and Symptoms Checklist,1. Nausea,N,1,1=Absent; 2=Present,,No suitable variable found.,
+40,J-ADNI,AXOTHER,ADSXLIST,Diagnosis and Symptoms Checklist,28. Other/Diagnosis,N,1,1=Absent; 2=Present,,No suitable variable found.,
+41,J-ADNI,AXPALPIT,ADSXLIST,Diagnosis and Symptoms Checklist,15. Palpitations,N,1,1=Absent; 2=Present,,No suitable variable found.,
+42,J-ADNI,AXRASH,ADSXLIST,Diagnosis and Symptoms Checklist,21. Rash,N,1,1=Absent; 2=Present,,No suitable variable found.,
+43,J-ADNI,AXSPECIF,ADSXLIST,Diagnosis and Symptoms Checklist,"If Other symptoms/diagnosis, specify:",T,1000,,,diagnosis,4234469.0
+44,J-ADNI,AXSWEATN,ADSXLIST,Diagnosis and Symptoms Checklist,6. Sweating,N,1,1=Absent; 2=Present,,No suitable variable found.,
+45,J-ADNI,AXURNDIS,ADSXLIST,Diagnosis and Symptoms Checklist,"17. Urinary discomfort (e.g., burning)",N,1,1=Absent; 2=Present,,No suitable variable found.,
+46,J-ADNI,AXURNFRQ,ADSXLIST,Diagnosis and Symptoms Checklist,18. Urinary frequency,N,1,1=Absent; 2=Present,,No suitable variable found.,
+47,J-ADNI,AXVISION,ADSXLIST,Diagnosis and Symptoms Checklist,10. Blurred vision,N,1,1=Absent; 2=Present,,vision,45613408.0
+48,J-ADNI,AXVOMIT,ADSXLIST,Diagnosis and Symptoms Checklist,2. Vomiting,N,1,1=Absent; 2=Present,,No suitable variable found.,
+49,J-ADNI,AXWANDER,ADSXLIST,Diagnosis and Symptoms Checklist,26. Wandering,N,1,1=Absent; 2=Present,,No suitable variable found.,
+50,J-ADNI,BCABDOMN,BLSCHECK,Baseline Symptoms Checklist,5. Abdominal discomfort,N,1,1=Absent; 2=Present,,No suitable variable found.,
+51,J-ADNI,BCADAS,BLCHANGE,Diagnostic Summary - Baseline Changes,1. Clinically relevant worsening on ADAS?,N,1,1=Yes; 0=No,,No suitable variable found.,
+52,J-ADNI,BCANKLE,BLSCHECK,Baseline Symptoms Checklist,19. Ankle swelling,N,1,1=Absent; 2=Present,,No suitable variable found.,
+53,J-ADNI,BCBREATH,BLSCHECK,Baseline Symptoms Checklist,13. Shortness of breath,N,1,1=Absent; 2=Present,,bmi,1027485.0
+54,J-ADNI,BCCDR,BLCHANGE,Diagnostic Summary - Baseline Changes,8. Clinically relevant deterioration on CDR Sum of Boxes or Overall CDR rating?,N,1,1=Yes; 0=No,,clinical dementia rating scale sum of boxes (cdrsb),
+55,J-ADNI,BCCHEST,BLSCHECK,Baseline Symptoms Checklist,16. Chest pain,N,1,1=Absent; 2=Present,,chest pain,77670.0
+56,J-ADNI,BCCONSTP,BLSCHECK,Baseline Symptoms Checklist,4. Constipation,N,1,1=Absent; 2=Present,,No suitable variable found.,
+57,J-ADNI,BCCORADL,BLCHANGE,Diagnostic Summary - Baseline Changes,13. Is the change in clinical status corroborated by informant report of changes in ADL?,N,1,1=Yes; 0=No; -1=NA/No change in clinical status,,No suitable variable found.,
+58,J-ADNI,BCCORCOG,BLCHANGE,Diagnostic Summary - Baseline Changes,14. Is the change in clinical status corroborated by informant report of changes in cognition?,N,1,1=Yes; 0=No; -1=NA/No change in clinical status,,boston naming test (bnt),37396710.0
+59,J-ADNI,BCCOUGH,BLSCHECK,Baseline Symptoms Checklist,14. Coughing,N,1,1=Absent; 2=Present,,No suitable variable found.,
+60,J-ADNI,BCCRYING,BLSCHECK,Baseline Symptoms Checklist,24. Crying,N,1,1=Absent; 2=Present,,No suitable variable found.,
+61,J-ADNI,BCDELIR,BLCHANGE,Diagnostic Summary - Baseline Changes,"11. Is there evidence of a delirium (medication effect, toxic or metabolic encephalopathy)?",N,1,1=Yes; 0=No,,No suitable variable found.,
+62,J-ADNI,BCDEPRES,BLCHANGE,Diagnostic Summary - Baseline Changes,9. Clinically relevant depression based on clinical judgement or GDS?,N,1,1=Yes; 0=No,,depression,45878997.0
+63,J-ADNI,BCDIARRH,BLSCHECK,Baseline Symptoms Checklist,3. Diarrhea,N,1,1=Absent; 2=Present,,No suitable variable found.,
+64,J-ADNI,BCDIZZY,BLSCHECK,Baseline Symptoms Checklist,7. Dizziness,N,1,1=Absent; 2=Present,,No suitable variable found.,
+65,J-ADNI,BCDPMOOD,BLSCHECK,Baseline Symptoms Checklist,23. Depressed mood,N,1,1=Absent; 2=Present,,depression,45878997.0
+66,J-ADNI,BCDROWSY,BLSCHECK,Baseline Symptoms Checklist,9. Drowsiness,N,1,1=Absent; 2=Present,,No suitable variable found.,
+67,J-ADNI,BCDRYMTH,BLSCHECK,Baseline Symptoms Checklist,12. Dry mouth,N,1,1=Absent; 2=Present,,No suitable variable found.,
+68,J-ADNI,BCELMOOD,BLSCHECK,Baseline Symptoms Checklist,25. Elevated mood,N,1,1=Absent; 2=Present,,depression,45878997.0
+69,J-ADNI,BCENERGY,BLSCHECK,Baseline Symptoms Checklist,8. Low energy,N,1,1=Absent; 2=Present,,boston naming test (bnt),37396710.0
+70,J-ADNI,BCEXTCIR,BLCHANGE,Diagnostic Summary - Baseline Changes,"12. Has extenuating circumstance (such as a physical health problem, change in residence, charge in support network, death of a family member, etc.) contributed to a change in the subject's cognitive or functional performance?",N,1,1=Yes; 0=No,,No suitable variable found.,
+71,J-ADNI,BCEXTSP,BLCHANGE,Diagnostic Summary - Baseline Changes,"If yes, describe:",T,50,,,boston naming test (bnt),37396710.0
+72,J-ADNI,BCFALL,BLSCHECK,Baseline Symptoms Checklist,27. Fall,N,1,1=Absent; 2=Present,,bmi,1027485.0
+73,J-ADNI,BCFAQ,BLCHANGE,Diagnostic Summary - Baseline Changes,7. Clinically relevant worsening in activities of daily living (FAQ)?,N,1,1=Yes; 0=No,,No suitable variable found.,
+74,J-ADNI,BCHDACHE,BLSCHECK,Baseline Symptoms Checklist,11. Headache,N,1,1=Absent; 2=Present,,No suitable variable found.,
+75,J-ADNI,BCINSOMN,BLSCHECK,Baseline Symptoms Checklist,22. Insomnia,N,1,1=Absent; 2=Present,,No suitable variable found.,
+76,J-ADNI,BCMMSE,BLCHANGE,Diagnostic Summary - Baseline Changes,2. Clinically relevant worsening on MMSE?,N,1,1=Yes; 0=No,,mini-mental state examination (mmse),40491929.0
+77,J-ADNI,BCMMSREC,BLCHANGE,Diagnostic Summary - Baseline Changes,3. Clinically relevant worsening on MMSE recall?,N,1,1=Yes; 0=No,,No suitable variable found.,
+78,J-ADNI,BCMUSCLE,BLSCHECK,Baseline Symptoms Checklist,20. Musculoskeletal pain,N,1,1=Absent; 2=Present,,No suitable variable found.,
+79,J-ADNI,BCNAUSEA,BLSCHECK,Baseline Symptoms Checklist,1. Nausea,N,1,1=Absent; 2=Present,,No suitable variable found.,
+80,J-ADNI,BCNEUPSY,BLCHANGE,Diagnostic Summary - Baseline Changes,5. Clinically relevant worsening in memory on neuropsych testing?,N,1,1=Yes; 0=No,,No suitable variable found.,
+81,J-ADNI,BCNMMMS,BLCHANGE,Diagnostic Summary - Baseline Changes,4. Clinically relevant worsening on non-memory MMSE items?,N,1,1=Yes; 0=No,,boston naming test (bnt),37396710.0
+82,J-ADNI,BCNONMEM,BLCHANGE,Diagnostic Summary - Baseline Changes,6. Clinically relevant impairment/worsening in non-memory cognitive domains on neuropsych testing?,N,1,1=Yes; 0=No,,boston naming test (bnt),37396710.0
+83,J-ADNI,BCOTHER,BLSCHECK,Baseline Symptoms Checklist,28. Other,N,1,1=Absent; 2=Present,,boston naming test (bnt),37396710.0
+84,J-ADNI,BCPALPIT,BLSCHECK,Baseline Symptoms Checklist,15. Palpitations,N,1,1=Absent; 2=Present,,No suitable variable found.,
+85,J-ADNI,BCPREDX,BLCHANGE,Diagnostic Summary - Baseline Changes,Pre-visit Diagnosis,N,1,1=NL;2=MCI;3=AD,,No suitable variable found.,
+86,J-ADNI,BCRASH,BLSCHECK,Baseline Symptoms Checklist,21. Rash,N,1,1=Absent; 2=Present,,bmi,1027485.0
+87,J-ADNI,BCSTROKE,BLCHANGE,Diagnostic Summary - Baseline Changes,10. Did subject have a stroke?,N,1,1=Yes; 0=No,,stroke,36210384.0
+88,J-ADNI,BCSUMM,BLCHANGE,Diagnostic Summary - Baseline Changes,15. Narrative Summary,T,1000,,,boston naming test (bnt),37396710.0
+89,J-ADNI,BCSWEATN,BLSCHECK,Baseline Symptoms Checklist,6. Sweating,N,1,1=Absent; 2=Present,,sweating,4188566.0
+90,J-ADNI,BCURNDIS,BLSCHECK,Baseline Symptoms Checklist,"17. Urinary discomfort (e.g., burning)",N,1,1=Absent; 2=Present,,No suitable variable found.,
+91,J-ADNI,BCURNFRQ,BLSCHECK,Baseline Symptoms Checklist,18. Urinary frequency,N,1,1=Absent; 2=Present,,No suitable variable found.,
+92,J-ADNI,BCVISION,BLSCHECK,Baseline Symptoms Checklist,10. Blurred vision,N,1,1=Absent; 2=Present,,vision,45613408.0
+93,J-ADNI,BCVOMIT,BLSCHECK,Baseline Symptoms Checklist,2. Vomiting,N,1,1=Absent; 2=Present,,No suitable variable found.,
+94,J-ADNI,BCWANDER,BLSCHECK,Baseline Symptoms Checklist,26. Wandering,N,1,1=Absent; 2=Present,,No suitable variable found.,
+95,J-ADNI,BNTCPHON,NEUROBAT,Neuropsychological Battery,5. Number of correct responses following a phonemic cue,N,2,0..30,,boston naming test (bnt),37396710.0
+96,J-ADNI,BNTCSTIM,NEUROBAT,Neuropsychological Battery,3. Number of correct responses following a semantic cue,N,2,0..30,,boston naming test (bnt),37396710.0
+97,J-ADNI,BNTND,NEUROBAT,Neuropsychological Battery,Check here if:,T,20,1=Boston Naming Not Done - Spanish speaking,,boston naming test (bnt),37396710.0
+98,J-ADNI,BNTPHON,NEUROBAT,Neuropsychological Battery,4. Number of phonemic cues given,N,2,0..30,,boston naming test (bnt),37396710.0
+99,J-ADNI,BNTSPONT,NEUROBAT,Neuropsychological Battery,1. Number of spontaneously given correct responses,N,2,0..30,,boston naming test (bnt),37396710.0
+100,J-ADNI,BNTSTIM,NEUROBAT,Neuropsychological Battery,2. Number of semantic cues given,N,2,0..30,,boston naming test (bnt),37396710.0
+101,J-ADNI,BNTTOTAL,NEUROBAT,Neuropsychological Battery,Total Number Correct (1+3),N,2,0..30,,boston naming test (bnt),37396710.0
+102,J-ADNI,CATANIMSC,NEUROBAT,Neuropsychological Battery,Category Fluency (Animals) - Total Correct,N,3,0..77,,verbal fluency tests (semantic) animal,
+103,J-ADNI,CATANINTR,NEUROBAT,Neuropsychological Battery,Category Fluency (Animals) - Intrusions,N,3,0..77,,verbal fluency tests (semantic) animal,
+104,J-ADNI,CATANPERS,NEUROBAT,Neuropsychological Battery,Category Fluency (Animals) - Perseverations,N,3,0..77,,verbal fluency tests (semantic) animal,
+105,J-ADNI,CATVEGESC,NEUROBAT,Neuropsychological Battery,Category Fluency (Vegetables) - Total Correct,N,3,0..77,,verbal fluency tests (semantic) vegetable or fruits,
+106,J-ADNI,CATVGINTR,NEUROBAT,Neuropsychological Battery,Category Fluency (Vegetables) - Intrusions,N,3,0..77,,verbal fluency tests (semantic) vegetable or fruits,
+107,J-ADNI,CATVGPERS,NEUROBAT,Neuropsychological Battery,Category Fluency (Vegetables) - Perseverations,N,3,0..77,,verbal fluency tests (semantic) vegetable or fruits,
+108,J-ADNI,CDCARE,CDR,Clinical Dementia Rating,Score <!--Personal Care-->,N,"2,1",0.0=0.0;1.0=1.0;2.0=2.0;3.0=3.0,,No suitable variable found.,
+109,J-ADNI,CDCOMMUN,CDR,Clinical Dementia Rating,Score <!--Community Affairs-->,N,"2,1",0.0=0.0;0.5=0.5;1.0=1.0;2.0=2.0;3.0=3.0,,No suitable variable found.,
+110,J-ADNI,CDGLOBAL,CDR,Clinical Dementia Rating,Global CDR,N,"2,1",0.0=0.0;0.5=0.5;1.0=1.0;2.0=2.0;3.0=3.0,,No suitable variable found.,
+111,J-ADNI,CDHOME,CDR,Clinical Dementia Rating,Score <!--Home and Hobbies-->,N,"2,1",0.0=0.0;0.5=0.5;1.0=1.0;2.0=2.0;3.0=3.0,,clinical dementia rating (cdr),36714811.0
+112,J-ADNI,CDJUDGE,CDR,Clinical Dementia Rating,Score <!--Judgment and Problem Solving-->,N,"2,1",0.0=0.0;0.5=0.5;1.0=1.0;2.0=2.0;3.0=3.0,,No suitable variable found.,
+113,J-ADNI,CDMEMORY,CDR,Clinical Dementia Rating,Score <!--Memory-->,N,"2,1",0.0=0.0;0.5=0.5;1.0=1.0;2.0=2.0;3.0=3.0,,No suitable variable found.,
+114,J-ADNI,CDORIENT,CDR,Clinical Dementia Rating,Score <!--Orientation-->,N,"2,1",0.0=0.0;0.5=0.5;1.0=1.0;2.0=2.0;3.0=3.0,,No suitable variable found.,
+115,J-ADNI,CDSOURCE,CDR,Clinical Dementia Rating,Information Source,N,1,1=Participant Visit;2=Telephone Call,,No suitable variable found.,
+116,J-ADNI,CLOCKCIRC,NEUROBAT,Neuropsychological Battery,1. Approximately circular face,N,1,1=Yes;0=No,,No suitable variable found.,
+117,J-ADNI,CLOCKHAND,NEUROBAT,Neuropsychological Battery,4. Presence of the two hands,N,1,1=Yes;0=No,,clock drawing test,
+118,J-ADNI,CLOCKNUM,NEUROBAT,Neuropsychological Battery,3. Correctness of numbers,N,1,1=Yes;0=No,,clock drawing test,
+119,J-ADNI,CLOCKSCOR,NEUROBAT,Neuropsychological Battery,Total Score,N,2,0..5,,clock drawing test,
+120,J-ADNI,CLOCKSYM,NEUROBAT,Neuropsychological Battery,2. Symmetry of number placement,N,1,1=Yes;0=No,,clock drawing test,
+121,J-ADNI,CLOCKTIME,NEUROBAT,Neuropsychological Battery,"5. Presence of the two hands, set to ten after eleven",N,1,1=Yes;0=No,,clock drawing test,
+122,J-ADNI,CO8ANCHR,ADAS,ADAS-Cognitive Behavior,ANCHOR - Participant Response,N,1,1=Yes; 0=No,,No suitable variable found.,
+123,J-ADNI,CO8ANCRR,ADAS,ADAS-Cognitive Behavior,Reminder given?,T,20,1=Check here if reminder given,,No suitable variable found.,
+124,J-ADNI,CO8AXE,ADAS,ADAS-Cognitive Behavior,AXE - Participant Response,N,1,1=Yes; 0=No,,No suitable variable found.,
+125,J-ADNI,CO8AXER,ADAS,ADAS-Cognitive Behavior,Reminder given?,T,20,1=Check here if reminder given,,No suitable variable found.,
+126,J-ADNI,CO8BOARD,ADAS,ADAS-Cognitive Behavior,BOARD - Participant Response,N,1,1=Yes; 0=No,,No suitable variable found.,
+127,J-ADNI,CO8BOARR,ADAS,ADAS-Cognitive Behavior,Reminder given?,T,20,1=Check here if reminder given,,No suitable variable found.,
+128,J-ADNI,CO8CAKE,ADAS,ADAS-Cognitive Behavior,CAKE - Participant Response,N,1,1=Yes; 0=No,,No suitable variable found.,
+129,J-ADNI,CO8CAKER,ADAS,ADAS-Cognitive Behavior,Reminder given?,T,20,1=Check here if reminder given,,patient qualification,
+130,J-ADNI,CO8CARRR,ADAS,ADAS-Cognitive Behavior,Reminder given?,T,20,1=Check here if reminder given,,No suitable variable found.,
+131,J-ADNI,CO8CARRT,ADAS,ADAS-Cognitive Behavior,CARROT - Participant Response,N,1,1=Yes; 0=No,,No suitable variable found.,
+132,J-ADNI,CO8CAT,ADAS,ADAS-Cognitive Behavior,CAT - Participant Response,N,1,1=Yes; 0=No,,No suitable variable found.,
+133,J-ADNI,CO8CATR,ADAS,ADAS-Cognitive Behavior,Reminder given?,T,20,1=Check here if reminder given,,No suitable variable found.,
+134,J-ADNI,CO8COIN,ADAS,ADAS-Cognitive Behavior,COIN - Participant Response,N,1,1=Yes; 0=No,,No suitable variable found.,
+135,J-ADNI,CO8COINR,ADAS,ADAS-Cognitive Behavior,Reminder given?,T,20,1=Check here if reminder given,,No suitable variable found.,
+136,J-ADNI,CO8EDGE,ADAS,ADAS-Cognitive Behavior,EDGE - Participant Response,N,1,1=Yes; 0=No,,No suitable variable found.,
+137,J-ADNI,CO8EDGER,ADAS,ADAS-Cognitive Behavior,Reminder given?,T,20,1=Check here if reminder given,,patient qualification,
+138,J-ADNI,CO8FORSR,ADAS,ADAS-Cognitive Behavior,Reminder given?,T,20,1=Check here if reminder given,,No suitable variable found.,
+139,J-ADNI,CO8FORST,ADAS,ADAS-Cognitive Behavior,FOREST - Participant Response,N,1,1=Yes; 0=No,,No suitable variable found.,
+140,J-ADNI,CO8FUND,ADAS,ADAS-Cognitive Behavior,FUND - Participant Response,N,1,1=Yes; 0=No,,No suitable variable found.,
+141,J-ADNI,CO8FUNDR,ADAS,ADAS-Cognitive Behavior,Reminder given?,T,20,1=Check here if reminder given,,No suitable variable found.,
+142,J-ADNI,CO8GEM,ADAS,ADAS-Cognitive Behavior,GEM - Participant Response,N,1,1=Yes; 0=No,,No suitable variable found.,
+143,J-ADNI,CO8GEMR,ADAS,ADAS-Cognitive Behavior,Reminder given?,T,20,1=Check here if reminder given,,No suitable variable found.,
+144,J-ADNI,CO8INST,ADAS,ADAS-Cognitive Behavior,INSTITUTION - Participant Response,N,1,1=Yes; 0=No,,No suitable variable found.,
+145,J-ADNI,CO8INSTR,ADAS,ADAS-Cognitive Behavior,Reminder given?,T,20,1=Check here if reminder given,,No suitable variable found.,
+146,J-ADNI,CO8LEPRD,ADAS,ADAS-Cognitive Behavior,LEOPARD - Participant Response,N,1,1=Yes; 0=No,,No suitable variable found.,
+147,J-ADNI,CO8LEPRR,ADAS,ADAS-Cognitive Behavior,Reminder given?,T,20,1=Check here if reminder given,,No suitable variable found.,
+148,J-ADNI,CO8MAGAZ,ADAS,ADAS-Cognitive Behavior,MAGAZINE - Participant Response,N,1,1=Yes; 0=No,,No suitable variable found.,
+149,J-ADNI,CO8MAP,ADAS,ADAS-Cognitive Behavior,MAP - Participant Response,N,1,1=Yes; 0=No,,No suitable variable found.,
+150,J-ADNI,CO8MAPR,ADAS,ADAS-Cognitive Behavior,Reminder given?,T,20,1=Check here if reminder given,,No suitable variable found.,
+151,J-ADNI,CO8MILK,ADAS,ADAS-Cognitive Behavior,MILK - Participant Response,N,1,1=Yes; 0=No,,No suitable variable found.,
+152,J-ADNI,CO8MILKR,ADAS,ADAS-Cognitive Behavior,Reminder given?,T,20,1=Check here if reminder given,,patient qualification,
+153,J-ADNI,CO8NURSE,ADAS,ADAS-Cognitive Behavior,NURSE - Participant Response,N,1,1=Yes; 0=No,,No suitable variable found.,
+154,J-ADNI,CO8SALE,ADAS,ADAS-Cognitive Behavior,SALE - Participant Response,N,1,1=Yes; 0=No,,No suitable variable found.,
+155,J-ADNI,CO8SALER,ADAS,ADAS-Cognitive Behavior,Reminder given?,T,20,1=Check here if reminder given,,participant id,46234739.0
+156,J-ADNI,CO8SEA,ADAS,ADAS-Cognitive Behavior,SEA - Participant Response,N,1,1=Yes; 0=No,,No suitable variable found.,
+157,J-ADNI,CO8SEAR,ADAS,ADAS-Cognitive Behavior,Reminder given?,T,20,1=Check here if reminder given,,patient qualification,
+158,J-ADNI,CO8SHIP,ADAS,ADAS-Cognitive Behavior,SHIP - Participant Response,N,1,1=Yes; 0=No,,No suitable variable found.,
+159,J-ADNI,CO8SHIPR,ADAS,ADAS-Cognitive Behavior,Reminder given?,T,20,1=Check here if reminder given,,No suitable variable found.,
+160,J-ADNI,CO8TRAIN,ADAS,ADAS-Cognitive Behavior,TRAIN - Participant Response,N,1,1=Yes; 0=No,,No suitable variable found.,
+161,J-ADNI,CO8TRAIR,ADAS,ADAS-Cognitive Behavior,Reminder given?,T,20,1=Check here if reminder given,,No suitable variable found.,
+162,J-ADNI,CO8VAN,ADAS,ADAS-Cognitive Behavior,VAN - Participant Response,N,1,1=Yes; 0=No,,No suitable variable found.,
+163,J-ADNI,CO8VANR,ADAS,ADAS-Cognitive Behavior,Reminder given?,T,20,1=Check here if reminder given,,No suitable variable found.,
+164,J-ADNI,CO8VOL,ADAS,ADAS-Cognitive Behavior,VOLUME - Participant Response,N,1,1=Yes; 0=No,,No suitable variable found.,
+165,J-ADNI,CO8VOLR,ADAS,ADAS-Cognitive Behavior,Reminder given?,T,20,1=Check here if reminder given,,No suitable variable found.,
+166,J-ADNI,CO8WIZRD,ADAS,ADAS-Cognitive Behavior,WIZARD - Participant Response,N,1,1=Yes; 0=No,,No suitable variable found.,
+167,J-ADNI,CO8WIZRR,ADAS,ADAS-Cognitive Behavior,Reminder given?,T,20,1=Check here if reminder given,,No suitable variable found.,
+168,J-ADNI,COCOMND,ADAS,ADAS-Cognitive Behavior,Check each command performed correctly.,T,20,"1= Make a fist.; 2=Point to the ceiling, then to the floor.; 3=Put the pencil on top of the card, then put it back.; 4=Put the watch on the other side of the pencil and turn over the card.; 5=Tap each shoulder twice with two fingers, keeping your eyes shut.; 6=None completed correctly.",,No suitable variable found.,
+169,J-ADNI,COCOMPRE,ADAS,ADAS-Cognitive Behavior,Check level of impairment.,N,1,"1=None: participant understands; 2=Very mild: one or two instances of misunderstanding; 3=Mild 3-5 instances of misunderstanding; 4=Moderate: requires several repetitions and rephrasings; 5=Moderately severe: participant only occasionally responds correctly, i.e., yes-or-no questions; 6=Severe: participant rarely responds to questions appropriately, not due to poverty of speech",,patient qualification,
+170,J-ADNI,COCONSTR,ADAS,ADAS-Cognitive Behavior,Check each figure drawn correctly.,T,20,"1= None, attempted but drew no forms correctly.; 2=Circle; 3=Two overlapping rectangles; 4=Rhombus; 5=Cube",,No suitable variable found.,
+171,J-ADNI,COIDEA,ADAS,ADAS-Cognitive Behavior,Check each step completed correctly.,T,20,1=Fold a letter.; 2=Put letter in envelope.; 3=Seal envelope.; 4=Address envelope.; 5=Indicate where stamp goes.; 6=None completed correctly,,No suitable variable found.,
+172,J-ADNI,COINSTRC,ADAS,ADAS-Cognitive Behavior,Check level of impairment.  Base your answer only on observations made during Word Recognition task (Question #8).,N,1,1=None; 2=Very mild: forgets once; 3=Mild: must be reminded two times; 4=Moderate: must be reminded 3-4 times; 5=Moderately severe: must be reminded 5-6 times; 6=Severe: must be reminded 7 or more times.,,No suitable variable found.,
+173,J-ADNI,COLANG,ADAS,ADAS-Cognitive Behavior,Check level of impairment.,N,1,"1=None: participant speaks clearly and/or is understandable; 2=Very mild: one instance of lack of understandability; 3=Mild: participant has difficulty <25% of the time; 4=Moderate: participant has difficulty 25-50% of the time; 5=Moderately Severe: participant has difficulty more than 50% of the time; 6=Severe: one- or two-word utterances, fluent but empty speech, mute",,No suitable variable found.,
+174,J-ADNI,CONAME,ADAS,ADAS-Cognitive Behavior,Check each object and finger named correctly.,T,45,1=Flower; 2=Bed; 3=Whistle; 4=Pencil; 5=Rattle; 6=Mask; 7=Scissors; 8=Comb; 9=Wallet; 10=Harmonica; 11=Stethoscope; 12=Tongs; 13=Thumb; 14=Middle; 15=Ring; 16=Index; 17=Pinky; 18=None completed correctly,,No suitable variable found.,
+175,J-ADNI,CONMCXLA,ADAS,ADAS-Cognitive Behavior,14a. Number of targets hit (range = 0-49),N,2,0..49,,No suitable variable found.,
+176,J-ADNI,CONMCXLB,ADAS,ADAS-Cognitive Behavior,14b. Number of errors,N,2,0..99,,No suitable variable found.,
+177,J-ADNI,CONMCXLC,ADAS,ADAS-Cognitive Behavior,14c. Number of times reminded of task,N,2,0..99,,No suitable variable found.,
+178,J-ADNI,COORIEN,ADAS,ADAS-Cognitive Behavior,Check each item answered correctly.,T,20,1=Full name; 2=Month; 3=Date; 4=Year; 5=Day; 6=Season; 7=Place; 8=Time of day; 9=None completed correctly,,boston naming test (bnt),37396710.0
+179,J-ADNI,COP14CMP,ADAS,ADAS-Cognitive Behavior,"If task not administered, check one:",N,1,1=Not done (for reasons other than physical/cognitive); 2=Participant refused; 3=Participant unable for physical reasons; 4=Participant unable for cognitive reasons,,No suitable variable found.,
+180,J-ADNI,COP1COMP,ADAS,ADAS-Cognitive Behavior,"If any trial not administered, check one:",N,1,"1=Not done (for reasons other than physical/cognitive); 2=Participant refused; 4=Participant unable to complete 3 trials for cognitive reasons (NOTE: A score of '0' should be given in each of Trials 1, 2, and 3 if the task was administered and the participant was unable to complete the task for cognitive reasons.)",,No suitable variable found.,
+181,J-ADNI,COP2COMP,ADAS,ADAS-Cognitive Behavior,"If task not administered, check one:",N,1,1=Not done (for reasons other than physical/cognitive); 2=Participant refused; 3=Participant unable for physical reasons;4=Participant unable for cognitive reasons (NOTE: This should only be checked if the task was not administered due to cognitive reasons.),,No suitable variable found.,
+182,J-ADNI,COP3COMP,ADAS,ADAS-Cognitive Behavior,"If task not administered, check one:",N,1,1=Not done (for reasons other than physical/cognitive); 2=Participant refused; 3=Participant unable for physical reasons; 4=Participant unable for cognitive reasons (NOTE: This should only be checked if the task was not administered due to cognitive reasons.),,patient qualification,
+183,J-ADNI,COP4COMP,ADAS,ADAS-Cognitive Behavior,"If task not completed, check one:",N,1,1=Not done (for reasons other than physical/cognitive); 2=Participant refused; 4=Participant unable for cognitive reasons (NOTE: A score of '0' should be given if the participant was unable to complete the task for cognitive reasons.),,patient qualification,
+184,J-ADNI,COP5COMP,ADAS,ADAS-Cognitive Behavior,"If task not administered, check one:",N,1,1=Not done (for reasons other than physical/cognitive); 2=Participant refused; 4=Participant unable for cognitive reasons (NOTE: This should only be checked if the task was not administered due to cognitive reasons.),,patient qualification,
+185,J-ADNI,COP6COMP,ADAS,ADAS-Cognitive Behavior,"If task not administered, check one:",N,1,1=Not done (for reasons other than physical/cognitive); 2=Participant refused; 3=Participant unable for physical reasons; 4=Participant unable for cognitive reasons (NOTE: This should only be checked if the task was not administered due to cognitive reasons.),,patient qualification,
+186,J-ADNI,COP7COMP,ADAS,ADAS-Cognitive Behavior,"If task not administered, check one:",N,1,1=Not done (for reasons other than physical/cognitive); 2=Participant refused; 4=Participant unable for cognitive reasons (NOTE: This should only be checked if the task was not administered due to cognitive reasons.),,patient qualification,
+187,J-ADNI,COP8COMP,ADAS,ADAS-Cognitive Behavior,"If task not administered, check one:",N,1,1=Not done (for reasons other than physical/cognitive); 2=Participant refused; 4=Participant unable for cognitive reasons,,patient qualification,
+188,J-ADNI,COPYCIRC,NEUROBAT,Neuropsychological Battery,1. Approximately circular face,N,1,1=Yes;0=No,,No suitable variable found.,
+189,J-ADNI,COPYHAND,NEUROBAT,Neuropsychological Battery,4. Presence of the two hands,N,1,1=Yes;0=No,,No suitable variable found.,
+190,J-ADNI,COPYNUM,NEUROBAT,Neuropsychological Battery,3. Correctness of numbers,N,1,1=Yes;0=No,,No suitable variable found.,
+191,J-ADNI,COPYSCOR,NEUROBAT,Neuropsychological Battery,Total Score,N,2,0..5,,clock drawing test,
+192,J-ADNI,COPYSYM,NEUROBAT,Neuropsychological Battery,2. Symmetry of number placement,N,1,1=Yes;0=No,,clock drawing test,
+193,J-ADNI,COPYTIME,NEUROBAT,Neuropsychological Battery,"5. Presence of the two hands, set to ten after eleven",N,1,1=Yes;0=No,,No suitable variable found.,
+194,J-ADNI,COT1LIST,ADAS,ADAS-Cognitive Behavior,Trial 1,T,20,1=BUTTER; 2=ARM; 3=SHORE; 4=LETTER; 5=QUEEN; 6=CABIN; 7=POLE; 8=TICKET; 9=GRASS; 10=ENGINE,,No suitable variable found.,
+195,J-ADNI,COT1SCOR,ADAS,ADAS-Cognitive Behavior,Total <!--Trial 1-->,N,2,0..10,,No suitable variable found.,
+196,J-ADNI,COT2LIST,ADAS,ADAS-Cognitive Behavior,Trial 2,T,20,1=POLE; 2=LETTER; 3=BUTTER; 4=QUEEN; 5=ARM; 6=SHORE; 7=GRASS; 8=CABIN; 9=TICKET; 10=ENGINE,,No suitable variable found.,
+197,J-ADNI,COT2SCOR,ADAS,ADAS-Cognitive Behavior,Total <!--Trial 2-->,N,2,0..10,,No suitable variable found.,
+198,J-ADNI,COT3LIST,ADAS,ADAS-Cognitive Behavior,Trial 3,T,20,1=SHORE; 2=LETTER; 3=ARM; 4=CABIN; 5=POLE; 6=TICKET; 7=ENGINE; 8=GRASS; 9=BUTTER; 10=QUEEN,,No suitable variable found.,
+199,J-ADNI,COT3SCOR,ADAS,ADAS-Cognitive Behavior,Total <!--Trial 1-->,N,2,0..10,,No suitable variable found.,
+200,J-ADNI,COT4LIST,ADAS,ADAS-Cognitive Behavior,Check each word correctly recalled.,T,20,1=BUTTER; 2=ARM; 3=SHORE; 4=LETTER; 5=QUEEN; 6=CABIN; 7=POLE; 8=TICKET; 9=GRASS; 10=ENGINE,,No suitable variable found.,
+201,J-ADNI,COT4TOTL,ADAS,ADAS-Cognitive Behavior,Total,N,2,0..10,,No suitable variable found.,
+202,J-ADNI,COWRDFND,ADAS,ADAS-Cognitive Behavior,Check one response,N,1,"1=None; 2=Very Mild: one or two instances, not clinically significant; 3=Mild: noticeable circumlocution or synonym substitution; 4=Moderate: loss of words without compensation on occasion; 5=Moderately severe: frequent loss of words without compensation; 6=Severe: nearly total loss of content words, speech sounds empty, one-to-two-word utterances",,No suitable variable found.,
+203,J-ADNI,DIGITSCOR,NEUROBAT,Neuropsychological Battery,Total Correct,N,3,,,digit span test (backward),4150719.0
+204,J-ADNI,DSPANBAC,NEUROBAT,Neuropsychological Battery,Backward: Total Correct,N,2,0..12,,No suitable variable found.,
+205,J-ADNI,DSPANBLTH,NEUROBAT,Neuropsychological Battery,Backward: Length,N,1,2..7,,No suitable variable found.,
+206,J-ADNI,DSPANFLTH,NEUROBAT,Neuropsychological Battery,Forward: Length,N,1,3..8,,No suitable variable found.,
+207,J-ADNI,DSPANFOR,NEUROBAT,Neuropsychological Battery,Forward: Total Correct,N,2,0..12,,digit span test (forward),4150719.0
+208,J-ADNI,DXAATYSP,PDXCONV,Diagnostic Summary,Atypical clinical course or features (specify),T,100,,,No suitable variable found.,
+209,J-ADNI,DXAD,PDXCONV,Diagnostic Summary,Alzheimer's Disease,T,20,1=Yes,,No suitable variable found.,
+210,J-ADNI,DXADES,PDXCONV,Diagnostic Summary,"If Alzheimer's Disease, select box that indicates best description:",N,1,1=Mild; 2=Moderate; 3=Severe,,No suitable variable found.,
+211,J-ADNI,DXAMETASP,PDXCONV,Diagnostic Summary,Metabolic/Toxic Disorder (specify),T,100,,,No suitable variable found.,
+212,J-ADNI,DXAMETSP,PDXCONV,Diagnostic Summary,Metabolic / Toxic Disorder (specify),T,100,,,No suitable variable found.,
+213,J-ADNI,DXAOTHRSP,PDXCONV,Diagnostic Summary,Other (specify),T,100,,,No suitable variable found.,
+214,J-ADNI,DXAOTHSP,PDXCONV,Diagnostic Summary,Other (specify),T,100,,,No suitable variable found.,
+215,J-ADNI,DXAPOSS,PDXCONV,Diagnostic Summary,"If Possible AD, select box(es) to indicate reason:",T,25,1=Atypical clinical course or features (specify); 2=Stroke(s); 3=Depression; 4=Delirium; 5=Parkinsonism; 6=Metabolic / Toxic Disorder (specify); 7=Other (specify),,No suitable variable found.,
+216,J-ADNI,DXAPP,PDXCONV,Diagnostic Summary,If Alzheimer's Disease,N,1,1=Probable; 2=Possible,,No suitable variable found.,
+217,J-ADNI,DXAPROB,PDXCONV,Diagnostic Summary,"If Probable AD, select box(es) for other symptoms present:",T,25,1=None;2=Stroke(s);3=Depression;4=Delirium;5=Parkinsonism;6=Metabolic/Toxic Disorder (specify);7=Other (specify),,diagnosis,4234469.0
+218,J-ADNI,DXCONFID,PDXCONV,Diagnostic Summary,Physician Confidence in Diagnosis:,N,1,1=Uncertain; 2=Mildly Confident; 3=Moderately Confident; 4=Highly Confident,,diagnosis,4234469.0
+219,J-ADNI,DXCONTYP,PDXCONV,Diagnostic Summary,"If YES - CONVERSION, choose type",N,1,1=Normal Control to MCI; 2=Normal Control to AD; 3=MCI to AD,,No suitable variable found.,
+220,J-ADNI,DXCONV,PDXCONV,Diagnostic Summary,2. Has there been a conversion or reversion to NL/MCI?,N,1,1=Yes - Conversion;2=Yes - Reversion; 0=No,,No suitable variable found.,
+221,J-ADNI,DXCURREN,PDXCONV,Diagnostic Summary,1. Current Diagnosis,N,1,1=NL;2=MCI;3=AD,,No suitable variable found.,
+222,J-ADNI,DXMCI,PDXCONV,Diagnostic Summary,Mild Cognitive Impairment,T,20,1=Yes,,No suitable variable found.,
+223,J-ADNI,DXMDES,PDXCONV,Diagnostic Summary,"If Mild Cognitive Impairment, select any that apply:",T,20,1=MCI (Memory features); 2=MCI (Non-memory features),,No suitable variable found.,
+224,J-ADNI,DXMDUE,PDXCONV,Diagnostic Summary,If MCI,N,1,1=MCI due to Alzheimer's Disease; 2=MCI due to other etiology,,No suitable variable found.,
+225,J-ADNI,DXMOTHET,PDXCONV,Diagnostic Summary,"If MCI due to other etiology, select box(es) to indicate reason:",T,20,1=Frontal Lobe Dementia; 2=Parkinson's Disease; 3=Huntington's Disease; 4=Progressive Supranuclear Palsy; 5=Corticobasal Degeneration; 6=Vascular Dementia; 7=Prion-Associated Dementia; 8=Other (specify),,No suitable variable found.,
+226,J-ADNI,DXMOTHSP,PDXCONV,Diagnostic Summary,Other (specify),T,100,,,No suitable variable found.,
+227,J-ADNI,DXMPTR1,PDXCONV,Diagnostic Summary,1. Subjective memory complaint,N,1,1=Yes; 0=No,,No suitable variable found.,
+228,J-ADNI,DXMPTR2,PDXCONV,Diagnostic Summary,2. Informant memory complaint,N,1,1=Yes; 0=No,,No suitable variable found.,
+229,J-ADNI,DXMPTR3,PDXCONV,Diagnostic Summary,3. Normal general cognitive function,N,1,1=Yes; 0=No; 2=Marginal,,No suitable variable found.,
+230,J-ADNI,DXMPTR4,PDXCONV,Diagnostic Summary,4. Normal activities of daily living,N,1,1=Yes; 0=No; 2=Marginal,,No suitable variable found.,
+231,J-ADNI,DXMPTR5,PDXCONV,Diagnostic Summary,5. Objective memory impairment for age and education,N,1,1=Yes; 0=No,,education,1015298.0
+232,J-ADNI,DXMPTR6,PDXCONV,Diagnostic Summary,6. Not demented by diagnostic criteria,N,1,1=Yes;0=No,,No suitable variable found.,
+233,J-ADNI,DXNODEP,PDXCONV,Diagnostic Summary,Mild Depression,T,20,1=Yes,,depression,45878997.0
+234,J-ADNI,DXNORM,PDXCONV,Diagnostic Summary,Normal,T,20,1=Yes,,No suitable variable found.,
+235,J-ADNI,DXODES,PDXCONV,Diagnostic Summary,"If Other Dementia, select box which indicates best diagnosis:",N,2,1=Frontal; 2=Huntington; 3=Alcohol; 4=NPH; 5=Major Depression; 6=Down's Syndrome; 7=Vascular Dementia; 8=Prion; 9=HIV; 10=Primary Progressive Aphasia; 11=Posterior Cortical Dysfunction; 12=Other (specify),,No suitable variable found.,
+236,J-ADNI,DXOOTHSP,PDXCONV,Diagnostic Summary,Other (specify),T,100,,,No suitable variable found.,
+237,J-ADNI,DXOTHDEM,PDXCONV,Diagnostic Summary,Other Dementia (not Alzheimer's Disease),T,20,1=Yes,,No suitable variable found.,
+238,J-ADNI,DXPARK,PDXCONV,Diagnostic Summary,Parkinsonism,T,20,1=Yes,,parkinson’s disease,381270.0
+239,J-ADNI,DXPATYP,PDXCONV,Diagnostic Summary,If Atypical Parkinsonism,N,1,1=PSP;2=CBGD;3=OPCA;4=SND;5=Shy Drager;6=Vascular;7=Other (specify),,parkinson’s disease,381270.0
+240,J-ADNI,DXPCOG,PDXCONV,Diagnostic Summary,"If Parkinsonism with cognitive impairment, demented",N,1,1=PD;2=PDD;3=DLB;4=PDAD,,No suitable variable found.,
+241,J-ADNI,DXPDES,PDXCONV,Diagnostic Summary,"If Parkinsonism, select box which indicates best diagnosis:",N,1,"1=Parkinsonism without cognitive impairment; 2=Parkinsonism with cognitive impairment, not demented; 3=Parkinsonism with cognitive impairment, demented; 4=Atypical Parkinsonism",,No suitable variable found.,
+242,J-ADNI,DXPOTHSP,PDXCONV,Diagnostic Summary,Other (specify),T,100,,,No suitable variable found.,
+243,J-ADNI,DXREV,PDXCONV,Diagnostic Summary,"If YES - REVERSION, choose type",N,1,1=MCI to Normal Control; 2=AD to MCI; 3=AD to Normal Control,,No suitable variable found.,
+244,J-ADNI,ENROLLED,ARM,,Enrollment Status,N,1,null=pending enrollment;1=randomized - assigned a scan category;-1=screen failed;-2=screen failed after randomization,,participant id,46234739.0
+245,J-ADNI,ENTRY,NEUROEXM,Neurological Exam,,N,1 digit,,,No suitable variable found.,
+246,J-ADNI,ENTRY,MEDHIST,Medical History,,N,1 digit,,,No suitable variable found.,
+247,J-ADNI,ENTRY,PTDEMOG,Participant Demographic Information,,N,1 digit,,,No suitable variable found.,
+248,J-ADNI,ENTRY,MMSE,Mini Mental State Exam,,N,1 digit,,,No suitable variable found.,
+249,J-ADNI,ENTRY,ADAS,ADAS-Cognitive Behavior,,N,1 digit,,,No suitable variable found.,
+250,J-ADNI,ENTRY,GDSCALE,Geriatric Depression Scale,,N,1 digit,,,No suitable variable found.,
+251,J-ADNI,ENTRY,EXCLUSIO,Exclusion Criteria,,N,1 digit,,,No suitable variable found.,
+252,J-ADNI,ENTRY,PDXCONV,Diagnostic Summary,,N,1 digit,,,No suitable variable found.,
+253,J-ADNI,ENTRY,TREATDIS,Early Discontinuation and Withdrawal,,N,1 digit,,,No suitable variable found.,
+254,J-ADNI,ENTRY,RECFHQ,Family History Questionnaire Subtable,,N,1 digit,,,No suitable variable found.,
+255,J-ADNI,ENTRY,INCLUSIO,Inclusion Criteria,,N,1 digit,,,No suitable variable found.,
+256,J-ADNI,ENTRY,VITALS,Vital Signs,,N,1 digit,,,No suitable variable found.,
+257,J-ADNI,ENTRY,NEUROBAT,Neuropsychological Battery,,N,1 digit,,,No suitable variable found.,
+258,J-ADNI,ENTRY,PHYSICAL,Physical Exam,,N,1 digit,,,No suitable variable found.,
+259,J-ADNI,ENTRY,FAQ,Functional Assessment Questionnaire,,N,1 digit,,,No suitable variable found.,
+260,J-ADNI,ENTRY,FHQ,Family History Questionnaire,,N,1 digit,,,No suitable variable found.,
+261,J-ADNI,ENTRY,REGISTRY,Registry,,N,1 digit,,,No suitable variable found.,
+262,J-ADNI,ENTRY,MODHACH,Modified Hachinski,,N,1 digit,,,No suitable variable found.,
+263,J-ADNI,ENTRY,CDR,Clinical Dementia Rating,,N,1 digit,,,No suitable variable found.,
+264,J-ADNI,ENTRY,ADSXLIST,Diagnosis and Symptoms Checklist,,N,1 digit,,,No suitable variable found.,
+265,J-ADNI,ENTRY,BLSCHECK,Baseline Symptoms Checklist,,N,1 digit,,,No suitable variable found.,
+266,J-ADNI,ENTRY,ADASSCORES,ADAS Sub-Scores and Total Scores,,N,1 digit,,,No suitable variable found.,
+267,J-ADNI,ENTRY,BLCHANGE,Diagnostic Summary - Baseline Changes,,N,1 digit,,,No suitable variable found.,
+268,J-ADNI,ENTRY,NPIQ,Neuropsychiatric Inventory Q,,N,1 digit,,,No suitable variable found.,
+269,J-ADNI,EXABUSE,EXCLUSIO,Exclusion Criteria,5. Does the participant have a history of alcohol or substance abuse or dependence within the past 2 years (DSM IV criteria)?,N,1,1=Yes; 0=No,,alcohol abuse,433753.0
+270,J-ADNI,EXAMDATE,PDXCONV,Diagnostic Summary,Date Form Completed,D,10,,,patient qualification,
+271,J-ADNI,EXAMDATE,ADSXLIST,Diagnosis and Symptoms Checklist,Examination Date,D,10,,,visit,
+272,J-ADNI,EXAMDATE,MEDHIST,Medical History,Examination Date,D,10,,,visit,
+273,J-ADNI,EXAMDATE,NPIQ,Neuropsychiatric Inventory Q,Examination Date,D,10,,,visit,
+274,J-ADNI,EXAMDATE,ADASSCORES,ADAS Sub-Scores and Total Scores,,D,10,,,diagnosis,4234469.0
+275,J-ADNI,EXAMDATE,INCLUSIO,Inclusion Criteria,Date Criteria Confirmed,D,10,,,No suitable variable found.,
+276,J-ADNI,EXAMDATE,GDSCALE,Geriatric Depression Scale,Examination Date,D,10,,,visit,
+277,J-ADNI,EXAMDATE,RECFHQ,Family History Questionnaire Subtable,Examination Date,D,10,,,visit,
+278,J-ADNI,EXAMDATE,PTDEMOG,Participant Demographic Information,Examination Date,D,10,,,visit,
+279,J-ADNI,EXAMDATE,FHQ,Family History Questionnaire,Examination Date,D,10,,,visit,
+280,J-ADNI,EXAMDATE,REGISTRY,Registry,Examination Date,D,10,,,visit,
+281,J-ADNI,EXAMDATE,FAQ,Functional Assessment Questionnaire,Examination Date,D,10,,,visit,
+282,J-ADNI,EXAMDATE,NEUROEXM,Neurological Exam,Examination Date,D,10,,,visit,
+283,J-ADNI,EXAMDATE,EXCLUSIO,Exclusion Criteria,Date Criteria Confirmed,D,10,,,No suitable variable found.,
+284,J-ADNI,EXAMDATE,BLCHANGE,Diagnostic Summary - Baseline Changes,Form Completed,D,10,,,patient qualification,
+285,J-ADNI,EXAMDATE,ADAS,ADAS-Cognitive Behavior,Examination Date,D,10,,,visit,
+286,J-ADNI,EXAMDATE,MMSE,Mini Mental State Exam,Examination Date,D,10,,,visit,
+287,J-ADNI,EXAMDATE,BLSCHECK,Baseline Symptoms Checklist,Examination Date,D,10,,,visit,
+288,J-ADNI,EXAMDATE,MODHACH,Modified Hachinski,Examination Date,D,10,,,visit,
+289,J-ADNI,EXAMDATE,PHYSICAL,Physical Exam,Examination Date,D,10,,,visit,
+290,J-ADNI,EXAMDATE,VITALS,Vital Signs,Examination Date,D,10,,,visit,
+291,J-ADNI,EXAMDATE,CDR,Clinical Dementia Rating,Examination Date,D,10,,,visit,
+292,J-ADNI,EXAMDATE,TREATDIS,Early Discontinuation and Withdrawal,Date of Discontinuation/Withdrawal/Completion of ADNI 1,D,10,,,No suitable variable found.,
+293,J-ADNI,EXAMDATE,NEUROBAT,Neuropsychological Battery,Examination Date,D,10,,,visit,
+294,J-ADNI,EXAMINIT,NEUROEXM,Neurological Exam,Examiner Initials,T,3,,,participant id,46234739.0
+295,J-ADNI,EXAMINIT,BLSCHECK,Baseline Symptoms Checklist,Examiner Initials,T,3,,,participant id,46234739.0
+296,J-ADNI,EXAMINIT,MODHACH,Modified Hachinski,Examiner Initials,T,3,,,participant id,46234739.0
+297,J-ADNI,EXAMINIT,NPIQ,Neuropsychiatric Inventory Q,Examiner Initials,T,3,,,participant id,46234739.0
+298,J-ADNI,EXAMINIT,FAQ,Functional Assessment Questionnaire,Examiner Initials,T,3,,,participant id,46234739.0
+299,J-ADNI,EXAMINIT,PHYSICAL,Physical Exam,Examiner Initials,T,3,,,participant id,46234739.0
+300,J-ADNI,EXAMINIT,MEDHIST,Medical History,Examiner Initials,T,3,,,participant id,46234739.0
+301,J-ADNI,EXAMINIT,PDXCONV,Diagnostic Summary,Physician Initials,T,3,,,participant id,46234739.0
+302,J-ADNI,EXAMINIT,VITALS,Vital Signs,Examiner Initials,T,3,,,participant id,46234739.0
+303,J-ADNI,EXAMINIT,REGISTRY,Registry,Examiner Initials,T,3,,,participant id,46234739.0
+304,J-ADNI,EXAMINIT,FHQ,Family History Questionnaire,Examiner initials,T,3,,,participant id,46234739.0
+305,J-ADNI,EXAMINIT,ADSXLIST,Diagnosis and Symptoms Checklist,Examiner Initials,T,3,,,participant id,46234739.0
+306,J-ADNI,EXAMINIT,CDR,Clinical Dementia Rating,Examiner Initials,T,3,,,participant id,46234739.0
+307,J-ADNI,EXAMINIT,NEUROBAT,Neuropsychological Battery,Examiner Initials,T,3,,,participant id,46234739.0
+308,J-ADNI,EXAMINIT,TREATDIS,Early Discontinuation and Withdrawal,Examiner Initials,T,3,,,participant id,46234739.0
+309,J-ADNI,EXAMINIT,PTDEMOG,Participant Demographic Information,Examiner Initials,T,3,,,participant id,46234739.0
+310,J-ADNI,EXAMINIT,RECFHQ,Family History Questionnaire Subtable,Examiner Initials,T,3,,,participant id,46234739.0
+311,J-ADNI,EXAMINIT,GDSCALE,Geriatric Depression Scale,Examiner Initials,T,3,,,participant id,46234739.0
+312,J-ADNI,EXAMINIT,BLCHANGE,Diagnostic Summary - Baseline Changes,Physician's Initials,T,3,,,participant id,46234739.0
+313,J-ADNI,EXAMINIT,INCLUSIO,Inclusion Criteria,Examiner Initials,T,3,,,participant id,46234739.0
+314,J-ADNI,EXAMINIT,ADAS,ADAS-Cognitive Behavior,Examiner Initials,T,3,,,participant id,46234739.0
+315,J-ADNI,EXAMINIT,EXCLUSIO,Exclusion Criteria,Examiner Initials,T,3,,,participant id,46234739.0
+316,J-ADNI,EXAMINIT,MMSE,Mini Mental State Exam,Examiner Initials,T,3,,,participant id,46234739.0
+317,J-ADNI,EXILLNESS,EXCLUSIO,Exclusion Criteria,6. Does the participant have a significant systemic illness or unstable medical condition which could lead to difficulty complying with the protocol?,N,1,1=Yes; 0=No,,No suitable variable found.,
+318,J-ADNI,EXINVEST,EXCLUSIO,Exclusion Criteria,10. Has the participant used another investigational agent within one month prior to screening?,N,1,1=Yes; 0=No,,participant id,46234739.0
+319,J-ADNI,EXLAB,EXCLUSIO,Exclusion Criteria,"7. Does the participant have any clinically significant abnormalities in B12, RPR, or TFTs that might interfere with the study.",N,1,1=Yes; 0=No,,No suitable variable found.,
+320,J-ADNI,EXMEDS,EXCLUSIO,Exclusion Criteria,"9. Is the participant currently taking, or has he/she taken in the last 4 weeks, any excluded medication(s) as described in the Procedures Manual?",N,1,1=Yes; 0=No,,No suitable variable found.,
+321,J-ADNI,EXMRI,EXCLUSIO,Exclusion Criteria,"3. Does the participant have a pacemaker, aneurysm clips, artificial heart valves, ear implants, metal fragments or foreign objects in the eyes, skin or body.",N,1,1=Yes; 0=No,,heart rate,4239408.0
+322,J-ADNI,EXNEURO,EXCLUSIO,Exclusion Criteria,"1. NL - Does the participant have a significant neurologic disease such as Parkinson's disease, multi-infarct dementia, Huntington's disease, normal pressure hydrocephalus, brain tumor, progressive supranuclear palsy, seizure disorder, subdural hematoma, multiple sclerosis, or history of significant head trauma followed by persistent neurologic defaults or known structural brain abnormalities.<br>MCI - Does the participant have a significant neurologic disease other than suspected incipient Alzheimer's disease such as...<br>AD - Does the participant have a significant neurologic disease other than Alzheimer's disease including...",N,1,1=Yes; 0=No,,head injury,
+323,J-ADNI,EXNIMAG,EXCLUSIO,Exclusion Criteria,"2. Does the participant's screening/baseline MRI scans have evidence of infection, infarction, or other focal lesions?  Participants with multiple lacunes or lacunes in a critical memory structure are excluded.",N,1,1=Yes; 0=No,,No suitable variable found.,
+324,J-ADNI,EXPARTICIP,EXCLUSIO,Exclusion Criteria,11. Is the participant participating in a clinical study involving neuropsychological measures being collected more than one time per year?,N,1,1=Yes; 0=No,,No suitable variable found.,
+325,J-ADNI,EXPSYCH,EXCLUSIO,Exclusion Criteria,"4. NL - Has the participant had major depression or bipolar disorder as described in DSM-IV within the past year or a history of schizophrenia (DSM IV criteria)?<br>MCI/AD - Does the participant have a history of major depression...or a history of psychotic features, agitation, or behavioral problems within the last 3 months which could lead to difficulty complying with the protocol?",N,1,1=Yes; 0=No,,bipolar,4128935.0
+326,J-ADNI,EXRESID,EXCLUSIO,Exclusion Criteria,8. Does the participant reside in a skilled nursing facility?,N,1,1=Yes; 0=No,,living situation,
+327,J-ADNI,FAQBEVG,FAQ,Functional Assessment Questionnaire,"5. Heating water, making a cup of coffee, turing off the stove.",N,1,"0=Normal (0);1=Never did, but could do now (0);2=Never did, would have difficulty now (1);3=Has difficulty, but does by self (1);4=Requires assistance (2);5=Dependent (3)",,No suitable variable found.,
+328,J-ADNI,FAQEVENT,FAQ,Functional Assessment Questionnaire,7. Keeping track of current events.,N,1,"0=Normal (0);1=Never did, but could do now (0);2=Never did, would have difficulty now (1);3=Has difficulty, but does by self (1);4=Requires assistance (2);5=Dependent (3)",,functional activities questionnaire (faq),
+329,J-ADNI,FAQFINAN,FAQ,Functional Assessment Questionnaire,"1. Writing checks, paying bills, or balancing checkbook.",N,1,"0=Normal (0);1=Never did, but could do now (0);2=Never did, would have difficulty now (1);3=Has difficulty, but does by self (1);4=Requires assistance (2);5=Dependent (3)",,functional activities questionnaire (faq),
+330,J-ADNI,FAQFORM,FAQ,Functional Assessment Questionnaire,"2. Assembling tax records, business affairs, or other papers.",N,1,"0=Normal (0);1=Never did, but could do now (0);2=Never did, would have difficulty now (1);3=Has difficulty, but does by self (1);4=Requires assistance (2);5=Dependent (3)",,functional activities questionnaire (faq),
+331,J-ADNI,FAQGAME,FAQ,Functional Assessment Questionnaire,"4. Playing a game of skill such as bridge or chess, working on a hobby.",N,1,"0=Normal (0);1=Never did, but could do now (0);2=Never did, would have difficulty now (1);3=Has difficulty, but does by self (1);4=Requires assistance (2);5=Dependent (3)",,No suitable variable found.,
+332,J-ADNI,FAQMEAL,FAQ,Functional Assessment Questionnaire,6. Preparing a balanced meal.,N,1,"0=Normal (0);1=Never did, but could do now (0);2=Never did, would have difficulty now (1);3=Has difficulty, but does by self (1);4=Requires assistance (2);5=Dependent (3)",,functional activities questionnaire (faq),
+333,J-ADNI,FAQREM,FAQ,Functional Assessment Questionnaire,"9. Remembering appointments, family occasions, holidays, medications.",N,1,"0=Normal (0);1=Never did, but could do now (0);2=Never did, would have difficulty now (1);3=Has difficulty, but does by self (1);4=Requires assistance (2);5=Dependent (3)",,No suitable variable found.,
+334,J-ADNI,FAQSHOP,FAQ,Functional Assessment Questionnaire,"3. Shopping alone for clothes, household necessities, or groceries.",N,1,"0=Normal (0);1=Never did, but could do now (0);2=Never did, would have difficulty now (1);3=Has difficulty, but does by self (1);4=Requires assistance (2);5=Dependent (3)",,living situation,
+335,J-ADNI,FAQSOURCE,FAQ,Functional Assessment Questionnaire,Information Source,N,1,1=Participant Visit;2=Telephone Call,,functional activities questionnaire (faq),
+336,J-ADNI,FAQTOTAL,FAQ,Functional Assessment Questionnaire,Total Score,N,2,0..30,,functional activities questionnaire (faq),
+337,J-ADNI,FAQTRAVL,FAQ,Functional Assessment Questionnaire,"10. Traveling out of the neighborhood, driving, or arranging to take public transportation.",N,1,"0=Normal (0);1=Never did, but could do now (0);2=Never did, would have difficulty now (1);3=Has difficulty, but does by self (1);4=Requires assistance (2);5=Dependent (3)",,living situation,
+338,J-ADNI,FAQTV,FAQ,Functional Assessment Questionnaire,"8. Paying attention to and understanding a TV program, book, or magazine.",N,1,"0=Normal (0);1=Never did, but could do now (0);2=Never did, would have difficulty now (1);3=Has difficulty, but does by self (1);4=Requires assistance (2);5=Dependent (3)",,functional activities questionnaire (faq),
+339,J-ADNI,FHQDAD,FHQ,Family History Questionnaire,Dementia,N,1,1=Yes; 0=No,,mother dementia,4326002.0
+340,J-ADNI,FHQDADAD,FHQ,Family History Questionnaire,Alzheimer's Disease,N,1,1=Yes; 0=No,,No suitable variable found.,
+341,J-ADNI,FHQGNDR,RECFHQ,Family History Questionnaire Subtable,Gender,N,1,1=Male;2=Female,,biological sex,4135376.0
+342,J-ADNI,FHQMOM,FHQ,Family History Questionnaire,Dementia,N,1,1=Yes; 0=No,,mother dementia,4326002.0
+343,J-ADNI,FHQMOMAD,FHQ,Family History Questionnaire,Alzheimer's Disease,N,1,1=Yes; 0=No,,No suitable variable found.,
+344,J-ADNI,FHQPROV,FHQ,Family History Questionnaire,Indicate below who provided the information collected for this questionnaire:,N,1,1=Participant only; 2=Study Partner only; 3=Both Participant and Study Partner,,functional activities questionnaire (faq),
+345,J-ADNI,FHQSIB,RECFHQ,Family History Questionnaire Subtable,Dementia,N,1,1=Yes; 0=No,,sibling dementia,
+346,J-ADNI,FHQSIB,FHQ,Family History Questionnaire,3. Does the participant have any siblings?,N,1,1=Yes; 0=No,,sibling ad,
+347,J-ADNI,FHQSIBAD,RECFHQ,Family History Questionnaire Subtable,Alzheimer's Disease,N,1,1=Yes; 0=No,,No suitable variable found.,
+348,J-ADNI,FHQSOURCE,FHQ,Family History Questionnaire,Information Souce,N,1,1=Participant Visit;2=Telephone Call,,No suitable variable found.,
+349,J-ADNI,GDAFRAID,GDSCALE,Geriatric Depression Scale,6. Are you afraid that something bad is going to happen to you?,N,1,1=Yes(1); 0=No(0),,No suitable variable found.,
+350,J-ADNI,GDALIVE,GDSCALE,Geriatric Depression Scale,11. Do you think its wonderful to be alive now?,N,1,1=Yes(0); 0=No(1),,geriatric depression scale (gds),3051694.0
+351,J-ADNI,GDBETTER,GDSCALE,Geriatric Depression Scale,15. Do you think that most people are better off than you are?,N,1,1=Yes(1); 0=No(0),,geriatric depression scale (gds),3051694.0
+352,J-ADNI,GDBORED,GDSCALE,Geriatric Depression Scale,4. Do you often get bored?,N,1,1=Yes(1); 0=No(0),,geriatric depression scale (gds),3051694.0
+353,J-ADNI,GDDROP,GDSCALE,Geriatric Depression Scale,2. Have you dropped many of your activities and interests?,N,1,1=Yes(1); 0=No(0),,geriatric depression scale (gds),3051694.0
+354,J-ADNI,GDEMPTY,GDSCALE,Geriatric Depression Scale,3. Do you feel that your life is empty?,N,1,1=Yes(1); 0=No(0),,geriatric depression scale (gds),3051694.0
+355,J-ADNI,GDENERGY,GDSCALE,Geriatric Depression Scale,13. Do you feel full of energy?,N,1,1=Yes(0); 0=No(1),,geriatric depression scale (gds),3051694.0
+356,J-ADNI,GDHAPPY,GDSCALE,Geriatric Depression Scale,7. Do you feel happy most of the time?,N,1,1=Yes(0); 0=No(1),,geriatric depression scale (gds),3051694.0
+357,J-ADNI,GDHELP,GDSCALE,Geriatric Depression Scale,8. Do you often feel helpless?,N,1,1=Yes(1); 0=No(0),,geriatric depression scale (gds),3051694.0
+358,J-ADNI,GDHOME,GDSCALE,Geriatric Depression Scale,"9. Do you prefer to stay at home, rather than going out and doing new things?",N,1,1=Yes(1); 0=No(0),,geriatric depression scale (gds),3051694.0
+359,J-ADNI,GDHOPE,GDSCALE,Geriatric Depression Scale,14. Do you feel that your situation is hopeless?,N,1,1=Yes(1); 0=No(0),,geriatric depression scale (gds),3051694.0
+360,J-ADNI,GDMEMORY,GDSCALE,Geriatric Depression Scale,10. Do you feel you have more problems with memory than most?,N,1,1=Yes(1); 0=No(0),,geriatric depression scale (gds),3051694.0
+361,J-ADNI,GDSATIS,GDSCALE,Geriatric Depression Scale,1. Are you basically satisfied with your life?,N,1,1=Yes(0); 0=No(1),,geriatric depression scale (gds),3051694.0
+362,J-ADNI,GDSOURCE,GDSCALE,Geriatric Depression Scale,Information Source,N,1,1=Participant Visit;2=Telephone Call,,geriatric depression scale (gds),3051694.0
+363,J-ADNI,GDSPIRIT,GDSCALE,Geriatric Depression Scale,5. Are you in good spirits most of the time?,N,1,1=Yes(0); 0=No(1),,geriatric depression scale (gds),3051694.0
+364,J-ADNI,GDTOTAL,GDSCALE,Geriatric Depression Scale,Total Score,N,2,0..15,,geriatric depression scale (gds),3051694.0
+365,J-ADNI,GDUNABL,GDSCALE,Geriatric Depression Scale,Check here if:,T,20,1=Participant is unable to complete the GDS based on the clinician's best judgement.,,No suitable variable found.,
+366,J-ADNI,GDUNABSP,GDSCALE,Geriatric Depression Scale,"If unable, explain:",T,100,,,No suitable variable found.,
+367,J-ADNI,GDWORTH,GDSCALE,Geriatric Depression Scale,12. Do you feel pretty worthless the way you are now?,N,1,1=Yes(1); 0=No(0),,geriatric depression scale (gds),3051694.0
+368,J-ADNI,HMEMOTIO,MODHACH,Modified Hachinski,4. Emotional Incontinence,N,1,1=Present - 1 point; 0=Absent,,No suitable variable found.,
+369,J-ADNI,HMHYPERT,MODHACH,Modified Hachinski,5. History of Hypertension,N,1,1=Present - 1 point; 0=Absent,,high blood pressure,45883495.0
+370,J-ADNI,HMNEURSG,MODHACH,Modified Hachinski,8. Focal Neurologic Signs,N,1,2=Present - 2 points; 0=Absent,,No suitable variable found.,
+371,J-ADNI,HMNEURSM,MODHACH,Modified Hachinski,7. Focal Neurologic Symptoms,N,1,2=Present - 2 points; 0=Absent,,No suitable variable found.,
+372,J-ADNI,HMONSET,MODHACH,Modified Hachinski,1. Abrupt Onset of Dementia,N,1,2=Present - 2 points; 0=Absent,,No suitable variable found.,
+373,J-ADNI,HMSCORE,MODHACH,Modified Hachinski,TOTAL SCORE,N,2,0..12,,geriatric depression scale (gds),3051694.0
+374,J-ADNI,HMSOMATC,MODHACH,Modified Hachinski,3. Somatic Complaints,N,1,1=Present - 1 point; 0=Absent,,No suitable variable found.,
+375,J-ADNI,HMSTEPWS,MODHACH,Modified Hachinski,2. Stepwise Deterioration of Dementia,N,1,1=Present - 1 point; 0=Absent,,No suitable variable found.,
+376,J-ADNI,HMSTROKE,MODHACH,Modified Hachinski,6. History of Stroke,N,1,2=Present - 2 points; 0=Absent,,stroke,36210384.0
+377,J-ADNI,ID,TREATDIS,Early Discontinuation and Withdrawal,Record ID,N,38,"crfname','Early Discontinuation and Withdrawal','indexes','adni_treatdis_idx=RID,VISCODE,ENTRY','notnullcols','ID,RID,SITEID,VISCODE,ENTRY,USERID,USERDATE'",,participant id,46234739.0
+378,J-ADNI,ID,CDR,Clinical Dementia Rating,Record ID,N,38,"crfname','Clinical Dementia Rating','indexes','adni_cdr_idx=RID,VISCODE,ENTRY','notnullcols','ID,RID,SITEID,VISCODE,ENTRY,USERID,USERDATE'",,participant id,46234739.0
+379,J-ADNI,ID,NEUROBAT,Neuropsychological Battery,Record ID,N,38,"crfname','Neuropsychological Battery','indexes','adni_neurobat_idx=RID,VISCODE,ENTRY','notnullcols','ID,RID,SITEID,VISCODE,ENTRY,USERID,USERDATE'",,participant id,46234739.0
+380,J-ADNI,ID,VITALS,Vital Signs,Record ID,N,38,"crfname','Vital Signs','indexes','adni_vitals_idx=RID,VISCODE,ENTRY','notnullcols','ID,RID,SITEID,VISCODE,ENTRY,USERID,USERDATE'",,participant id,46234739.0
+381,J-ADNI,ID,BLSCHECK,Baseline Symptoms Checklist,Record ID,N,38,"crfname','Baseline Symptoms Checklist','indexes','adni_blscheck_idx=RID,VISCODE,ENTRY','notnullcols','ID,RID,SITEID,VISCODE,ENTRY,USERID,USERDATE'",,participant id,46234739.0
+382,J-ADNI,ID,BLCHANGE,Diagnostic Summary - Baseline Changes,Record ID,N,38,"crfname','Diagnostic Summary - Baseline Changes','indexes','adni_blchange_idx=RID,VISCODE,ENTRY','notnullcols','ID,RID,SITEID,VISCODE,ENTRY,USERID,USERDATE'",,participant id,46234739.0
+383,J-ADNI,ID,PHYSICAL,Physical Exam,Record ID,N,38,"crfname','Physical Exam','indexes','adni_physical_idx=RID,VISCODE,ENTRY','notnullcols','ID,RID,SITEID,VISCODE,ENTRY,USERID,USERDATE'",,participant id,46234739.0
+384,J-ADNI,ID,EXCLUSIO,Exclusion Criteria,Record ID,N,38,"crfname','Exclusion Criteria','indexes','adni_exclusio_idx=RID,VISCODE,ENTRY','notnullcols','ID,RID,SITEID,VISCODE,ENTRY,USERID,USERDATE'",,participant id,46234739.0
+385,J-ADNI,ID,NEUROEXM,Neurological Exam,Record ID,N,38,"crfname','Neurological Exam','indexes','adni_neuroexm_idx=RID,VISCODE,ENTRY','notnullcols','ID,RID,SITEID,VISCODE,ENTRY,USERID,USERDATE'",,participant id,46234739.0
+386,J-ADNI,ID,MODHACH,Modified Hachinski,Record ID,N,38,"crfname','Modified Hachinski','indexes','adni_modhach_idx=RID,VISCODE,ENTRY','notnullcols','ID,RID,SITEID,VISCODE,ENTRY,USERID,USERDATE'",,participant id,46234739.0
+387,J-ADNI,ID,ADAS,ADAS-Cognitive Behavior,Record ID,N,38,"crfname','ADAS-Cognitive Behavior','indexes','adni_adas_idx=RID,VISCODE,ENTRY','notnullcols','ID,RID,SITEID,VISCODE,ENTRY,USERID,USERDATE'",,participant id,46234739.0
+388,J-ADNI,ID,ADASSCORES,ADAS Sub-Scores and Total Scores,Record ID,N,38,"crfname','ADAS Sub-Scores and Total Scores','indexes','adni_adasscores_idx=RID,VISCODE,ENTRY','notnullcols','ID,RID,SITEID,VISCODE,ENTRY,USERID,USERDATE'",,participant id,46234739.0
+389,J-ADNI,ID,FAQ,Functional Assessment Questionnaire,Record ID,N,38,"crfname','Functional Assessment Questionnaire','indexes','adni_faq_idx=RID,VISCODE,ENTRY','notnullcols','ID,RID,SITEID,VISCODE,ENTRY,USERID,USERDATE'",,participant id,46234739.0
+390,J-ADNI,ID,MMSE,Mini Mental State Exam,Record ID,N,38,"crfname','Mini Mental State Exam','indexes','adni_mmse_idx=RID,VISCODE,ENTRY','notnullcols','ID,RID,SITEID,VISCODE,ENTRY,USERID,USERDATE'",,participant id,46234739.0
+391,J-ADNI,ID,ADSXLIST,Diagnosis and Symptoms Checklist,Record ID,N,38,"crfname','Diagnosis and Symptoms Checklist','indexes','adni_adsxlist_idx=RID,VISCODE,ENTRY','notnullcols','ID,RID,SITEID,VISCODE,ENTRY,USERID,USERDATE'",,participant id,46234739.0
+392,J-ADNI,ID,PDXCONV,Diagnostic Summary,Record ID,N,38,"crfname','Diagnostic Summary','indexes','adni_pdxconv_idx=RID,VISCODE,ENTRY','notnullcols','ID,RID,SITEID,VISCODE,ENTRY,USERID,USERDATE'",,participant id,46234739.0
+393,J-ADNI,ID,PTDEMOG,Participant Demographic Information,Record ID,N,38,"crfname','Participant Demographic Information','indexes','adni_ptdemog_idx=RID,VISCODE,ENTRY','notnullcols','ID,RID,SITEID,VISCODE,ENTRY,USERID,USERDATE'",,participant id,46234739.0
+394,J-ADNI,ID,FHQ,Family History Questionnaire,Record ID,N,38,"crfname','Family History Questionnaire','indexes','adni_fhq_idx=RID,VISCODE,ENTRY','notnullcols','ID,RID,SITEID,VISCODE,ENTRY,USERID,USERDATE'",,participant id,46234739.0
+395,J-ADNI,ID,MEDHIST,Medical History,Record ID,N,38,"crfname','Medical History','indexes','adni_medhist_idx=RID,VISCODE,ENTRY','notnullcols','ID,RID,SITEID,VISCODE,ENTRY,USERID,USERDATE'",,participant id,46234739.0
+396,J-ADNI,ID,REGISTRY,Registry,Record ID,N,38,"crfname','Registry','indexes','adni_registry_idx=RID,VISCODE,ENTRY','notnullcols','ID,RID,SITEID,VISCODE,ENTRY,USERID,USERDATE'",,participant id,46234739.0
+397,J-ADNI,ID,GDSCALE,Geriatric Depression Scale,Record ID,N,38,"crfname','Geriatric Depression Scale','indexes','adni_gdscale_idx=RID,VISCODE,ENTRY','notnullcols','ID,RID,SITEID,VISCODE,ENTRY,USERID,USERDATE'",,participant id,46234739.0
+398,J-ADNI,ID,ARM,,Record ID,N,38,"crfname','','indexes','adni_arm_idx=PTNO','notnullcols','ID,USERID,USERDATE,RID,SITEID,PTNO,TYPE'",,participant id,46234739.0
+399,J-ADNI,ID,RECFHQ,Family History Questionnaire Subtable,Record ID,N,38,"crfname','Family History Questionnaire Subtable','indexes','adni_recfhq_idx=RID,VISCODE,ENTRY,RECNO','notnullcols','ID,RID,SITEID,VISCODE,ENTRY,USERID,USERDATE,RECNO'",,participant id,46234739.0
+400,J-ADNI,ID,INCLUSIO,Inclusion Criteria,Record ID,N,38,"crfname','Inclusion Criteria','indexes','adni_inclusio_idx=RID,VISCODE,ENTRY','notnullcols','ID,RID,SITEID,VISCODE,ENTRY,USERID,USERDATE'",,participant id,46234739.0
+401,J-ADNI,ID,NPIQ,Neuropsychiatric Inventory Q,Record ID,N,38,"crfname','Neuropsychiatric Inventory Q','indexes','adni_npiq_idx=RID,VISCODE,ENTRY','notnullcols','ID,RID,SITEID,VISCODE,ENTRY,USERID,USERDATE'",,participant id,46234739.0
+402,J-ADNI,INCAGE,INCLUSIO,Inclusion Criteria,8. Is the participant between 60 and 81 years of age inclusive?,N,1,1=Yes; 0=No,,age,4265453.0
+403,J-ADNI,INCCDR,INCLUSIO,Inclusion Criteria,5. NL - Does the participant have a Clinical Dementia Rating of 0?  Memory Box score must be 0.<br>MCI - Does the participant have a Clinical Dementia Rating of 0.5?  Memory Box score must be at least 0.5.<br>AD - Does participant have a Clinical Dementia rating of 0.5 or 1.0?,N,1,1=Yes; 0=No,,No suitable variable found.,
+404,J-ADNI,INCCOG,INCLUSIO,Inclusion Criteria,6. NL - Is the participant cognitively normal based on an absence of significant impairment in cognitive functions or activities of daily living?<br>MCI - Is the participant's general cognition and functional performance sufficiently perserved such that a diagnosis of Alzheimer's disease cannot be made by the site physician at the time of the screening visit? <br>AD - Does the participant meet NINCDS/ADRDA criteria for probable AD?,N,1,1=Yes; 0=No,,No suitable variable found.,
+405,J-ADNI,INCEDUC,INCLUSIO,Inclusion Criteria,17. Has the participant completed 6 grades of education (or had a good work history sufficient to exclude mental retardation)?,N,1,1=Yes; 0=No,,education,1015298.0
+406,J-ADNI,INCFEM,INCLUSIO,Inclusion Criteria,"14. If female, is the participant not pregnant, lactating, or of childbearing potential (i.e. women must be two years post-menopausal or surgically sterile)?",N,1,1=Yes; 0=No;2=N/A,,No suitable variable found.,
+407,J-ADNI,INCGDS,INCLUSIO,Inclusion Criteria,10. Does the participant have a Geriatric Depression Scale score of <6?,N,1,1=Yes; 0=No,,geriatric depression scale (gds),3051694.0
+408,J-ADNI,INCHACH,INCLUSIO,Inclusion Criteria,7. Does the participant have a Modified Hachinski score less than or equal to 4?,N,1,1=Yes; 0=No,,No suitable variable found.,
+409,J-ADNI,INCHEALTH,INCLUSIO,Inclusion Criteria,13. Is the participant in good general health with no additional diseases expected to interfere with the study?,N,1,1=Yes; 0=No,,No suitable variable found.,
+410,J-ADNI,INCHIST,INCLUSIO,Inclusion Criteria,19a. Medical History,N,1,1=Yes;0=No,,No suitable variable found.,
+411,J-ADNI,INCIMAG,INCLUSIO,Inclusion Criteria,16. Is the participant willing to undergo MRI 1.5 Tesla neuroimaging (PET and MRI 3 Tesla are optional) and provide DNA for ApoE assessments and banking as well as plasma samples at protocol specified time points?,N,1,1=Yes; 0=No,,No suitable variable found.,
+412,J-ADNI,INCINFORM,INCLUSIO,Inclusion Criteria,"11. Does the participant have an informant available who they have frequent contact with (e.g. an average of 10 hours per week or more), and can accompany the participant to all clinic visits and imaging sessions for the duration of the protocol?",N,1,1=Yes; 0=No,,No suitable variable found.,
+413,J-ADNI,INCLAB,INCLUSIO,Inclusion Criteria,19d. Laboratory Tests?,N,1,1=Yes; 0=No,,No suitable variable found.,
+414,J-ADNI,INCLANG,INCLUSIO,Inclusion Criteria,18. Is the participant fluent in English or Spanish?,N,1,1=Yes; 0=No,,No suitable variable found.,
+415,J-ADNI,INCMCOMP,INCLUSIO,Inclusion Criteria,"2. NL - Is participant free of memory complaints, verified by an informant, aside from those normal with age?<br>MCI - Does the subject have memory complaints and memory difficulties that are verified by an informant?<br>AD -  Does the subject have memory complaints that are verified by an informant?",N,1,1=Yes;0=No,,No suitable variable found.,
+416,J-ADNI,INCMFXN,INCLUSIO,Inclusion Criteria,3. NL - Normal memory function documented by scoring at specific cutoffs on the Logical Memory II subscale (delayed Paragraph Recall) from the Wechsler Memory Scaled - Revised (the maximum score is 25)<br>MCI/AD - Abnormal memory function documented by scoring below the educationn adjusted cutoff on the Logical Memory II subscale (Delayed  Paragraph Recall) from the Wechsler Memory Scale - Revised (the maximum score is 25),N,1,1=Yes;0=No,,No suitable variable found.,
+417,J-ADNI,INCMMSE,INCLUSIO,Inclusion Criteria,4. NL/MCI - Does the participant have Mini-Mental State Exam score between 24 and 30 (inclusive)?  (Exceptions must be made for subjects with less than 8 years of education at the discretion of the project director).<br>AD - Does the participant have an MMSE score between 20 and 26 (inclusive)?,N,1,1=Yes; 0=No,,education,1015298.0
+418,J-ADNI,INCNEUR,INCLUSIO,Inclusion Criteria,19c. Neurological Examination?,N,1,1=Yes; 0=No,,No suitable variable found.,
+419,J-ADNI,INCPART,INCLUSIO,Inclusion Criteria,15. NL/MCI - Is the participant willing and able to complete all Baseline assessment and participate in a 3-year protocol?<br>AD - Is the participant willing and able to ...2-year protocol?,N,1,1=Yes;0=No,,No suitable variable found.,
+420,J-ADNI,INCPHYS,INCLUSIO,Inclusion Criteria,19b. Physical Examination?,N,1,1=Yes; 0=No,,No suitable variable found.,
+421,J-ADNI,INCSG15T,INCLUSIO,Inclusion Criteria,Check the following to indicate the participant is suitable for and consents to:,N,1,1=1.5 Tesla MRI,,patient qualification,
+422,J-ADNI,INCSG3T,INCLUSIO,Inclusion Criteria,,N,1,1=3 Tesla MRI,,No suitable variable found.,
+423,J-ADNI,INCSGDT,INCLUSIO,Inclusion Criteria,"If Yes, date signed",D,10,,,No suitable variable found.,
+424,J-ADNI,INCSGLP,INCLUSIO,Inclusion Criteria,,N,1,1=Lumbar Puncture,,No suitable variable found.,
+425,J-ADNI,INCSGPET,INCLUSIO,Inclusion Criteria,,N,1,1=PET Scan,,No suitable variable found.,
+426,J-ADNI,INCSIGN,INCLUSIO,Inclusion Criteria,1. Have the participant and study partner signed the Informed Consent form?,N,1,1=Yes; 0=No,,No suitable variable found.,
+427,J-ADNI,INCSTMED,INCLUSIO,Inclusion Criteria,9. Has the participant been on stable doses of non-excluded medications for at least 4 weeks prior to screening?,N,1,1=Yes; 0=No,,No suitable variable found.,
+428,J-ADNI,INCVISUAL,INCLUSIO,Inclusion Criteria,12. Does the participant have adequate visual and auditory acuity to allow neuropsychological testing?,N,1,1=Yes; 0=No,,hearing,46237286.0
+429,J-ADNI,LASTNAME,ARM,,ID Assigner's Last Name,T,30,,,No suitable variable found.,
+430,J-ADNI,LDELCUE,NEUROBAT,Neuropsychological Battery,Cue used?,N,1,1=Yes;0=No,,No suitable variable found.,
+431,J-ADNI,LDELTOTAL,NEUROBAT,Neuropsychological Battery,Logical Memory - Delayed Recall <br />Total Number of Story Units Recalled:,N,2,0..25,,logical memory - delayed recall,
+432,J-ADNI,LIMMTOTAL,NEUROBAT,Neuropsychological Battery,Logical Memory - Immediate Recall <br />Total Number of Story Units Recalled:,N,2,0..25,,logical memory - delayed recall,
+433,J-ADNI,MAPPDATE,ARM,,Monitor Approval Date,S,,,,No suitable variable found.,
+434,J-ADNI,MH10GAST,MEDHIST,Medical History,10. Gastrointestinal,N,1,1=Yes; 0=No,,No suitable variable found.,
+435,J-ADNI,MH11HEMA,MEDHIST,Medical History,11. Hematopoietic-Lymphatic,N,1,1=Yes; 0=No,,No suitable variable found.,
+436,J-ADNI,MH12RENA,MEDHIST,Medical History,12. Renal-Genitourinary,N,1,1=Yes; 0=No,,No suitable variable found.,
+437,J-ADNI,MH13ALLE,MEDHIST,Medical History,13. Allergies or Drug Sensitivities,N,1,1=Yes; 0=No,,No suitable variable found.,
+438,J-ADNI,MH14ALCH,MEDHIST,Medical History,14. Alcohol Abuse,N,1,1=Yes; 0=No,,alcohol abuse,433753.0
+439,J-ADNI,MH15DRUG,MEDHIST,Medical History,15. Drug Abuse,N,1,1=Yes; 0=No,,drug abuse,436954.0
+440,J-ADNI,MH16SMOK,MEDHIST,Medical History,16. Smoking,N,1,1=Yes; 0=No,,smoking,45880274.0
+441,J-ADNI,MH17MALI,MEDHIST,Medical History,17. Malignancy,N,1,1=Yes; 0=No,,No suitable variable found.,
+442,J-ADNI,MH18SURG,MEDHIST,Medical History,18. Major Surgical Procedures,N,1,1=Yes; 0=No,,No suitable variable found.,
+443,J-ADNI,MH19OTHR,MEDHIST,Medical History,"19. Other (if none, select 'No')",N,1,1=Yes; 0=No,,No suitable variable found.,
+444,J-ADNI,MH2NEURL,MEDHIST,Medical History,2. Neurologic (other than AD),N,1,1=Yes; 0=No,,No suitable variable found.,
+445,J-ADNI,MH3HEAD,MEDHIST,Medical History,"3. Head, Eyes, Ears, Nose and Throat",N,1,1=Yes; 0=No,,head injury,
+446,J-ADNI,MH4CARD,MEDHIST,Medical History,4. Cardiovascular,N,1,1=Yes; 0=No,,heart rate,4239408.0
+447,J-ADNI,MH5RESP,MEDHIST,Medical History,5. Respiratory,N,1,1=Yes; 0=No,,No suitable variable found.,
+448,J-ADNI,MH6HEPAT,MEDHIST,Medical History,6. Hepatic,N,1,1=Yes; 0=No,,No suitable variable found.,
+449,J-ADNI,MH7DERM,MEDHIST,Medical History,7. Dermatologic-Connective Tissue,N,1,1=Yes; 0=No,,No suitable variable found.,
+450,J-ADNI,MH8MUSCL,MEDHIST,Medical History,8. Musculoskeletal,N,1,1=Yes; 0=No,,No suitable variable found.,
+451,J-ADNI,MH9ENDO,MEDHIST,Medical History,9. Endocrine-Metabolic,N,1,1=Yes; 0=No,,No suitable variable found.,
+452,J-ADNI,MHCOMMEN,MEDHIST,Medical History,General Comments,T,1000,,,No suitable variable found.,
+453,J-ADNI,MHPSYCH,MEDHIST,Medical History,1. Psychiatric,N,1,1=Yes; 0=No,,No suitable variable found.,
+454,J-ADNI,MHSOURCE,MEDHIST,Medical History,Information Source,N,1,1=Participant Visit;2=Telephone Call,,No suitable variable found.,
+455,J-ADNI,MMAREA,MMSE,Mini Mental State Exam,"9. What county (district, borough, area) are we in?",N,1,1=Correct; 2=Incorrect,,No suitable variable found.,
+456,J-ADNI,MMAREACM,MMSE,Mini Mental State Exam,"Verbatim response <!--What county (district, borough, area) are we in?-->",T,25,,,No suitable variable found.,
+457,J-ADNI,MMBALL,MMSE,Mini Mental State Exam,11. Ball,N,1,1=Correct; 2=Incorrect,,No suitable variable found.,
+458,J-ADNI,MMBALLDL,MMSE,Mini Mental State Exam,19. Ball,N,1,1=Correct; 2=Incorrect,,No suitable variable found.,
+459,J-ADNI,MMCITY,MMSE,Mini Mental State Exam,8. What town or city are we in?,N,1,1=Correct; 2=Incorrect,,country of residence,4216765.0
+460,J-ADNI,MMCITYCM,MMSE,Mini Mental State Exam,Verbatim response <!--What town or city are we in?-->,T,25,,,No suitable variable found.,
+461,J-ADNI,MMD,MMSE,Mini Mental State Exam,14. D,N,1,1=Correct; 2=Incorrect,,No suitable variable found.,
+462,J-ADNI,MMDATE,MMSE,Mini Mental State Exam,1. What is today's date?,N,1,1=Correct; 2=Incorrect,,year of birth,4083587.0
+463,J-ADNI,MMDATECM,MMSE,Mini Mental State Exam,Verbatim response <!--What is today's date?-->,T,25,,,No suitable variable found.,
+464,J-ADNI,MMDAY,MMSE,Mini Mental State Exam,4. What day of the week is today?,N,1,1=Correct; 2=Incorrect,,month of birth,4083587.0
+465,J-ADNI,MMDAYCM,MMSE,Mini Mental State Exam,Verbatim response <!--What day of the week is today?-->,T,25,,,No suitable variable found.,
+466,J-ADNI,MMDLTR,MMSE,Mini Mental State Exam,Response: Letter 1,T,25,,,No suitable variable found.,
+467,J-ADNI,MMDRAW,MMSE,Mini Mental State Exam,"30. Present the participant with the Construction Stimulus page. Say, 'Copy this design.'",N,1,1=Correct; 2=Incorrect,,No suitable variable found.,
+468,J-ADNI,MMFLAG,MMSE,Mini Mental State Exam,12. Flag,N,1,1=Correct; 2=Incorrect,,No suitable variable found.,
+469,J-ADNI,MMFLAGDL,MMSE,Mini Mental State Exam,20. Flag,N,1,1=Correct; 2=Incorrect,,No suitable variable found.,
+470,J-ADNI,MMFLOOR,MMSE,Mini Mental State Exam,7. What floor are we on?,N,1,1=Correct; 2=Incorrect,,No suitable variable found.,
+471,J-ADNI,MMFLRCM,MMSE,Mini Mental State Exam,Verbatim response <!--What floor are we on?-->,T,25,,,No suitable variable found.,
+472,J-ADNI,MMFOLD,MMSE,Mini Mental State Exam,26. Folds paper in half.,N,1,1=Correct; 2=Incorrect,,No suitable variable found.,
+473,J-ADNI,MMHAND,MMSE,Mini Mental State Exam,25. Takes paper in right hand.,N,1,1=Correct; 2=Incorrect,,No suitable variable found.,
+474,J-ADNI,MMHOSPCM,MMSE,Mini Mental State Exam,"Verbatim response <!--What is the name of this hospital (clinic, place)?-->",T,25,,,No suitable variable found.,
+475,J-ADNI,MMHOSPIT,MMSE,Mini Mental State Exam,"6. What is the name of this hospital (clinic, place)?",N,1,1=Correct; 2=Incorrect,,No suitable variable found.,
+476,J-ADNI,MML,MMSE,Mini Mental State Exam,15. L,N,1,1=Correct; 2=Incorrect,,No suitable variable found.,
+477,J-ADNI,MMLLTR,MMSE,Mini Mental State Exam,Response: Letter 2,T,25,,,No suitable variable found.,
+478,J-ADNI,MMMNTHCM,MMSE,Mini Mental State Exam,Verbatim response <!--What is the month?-->,T,25,,,No suitable variable found.,
+479,J-ADNI,MMMONTH,MMSE,Mini Mental State Exam,3. What is the month?,N,1,1=Correct; 2=Incorrect,,month of birth,4083587.0
+480,J-ADNI,MMO,MMSE,Mini Mental State Exam,17. O,N,1,1=Correct; 2=Incorrect,,mini-mental state examination (mmse),40491929.0
+481,J-ADNI,MMOLTR,MMSE,Mini Mental State Exam,Response: Letter 4,T,25,,,No suitable variable found.,
+482,J-ADNI,MMONFLR,MMSE,Mini Mental State Exam,27. Puts paper on floor.,N,1,1=Correct; 2=Incorrect,,No suitable variable found.,
+483,J-ADNI,MMPENCIL,MMSE,Mini Mental State Exam,23. Repeat for pencil.,N,1,1=Correct; 2=Incorrect,,No suitable variable found.,
+484,J-ADNI,MMR,MMSE,Mini Mental State Exam,16. R,N,1,1=Correct; 2=Incorrect,,No suitable variable found.,
+485,J-ADNI,MMREAD,MMSE,Mini Mental State Exam,"28. Present the piece of paper which reads, 'CLOSE YOUR EYES,' and say: 'Read this and do what it says.'",N,1,1=Correct; 2=Incorrect,,No suitable variable found.,
+486,J-ADNI,MMREPEAT,MMSE,Mini Mental State Exam,"24. Say, 'Repeat after me: no ifs, ands, or buts.'",N,1,1=Correct; 2=Incorrect,,mini-mental state examination (mmse),40491929.0
+487,J-ADNI,MMRLTR,MMSE,Mini Mental State Exam,Response: Letter 3,T,25,,,No suitable variable found.,
+488,J-ADNI,MMSCORE,MMSE,Mini Mental State Exam,MMSE TOTAL SCORE,N,2,0..30,,mini-mental state examination (mmse),40491929.0
+489,J-ADNI,MMSEASON,MMSE,Mini Mental State Exam,5. What season is it?,N,1,1=Correct; 2=Incorrect,,No suitable variable found.,
+490,J-ADNI,MMSESNCM,MMSE,Mini Mental State Exam,Verbatim response <!--What season is it?-->,T,25,,,No suitable variable found.,
+491,J-ADNI,MMSTATE,MMSE,Mini Mental State Exam,10. What state are we in?,N,1,1=Correct; 2=Incorrect,,No suitable variable found.,
+492,J-ADNI,MMSTCM,MMSE,Mini Mental State Exam,Verbatim response <!--What state are we in?-->,T,25,,,No suitable variable found.,
+493,J-ADNI,MMTREE,MMSE,Mini Mental State Exam,13. Tree,N,1,1=Correct; 2=Incorrect,,No suitable variable found.,
+494,J-ADNI,MMTREEDL,MMSE,Mini Mental State Exam,21. Tree,N,1,1=Correct; 2=Incorrect,,No suitable variable found.,
+495,J-ADNI,MMTRIALS,MMSE,Mini Mental State Exam,13a. Enter number of trials,N,1,1..6,,mini-mental state examination (mmse),40491929.0
+496,J-ADNI,MMW,MMSE,Mini Mental State Exam,18. W,N,1,1=Correct; 2=Incorrect,,No suitable variable found.,
+497,J-ADNI,MMWATCH,MMSE,Mini Mental State Exam,22. Show the participant a wrist watch and ask 'What is this?',N,1,1=Correct; 2=Incorrect,,No suitable variable found.,
+498,J-ADNI,MMWLTR,MMSE,Mini Mental State Exam,Response: Letter 5,T,25,,,No suitable variable found.,
+499,J-ADNI,MMWRITE,MMSE,Mini Mental State Exam,29. Give the participant a blank piece of paper and say: 'Write a sentence.',N,1,1=Correct; 2=Incorrect,,No suitable variable found.,
+500,J-ADNI,MMYEAR,MMSE,Mini Mental State Exam,2. What is the year?,N,1,1=Correct; 2=Incorrect,,year of birth,4083587.0
+501,J-ADNI,MMYEARCM,MMSE,Mini Mental State Exam,Verbatim response <!--What is the year?-->,T,25,,,No suitable variable found.,
+502,J-ADNI,NPIA,NPIQ,Neuropsychiatric Inventory Q,"Does {P} believe that others are stealing from him/her, or planning to harm him/her in some way?",N,1,0=No;1=Yes;2=N/A,,No suitable variable found.,
+503,J-ADNI,NPIASEV,NPIQ,Neuropsychiatric Inventory Q,Severity Ratings <!--A. Delusions-->,N,1,"1=1 - Mild (noticeable, but not a significant change).; 2=2 - Moderate (significant, but not a dramatic change).; 3=3 - Severe (very marked or prominent. A dramatic change).",,No suitable variable found.,
+504,J-ADNI,NPIB,NPIQ,Neuropsychiatric Inventory Q,Does {P} act as if he/she hears voices? Does he/she talk to people who are not there?,N,1,0=No;1=Yes;2=N/A,,No suitable variable found.,
+505,J-ADNI,NPIBSEV,NPIQ,Neuropsychiatric Inventory Q,Severity Ratings <!--B. Hallucinations-->,N,1,"1=1 - Mild (noticeable, but not a significant change).; 2=2 - Moderate (significant, but not a dramatic change).; 3=3 - Severe (very marked or prominent. A dramatic change).",,No suitable variable found.,
+506,J-ADNI,NPIC,NPIQ,Neuropsychiatric Inventory Q,Is {P} stubborn and resistive to help from others?,N,1,0=No;1=Yes;2=N/A,,No suitable variable found.,
+507,J-ADNI,NPICSEV,NPIQ,Neuropsychiatric Inventory Q,Severity Ratings <!--C. Agitation/Aggression-->,N,1,"1=1 - Mild (noticeable, but not a significant change).; 2=2 - Moderate (significant, but not a dramatic change).; 3=3 - Severe (very marked or prominent. A dramatic change).",,No suitable variable found.,
+508,J-ADNI,NPID,NPIQ,Neuropsychiatric Inventory Q,Does {P} act as if he/she is sad or in low spirits? Does he/she cry?,N,1,0=No;1=Yes;2=N/A,,No suitable variable found.,
+509,J-ADNI,NPIDSEV,NPIQ,Neuropsychiatric Inventory Q,Severity Ratings <!--D. Depression/Dysphoria-->,N,1,"1=1 - Mild (noticeable, but not a significant change).; 2=2 - Moderate (significant, but not a dramatic change).; 3=3 - Severe (very marked or prominent. A dramatic change).",,No suitable variable found.,
+510,J-ADNI,NPIE,NPIQ,Neuropsychiatric Inventory Q,"Does {P} become upset when separated from you? Does he/she have any other signs of nervousness, such as shortness of breath, sighing, being unable to relax, or feeling excessively tense?",N,1,0=No;1=Yes;2=N/A,,anxiety,441542.0
+511,J-ADNI,NPIESEV,NPIQ,Neuropsychiatric Inventory Q,Severity Ratings <!--E. Anxiety-->,N,1,"1=1 - Mild (noticeable, but not a significant change).; 2=2 - Moderate (significant, but not a dramatic change).; 3=3 - Severe (very marked or prominent. A dramatic change).",,anxiety,441542.0
+512,J-ADNI,NPIF,NPIQ,Neuropsychiatric Inventory Q,Does {P} appear to feel too good or act excessively happy?,N,1,0=No;1=Yes;2=N/A,,No suitable variable found.,
+513,J-ADNI,NPIFSEV,NPIQ,Neuropsychiatric Inventory Q,Severity Ratings <!--F. Elation/Euphoria-->,N,1,"1=1 - Mild (noticeable, but not a significant change).; 2=2 - Moderate (significant, but not a dramatic change).; 3=3 - Severe (very marked or prominent. A dramatic change).",,No suitable variable found.,
+514,J-ADNI,NPIG,NPIQ,Neuropsychiatric Inventory Q,Does {P} seem less interested in his/her usual activities and in the activities and plans of others?,N,1,0=No;1=Yes;2=N/A,,No suitable variable found.,
+515,J-ADNI,NPIGSEV,NPIQ,Neuropsychiatric Inventory Q,Severity Ratings <!--G. Apathy/Indifference-->,N,1,"1=1 - Mild (noticeable, but not a significant change).; 2=2 - Moderate (significant, but not a dramatic change).; 3=3 - Severe (very marked or prominent. A dramatic change).",,No suitable variable found.,
+516,J-ADNI,NPIH,NPIQ,Neuropsychiatric Inventory Q,"Does {P} seem to act impulsively? For example, does {P} talk to strangers as if he/she knows them, or does {P} say things that may hurt people's feelings?",N,1,0=No;1=Yes;2=N/A,,anxiety,441542.0
+517,J-ADNI,NPIHSEV,NPIQ,Neuropsychiatric Inventory Q,Severity Ratings <!--H. Disinhibition-->,N,1,"1=1 - Mild (noticeable, but not a significant change).; 2=2 - Moderate (significant, but not a dramatic change).; 3=3 - Severe (very marked or prominent. A dramatic change).",,No suitable variable found.,
+518,J-ADNI,NPII,NPIQ,Neuropsychiatric Inventory Q,Is {P} impatient or cranky? Does he/she have difficulty coping with delays or waiting for planned activities?,N,1,0=No;1=Yes;2=N/A,,No suitable variable found.,
+519,J-ADNI,NPIISEV,NPIQ,Neuropsychiatric Inventory Q,Severity Ratings <!--I. Irritability/Lability-->,N,1,"1=1 - Mild (noticeable, but not a significant change).; 2=2 - Moderate (significant, but not a dramatic change).; 3=3 - Severe (very marked or prominent. A dramatic change).",,No suitable variable found.,
+520,J-ADNI,NPIJ,NPIQ,Neuropsychiatric Inventory Q,"Does {P} engage in repetitive activities, such as pacing around the house, handling buttons, wrapping strings, or doing other things repeatedly?",N,1,0=No;1=Yes;2=N/A,,activity,4117957.0
+521,J-ADNI,NPIJSEV,NPIQ,Neuropsychiatric Inventory Q,Severity Ratings <!--J. Aberrant Motor Behavior-->,N,1,"1=1 - Mild (noticeable, but not a significant change).; 2=2 - Moderate (significant, but not a dramatic change).; 3=3 - Severe (very marked or prominent. A dramatic change).",,No suitable variable found.,
+522,J-ADNI,NPIK,NPIQ,Neuropsychiatric Inventory Q,"Does {P} awaken you during the night, rise too early in the morning, or take excessive naps during the day?",N,1,0=No;1=Yes;2=N/A,,No suitable variable found.,
+523,J-ADNI,NPIKSEV,NPIQ,Neuropsychiatric Inventory Q,Severity Ratings <!--K. Sleep-->,N,1,"1=1 - Mild (noticeable, but not a significant change).; 2=2 - Moderate (significant, but not a dramatic change).; 3=3 - Severe (very marked or prominent. A dramatic change).",,No suitable variable found.,
+524,J-ADNI,NPIL,NPIQ,Neuropsychiatric Inventory Q,"Has {P} lost or gained weight, or had a change in the food he/she likes?",N,1,0=No;1=Yes;2=N/A,,bmi,1027485.0
+525,J-ADNI,NPILSEV,NPIQ,Neuropsychiatric Inventory Q,Severity Ratings <!--L. Appetite-->,N,1,"1=1 - Mild (noticeable, but not a significant change).; 2=2 - Moderate (significant, but not a dramatic change).; 3=3 - Severe (very marked or prominent. A dramatic change).",,No suitable variable found.,
+526,J-ADNI,NPISCORE,NPIQ,Neuropsychiatric Inventory Q,Total Score,N,2,0..36,,neuropsychiatric inventory (npi),
+527,J-ADNI,NPISOURCE,NPIQ,Neuropsychiatric Inventory Q,Information Source,N,1,1=Participant Visit;2=Telephone Call,,No suitable variable found.,
+528,J-ADNI,NXABNORM,NEUROEXM,Neurological Exam,"14. Based on Neurological Examination, clinician must check appropriate box below:",N,1,1=Findings consistent with eligibility for study; 2=Participant is not eligible for study,,No suitable variable found.,
+529,J-ADNI,NXAUDDES,NEUROEXM,Neurological Exam,Details <!--Significant Auditory Impairment-->,T,200,,,hearing,46237286.0
+530,J-ADNI,NXAUDITO,NEUROEXM,Neurological Exam,2. Significant Auditory Impairment,N,1,1=Absent; 2=Present,,hearing,46237286.0
+531,J-ADNI,NXCONDES,NEUROEXM,Neurological Exam,Details <!--Level of Consciousness-->,T,200,,,No suitable variable found.,
+532,J-ADNI,NXCONSCI,NEUROEXM,Neurological Exam,4. Level of Consciousness,N,1,1=Normal; 2=Abnormal,,No suitable variable found.,
+533,J-ADNI,NXFINDES,NEUROEXM,Neurological Exam,Details <!--Cerebellar - Finger to Nose-->,T,200,,,No suitable variable found.,
+534,J-ADNI,NXFINGER,NEUROEXM,Neurological Exam,7a. Cerebellar - Finger to Nose,N,1,1=Normal; 2=Abnormal,,No suitable variable found.,
+535,J-ADNI,NXGAIDES,NEUROEXM,Neurological Exam,Details <!--Gait-->,T,200,,,No suitable variable found.,
+536,J-ADNI,NXGAIT,NEUROEXM,Neurological Exam,11. Gait,N,1,1=Normal; 2=Abnormal,,No suitable variable found.,
+537,J-ADNI,NXGENCOM,NEUROEXM,Neurological Exam,13. General Comments,T,1000,,,No suitable variable found.,
+538,J-ADNI,NXHEEDES,NEUROEXM,Neurological Exam,Details <!--Cerebellar - Heel to Shin-->,T,200,,,No suitable variable found.,
+539,J-ADNI,NXHEEL,NEUROEXM,Neurological Exam,7b. Cerebellar - Heel to Shin,N,1,1=Normal; 2=Abnormal,,No suitable variable found.,
+540,J-ADNI,NXMOTDES,NEUROEXM,Neurological Exam,Details <!--Motor Strength-->,T,200,,,No suitable variable found.,
+541,J-ADNI,NXMOTOR,NEUROEXM,Neurological Exam,6. Motor Strength,N,1,1=Normal; 2=Abnormal,,No suitable variable found.,
+542,J-ADNI,NXNERDES,NEUROEXM,Neurological Exam,Details <!--Cranial Nerves-->,T,200,,,No suitable variable found.,
+543,J-ADNI,NXNERVE,NEUROEXM,Neurological Exam,5. Cranial Nerves,N,1,1=Normal; 2=Abnormal,,No suitable variable found.,
+544,J-ADNI,NXOTHER,NEUROEXM,Neurological Exam,12. Other,N,1,1=Normal; 2=Abnormal,,No suitable variable found.,
+545,J-ADNI,NXOTHSPE,NEUROEXM,Neurological Exam,Details <!--Other-->,T,200,,,No suitable variable found.,
+546,J-ADNI,NXPLADES,NEUROEXM,Neurological Exam,Details <!--Plantar Reflexes-->,T,200,,,No suitable variable found.,
+547,J-ADNI,NXPLANTA,NEUROEXM,Neurological Exam,10. Plantar Reflexes,N,1,1=Normal; 2=Abnormal,,No suitable variable found.,
+548,J-ADNI,NXSENDES,NEUROEXM,Neurological Exam,Details <!--Sensory-->,T,200,,,No suitable variable found.,
+549,J-ADNI,NXSENSOR,NEUROEXM,Neurological Exam,8. Sensory,N,1,1=Normal; 2=Abnormal,,No suitable variable found.,
+550,J-ADNI,NXTENDES,NEUROEXM,Neurological Exam,Details <!--Deep Tendon Reflexes-->,T,200,,,No suitable variable found.,
+551,J-ADNI,NXTENDON,NEUROEXM,Neurological Exam,9. Deep Tendon Reflexes,N,1,1=Normal; 2=Abnormal,,No suitable variable found.,
+552,J-ADNI,NXTREDES,NEUROEXM,Neurological Exam,Details <!--Tremor-->,T,200,,,No suitable variable found.,
+553,J-ADNI,NXTREMOR,NEUROEXM,Neurological Exam,3. Tremor,N,1,1=Absent; 2=Present,,No suitable variable found.,
+554,J-ADNI,NXVISDES,NEUROEXM,Neurological Exam,Details <!--Significant Visual Impairment-->,T,200,,,vision,45613408.0
+555,J-ADNI,NXVISUAL,NEUROEXM,Neurological Exam,1. Significant Visual Impairment,N,1,1=Absent; 2=Present,,vision,45613408.0
+556,J-ADNI,PTADBEG,PTDEMOG,Participant Demographic Information,11. Year of onset of Alzheimer's disease symptoms (best estimate),N,4,1985..2007,,No suitable variable found.,
+557,J-ADNI,PTDOB,PTDEMOG,Participant Demographic Information,2. Participant Date of Birth,D,10,,,year of birth,4083587.0
+558,J-ADNI,PTEDUCAT,PTDEMOG,Participant Demographic Information,5. Participant Education,N,2,0..20,,education,1015298.0
+559,J-ADNI,PTETHCAT,PTDEMOG,Participant Demographic Information,12. Ethnic Category,N,1,1=Hispanic or Latino; 2=Not Hispanic or Latino; 3=Unknown,,No suitable variable found.,
+560,J-ADNI,PTGENDER,PTDEMOG,Participant Demographic Information,1. Participant Gender,N,1,1=Male; 2=Female,,No suitable variable found.,
+561,J-ADNI,PTHAND,PTDEMOG,Participant Demographic Information,3. Participant Handedness,N,1,1=Right;2=Left,,No suitable variable found.,
+562,J-ADNI,PTHOME,PTDEMOG,Participant Demographic Information,8. Type of Participant residence,N,1,1=House; 2=Condo/Co-op (owned); 3=Apartment (rented); 4=Mobile Home; 5=Retirement Community; 6=Assisted Living; 7=Skilled Nursing Facility; 8=Other (specify),,living situation,
+563,J-ADNI,PTMARRY,PTDEMOG,Participant Demographic Information,4. Participant Marital Status,N,1,1=Married; 2=Widowed; 3=Divorced; 4=Never married; 5=Unknown,,marital status,4053609.0
+564,J-ADNI,PTNO,ARM,,4 digit Participant Number,T,4,,,ptau in csf,37027027.0
+565,J-ADNI,PTNOTRT,PTDEMOG,Participant Demographic Information,7. Participant Retired?,N,1,1=Yes;0=No,,participant id,46234739.0
+566,J-ADNI,PTOTHOME,PTDEMOG,Participant Demographic Information,"If Other, specify:",T,50,,,patient qualification,
+567,J-ADNI,PTPLANG,PTDEMOG,Participant Demographic Information,10. Participant's Primary Language,N,1,1=English; 2=Spanish; 3=Other (specify),,No suitable variable found.,
+568,J-ADNI,PTPSPEC,PTDEMOG,Participant Demographic Information,"If Other, specify:",T,50,,,pib pet,
+569,J-ADNI,PTRACCAT,PTDEMOG,Participant Demographic Information,13. Racial Categories,N,1,1=American Indian or Alaskan Native; 2=Asian; 3=Native Hawaiian or Other Pacific Islander; 4=Black or African American; 5=White; 6=More than one race; 7=Unknown,,No suitable variable found.,
+570,J-ADNI,PTRTYR,PTDEMOG,Participant Demographic Information,Retirement Date,D,10,,,No suitable variable found.,
+571,J-ADNI,PTSOURCE,PTDEMOG,Participant Demographic Information,Information Source,N,1,1=Participant Visit;2=Telephone Call,,No suitable variable found.,
+572,J-ADNI,PTTLANG,PTDEMOG,Participant Demographic Information,9. Language to be used for testing the Participant,N,1,1=English; 2=Spanish,,No suitable variable found.,
+573,J-ADNI,PTWORK,PTDEMOG,Participant Demographic Information,6a. Primary occupation during most of adult life,T,100,,,profession,
+574,J-ADNI,PTWORKHS,PTDEMOG,Participant Demographic Information,5a. Does the participant have a work history sufficient to exclude mental retardation? <!--Participant Education-->,N,1,1=Yes; 0=No,,education,1015298.0
+575,J-ADNI,PTWRECNT,PTDEMOG,Participant Demographic Information,6b. Most recent occupation,T,100,,,profession,
+576,J-ADNI,PXABDDES,PHYSICAL,Physical Exam,Details <!--Abdomen-->,T,200,,,No suitable variable found.,
+577,J-ADNI,PXABDOM,PHYSICAL,Physical Exam,6. Abdomen,N,1,1=Normal; 2=Abnormal,,No suitable variable found.,
+578,J-ADNI,PXABNORM,PHYSICAL,Physical Exam,"14. Based on the Physical Examination, clinician must check appropriate box below:",N,1,1=Findings consistent with eligibility for study; 2=Participant is not eligible for study,,No suitable variable found.,
+579,J-ADNI,PXCHEDES,PHYSICAL,Physical Exam,Details <!--Chest-->,T,200,,,chest pain,77670.0
+580,J-ADNI,PXCHEST,PHYSICAL,Physical Exam,4. Chest,N,1,1=Normal; 2=Abnormal,,No suitable variable found.,
+581,J-ADNI,PXEDEDES,PHYSICAL,Physical Exam,Details <!--Edema-->,T,200,,,No suitable variable found.,
+582,J-ADNI,PXEDEMA,PHYSICAL,Physical Exam,8. Edema,N,1,1=Normal; 2=Abnormal,,No suitable variable found.,
+583,J-ADNI,PXEXTDES,PHYSICAL,Physical Exam,Details <!--Extremities-->,T,200,,,No suitable variable found.,
+584,J-ADNI,PXEXTREM,PHYSICAL,Physical Exam,7. Extremities,N,1,1=Normal; 2=Abnormal,,No suitable variable found.,
+585,J-ADNI,PXGENAPP,PHYSICAL,Physical Exam,1. General Appearance,N,1,1=Normal; 2=Abnormal,,No suitable variable found.,
+586,J-ADNI,PXGENCOM,PHYSICAL,Physical Exam,13. General Comments,T,1000,,,No suitable variable found.,
+587,J-ADNI,PXGENDES,PHYSICAL,Physical Exam,Details <!--General Appearance-->,T,200,,,No suitable variable found.,
+588,J-ADNI,PXHEADDE,PHYSICAL,Physical Exam,"Details <!--Head, Eyes, Ears, Nose and Throat-->",T,200,,,hearing,46237286.0
+589,J-ADNI,PXHEADES,PHYSICAL,Physical Exam,Details <!--Heart-->,T,200,,,heart rate,4239408.0
+590,J-ADNI,PXHEADEY,PHYSICAL,Physical Exam,"2. Head, Eyes, Ears, Nose and Throat",N,1,1=Normal; 2=Abnormal,,head injury,
+591,J-ADNI,PXHEART,PHYSICAL,Physical Exam,5. Heart,N,1,1=Normal; 2=Abnormal,,heart rate,4239408.0
+592,J-ADNI,PXMUSCUL,PHYSICAL,Physical Exam,11. Musculoskeletal,N,1,1=Normal; 2=Abnormal,,No suitable variable found.,
+593,J-ADNI,PXMUSDES,PHYSICAL,Physical Exam,Details <!--Musculoskeletal-->,T,200,,,No suitable variable found.,
+594,J-ADNI,PXNECDES,PHYSICAL,Physical Exam,Details <!--Neck-->,T,200,,,No suitable variable found.,
+595,J-ADNI,PXNECK,PHYSICAL,Physical Exam,3. Neck,N,1,1=Normal; 2=Abnormal,,No suitable variable found.,
+596,J-ADNI,PXOTHER,PHYSICAL,Physical Exam,12. Other,N,1,1=Normal; 2=Abnormal,,No suitable variable found.,
+597,J-ADNI,PXOTRCOM,PHYSICAL,Physical Exam,Details <!--Other-->,T,200,,,No suitable variable found.,
+598,J-ADNI,PXPERDES,PHYSICAL,Physical Exam,Details <!--Peripheral Vascular-->,T,200,,,No suitable variable found.,
+599,J-ADNI,PXPERIPH,PHYSICAL,Physical Exam,9. Peripheral Vascular,N,1,1=Normal; 2=Abnormal,,No suitable variable found.,
+600,J-ADNI,PXSKIDES,PHYSICAL,Physical Exam,Details <!--Skin and Appendages-->,T,200,,,No suitable variable found.,
+601,J-ADNI,PXSKIN,PHYSICAL,Physical Exam,10. Skin and Appendages,N,1,1=Normal; 2=Abnormal,,No suitable variable found.,
+602,J-ADNI,Q1,ADASSCORES,ADAS Sub-Scores and Total Scores,Word Recall,N,"5,2",,,verbal fluency tests (semantic) animal,
+603,J-ADNI,Q10,ADASSCORES,ADAS Sub-Scores and Total Scores,Spoken Language,N,1,0..5,,verbal fluency tests (semantic) animal,
+604,J-ADNI,Q11,ADASSCORES,ADAS Sub-Scores and Total Scores,Word Finding,N,1,0..5,,verbal fluency tests (semantic) animal,
+605,J-ADNI,Q12,ADASSCORES,ADAS Sub-Scores and Total Scores,Comprehension,N,1,0..5,,No suitable variable found.,
+606,J-ADNI,Q14,ADASSCORES,ADAS Sub-Scores and Total Scores,Number Cancellation,N,1,0..5,,No suitable variable found.,
+607,J-ADNI,Q2,ADASSCORES,ADAS Sub-Scores and Total Scores,Commands,N,1,0..5,,No suitable variable found.,
+608,J-ADNI,Q3,ADASSCORES,ADAS Sub-Scores and Total Scores,Construction,N,1,0..5,,functional activities questionnaire (faq),
+609,J-ADNI,Q4,ADASSCORES,ADAS Sub-Scores and Total Scores,Delayed Word Recall,N,2,0..10,,rey auditory verbal learning test - delayed,
+610,J-ADNI,Q5,ADASSCORES,ADAS Sub-Scores and Total Scores,Naming,N,1,0..5,,verbal fluency tests (semantic) animal,
+611,J-ADNI,Q6,ADASSCORES,ADAS Sub-Scores and Total Scores,Ideational Praxis,N,1,0..5,,No suitable variable found.,
+612,J-ADNI,Q7,ADASSCORES,ADAS Sub-Scores and Total Scores,Orientation,N,1,0..8,,No suitable variable found.,
+613,J-ADNI,Q8,ADASSCORES,ADAS Sub-Scores and Total Scores,Word Recognition,N,2,0..12,,verbal fluency tests (semantic) animal,
+614,J-ADNI,Q9,ADASSCORES,ADAS Sub-Scores and Total Scores,Recall Instructions,N,1,0..5,,No suitable variable found.,
+615,J-ADNI,RANDDATE,ARM,,Randomization Date,S,,,,No suitable variable found.,
+616,J-ADNI,RECNO,RECFHQ,Family History Questionnaire Subtable,,N,38 digits,,,No suitable variable found.,
+617,J-ADNI,RGCONDCT,REGISTRY,Registry,Was this visit conducted?,N,1,1=Yes;0=No,,visit,
+618,J-ADNI,RGOTHSPE,REGISTRY,Registry,"If Other, specify:",T,100,,,No suitable variable found.,
+619,J-ADNI,RGPREVID,REGISTRY,Registry,"If Yes, what was the participant's initial ID number?",T,10,,,No suitable variable found.,
+620,J-ADNI,RGREASON,REGISTRY,Registry,Reason why the visit was not conducted:,N,1,1=Illness;2=Participant unavailable;3=Participant unwilling;4=Administrative problems;5=Withdrawn Consent;6=Other (specify),,visit,
+621,J-ADNI,RGRESCRN,REGISTRY,Registry,Is this a rescreen?,N,1,1=Yes;0=No,,No suitable variable found.,
+622,J-ADNI,RID,MMSE,Mini Mental State Exam,Participant roster ID,N,38 digits,,,participant id,46234739.0
+623,J-ADNI,RID,ADSXLIST,Diagnosis and Symptoms Checklist,Participant roster ID,N,38 digits,,,participant id,46234739.0
+624,J-ADNI,RID,NEUROBAT,Neuropsychological Battery,Participant roster ID,N,38 digits,,,participant id,46234739.0
+625,J-ADNI,RID,RECFHQ,Family History Questionnaire Subtable,Participant roster ID,N,38 digits,,,participant id,46234739.0
+626,J-ADNI,RID,GDSCALE,Geriatric Depression Scale,Participant roster ID,N,38 digits,,,participant id,46234739.0
+627,J-ADNI,RID,BLCHANGE,Diagnostic Summary - Baseline Changes,Participant roster ID,N,38 digits,,,participant id,46234739.0
+628,J-ADNI,RID,EXCLUSIO,Exclusion Criteria,Participant roster ID,N,38 digits,,,participant id,46234739.0
+629,J-ADNI,RID,PDXCONV,Diagnostic Summary,Participant roster ID,N,38 digits,,,participant id,46234739.0
+630,J-ADNI,RID,BLSCHECK,Baseline Symptoms Checklist,Participant roster ID,N,38 digits,,,participant id,46234739.0
+631,J-ADNI,RID,INCLUSIO,Inclusion Criteria,Participant roster ID,N,38 digits,,,participant id,46234739.0
+632,J-ADNI,RID,TREATDIS,Early Discontinuation and Withdrawal,Participant roster ID,N,38 digits,,,participant id,46234739.0
+633,J-ADNI,RID,ARM,,Participant roster ID,N,38,,,participant id,46234739.0
+634,J-ADNI,RID,CDR,Clinical Dementia Rating,Participant roster ID,N,38 digits,,,participant id,46234739.0
+635,J-ADNI,RID,VITALS,Vital Signs,Participant roster ID,N,38 digits,,,participant id,46234739.0
+636,J-ADNI,RID,MODHACH,Modified Hachinski,Participant roster ID,N,38 digits,,,participant id,46234739.0
+637,J-ADNI,RID,ADASSCORES,ADAS Sub-Scores and Total Scores,Participant roster ID,N,38 digits,,,participant id,46234739.0
+638,J-ADNI,RID,ADAS,ADAS-Cognitive Behavior,Participant roster ID,N,38 digits,,,participant id,46234739.0
+639,J-ADNI,RID,PHYSICAL,Physical Exam,Participant roster ID,N,38 digits,,,participant id,46234739.0
+640,J-ADNI,RID,NEUROEXM,Neurological Exam,Participant roster ID,N,38 digits,,,participant id,46234739.0
+641,J-ADNI,RID,REGISTRY,Registry,Participant roster ID,N,38 digits,,,participant id,46234739.0
+642,J-ADNI,RID,FHQ,Family History Questionnaire,Participant roster ID,N,38 digits,,,participant id,46234739.0
+643,J-ADNI,RID,NPIQ,Neuropsychiatric Inventory Q,Participant roster ID,N,38 digits,,,participant id,46234739.0
+644,J-ADNI,RID,PTDEMOG,Participant Demographic Information,Participant roster ID,N,38 digits,,,participant id,46234739.0
+645,J-ADNI,RID,FAQ,Functional Assessment Questionnaire,Participant roster ID,N,38 digits,,,participant id,46234739.0
+646,J-ADNI,RID,MEDHIST,Medical History,Participant roster ID,N,38 digits,,,participant id,46234739.0
+647,J-ADNI,SITEID,BLCHANGE,Diagnostic Summary - Baseline Changes,Site ID,N,38 digits,,,participant id,46234739.0
+648,J-ADNI,SITEID,RECFHQ,Family History Questionnaire Subtable,Site ID,N,38 digits,,,participant id,46234739.0
+649,J-ADNI,SITEID,NEUROBAT,Neuropsychological Battery,Site ID,N,38 digits,,,participant id,46234739.0
+650,J-ADNI,SITEID,MMSE,Mini Mental State Exam,Site ID,N,38 digits,,,participant id,46234739.0
+651,J-ADNI,SITEID,PHYSICAL,Physical Exam,Site ID,N,38 digits,,,participant id,46234739.0
+652,J-ADNI,SITEID,ADAS,ADAS-Cognitive Behavior,Site ID,N,38 digits,,,participant id,46234739.0
+653,J-ADNI,SITEID,ADASSCORES,ADAS Sub-Scores and Total Scores,Site ID,N,38 digits,,,participant id,46234739.0
+654,J-ADNI,SITEID,NEUROEXM,Neurological Exam,Site ID,N,38 digits,,,participant id,46234739.0
+655,J-ADNI,SITEID,ADSXLIST,Diagnosis and Symptoms Checklist,Site ID,N,38 digits,,,participant id,46234739.0
+656,J-ADNI,SITEID,MEDHIST,Medical History,Site ID,N,38 digits,,,participant id,46234739.0
+657,J-ADNI,SITEID,CDR,Clinical Dementia Rating,Site ID,N,38 digits,,,participant id,46234739.0
+658,J-ADNI,SITEID,TREATDIS,Early Discontinuation and Withdrawal,Site ID,N,38 digits,,,participant id,46234739.0
+659,J-ADNI,SITEID,INCLUSIO,Inclusion Criteria,Site ID,N,38 digits,,,participant id,46234739.0
+660,J-ADNI,SITEID,BLSCHECK,Baseline Symptoms Checklist,Site ID,N,38 digits,,,participant id,46234739.0
+661,J-ADNI,SITEID,REGISTRY,Registry,Site ID,N,38 digits,,,participant id,46234739.0
+662,J-ADNI,SITEID,FHQ,Family History Questionnaire,Site ID,N,38 digits,,,participant id,46234739.0
+663,J-ADNI,SITEID,PTDEMOG,Participant Demographic Information,Site ID,N,38 digits,,,participant id,46234739.0
+664,J-ADNI,SITEID,NPIQ,Neuropsychiatric Inventory Q,Site ID,N,38 digits,,,participant id,46234739.0
+665,J-ADNI,SITEID,EXCLUSIO,Exclusion Criteria,Site ID,N,38 digits,,,participant id,46234739.0
+666,J-ADNI,SITEID,FAQ,Functional Assessment Questionnaire,Site ID,N,38 digits,,,participant id,46234739.0
+667,J-ADNI,SITEID,GDSCALE,Geriatric Depression Scale,Site ID,N,38 digits,,,participant id,46234739.0
+668,J-ADNI,SITEID,PDXCONV,Diagnostic Summary,Site ID,N,38 digits,,,participant id,46234739.0
+669,J-ADNI,SITEID,VITALS,Vital Signs,Site ID,N,38 digits,,,participant id,46234739.0
+670,J-ADNI,SITEID,MODHACH,Modified Hachinski,Site ID,N,38 digits,,,participant id,46234739.0
+671,J-ADNI,SITEID,ARM,,Site ID,N,38,,,participant id,46234739.0
+672,J-ADNI,s.m.,PHYSICAL,Physical Exam,Is there a special mention on the participant?,N,1,1��Yes. See SpecialMention_English.xlsx; 0=No,,No suitable variable found.,
+673,J-ADNI,s.m.,PDXCONV,Diagnostic Summary,Is there a special mention on the participant?,N,1,1��Yes. See SpecialMention_English.xlsx; 0=No,,No suitable variable found.,
+674,J-ADNI,s.m.,NPIQ,Neuropsychiatric Inventory Q,Is there a special mention on the participant?,N,1,1��Yes. See SpecialMention_English.xlsx; 0=No,,No suitable variable found.,
+675,J-ADNI,s.m.,NEUROEXM,Neurological Exam,Is there a special mention on the participant?,N,1,1��Yes. See SpecialMention_English.xlsx; 0=No,,No suitable variable found.,
+676,J-ADNI,s.m.,NEUROBAT,Neuropsychological Battery,Is there a special mention on the participant?,N,1,1��Yes. See SpecialMention_English.xlsx; 0=No,,No suitable variable found.,
+677,J-ADNI,s.m.,PTDEMOG,Participant Demographic Information,Is there a special mention on the participant?,N,1,1��Yes. See SpecialMention_English.xlsx; 0=No,,No suitable variable found.,
+678,J-ADNI,s.m.,MODHACH,Modified Hachinski,Is there a special mention on the participant?,N,1,1��Yes. See SpecialMention_English.xlsx; 0=No,,No suitable variable found.,
+679,J-ADNI,s.m.,MMSE,Mini Mental State Exam,Is there a special mention on the participant?,N,1,1��Yes. See SpecialMention_English.xlsx; 0=No,,No suitable variable found.,
+680,J-ADNI,s.m.,MEDHIST,Medical History,Is there a special mention on the participant?,N,1,1��Yes. See SpecialMention_English.xlsx; 0=No,,No suitable variable found.,
+681,J-ADNI,s.m.,INCLUSIO,Inclusion Criteria,Is there a special mention on the participant?,N,1,1��Yes. See SpecialMention_English.xlsx; 0=No,,No suitable variable found.,
+682,J-ADNI,s.m.,RECFHQ,Family History Questionnaire Subtable,Is there a special mention on the participant?,N,1,1��Yes. See SpecialMention_English.xlsx; 0=No,,No suitable variable found.,
+683,J-ADNI,s.m.,GDSCALE,Geriatric Depression Scale,Is there a special mention on the participant?,N,1,1��Yes. See SpecialMention_English.xlsx; 0=No,,No suitable variable found.,
+684,J-ADNI,s.m.,FHQ,Family History Questionnaire,Is there a special mention on the participant?,N,1,1��Yes. See SpecialMention_English.xlsx; 0=No,,No suitable variable found.,
+685,J-ADNI,s.m.,REGISTRY,Registry,Is there a special mention on the participant?,N,1,1��Yes. See SpecialMention_English.xlsx; 0=No,,No suitable variable found.,
+686,J-ADNI,s.m.,FAQ,Functional Assessment Questionnaire,Is there a special mention on the participant?,N,1,1��Yes. See SpecialMention_English.xlsx; 0=No,,No suitable variable found.,
+687,J-ADNI,s.m.,EXCLUSIO,Exclusion Criteria,Is there a special mention on the participant?,N,1,1��Yes. See SpecialMention_English.xlsx; 0=No,,No suitable variable found.,
+688,J-ADNI,s.m.,TREATDIS,Early Discontinuation and Withdrawal,Is there a special mention on the participant?,N,1,1��Yes. See SpecialMention_English.xlsx; 0=No,,No suitable variable found.,
+689,J-ADNI,s.m.,CDR,Clinical Dementia Rating,Is there a special mention on the participant?,N,1,1��Yes. See SpecialMention_English.xlsx; 0=No,,No suitable variable found.,
+690,J-ADNI,s.m.,BLSCHECK,Baseline Symptoms Checklist,Is there a special mention on the participant?,N,1,1��Yes. See SpecialMention_English.xlsx; 0=No,,No suitable variable found.,
+691,J-ADNI,s.m.,BLCHANGE,Diagnostic Summary - Baseline Changes,Is there a special mention on the participant?,N,1,1��Yes. See SpecialMention_English.xlsx; 0=No,,No suitable variable found.,
+692,J-ADNI,s.m.,ARM,,Is there a special mention on the participant?,N,1,1��Yes. See SpecialMention_English.xlsx; 0=No,,No suitable variable found.,
+693,J-ADNI,s.m.,ADSXLIST,Diagnosis and Symptoms Checklist,Is there a special mention on the participant?,N,1,1��Yes. See SpecialMention_English.xlsx; 0=No,,No suitable variable found.,
+694,J-ADNI,s.m.,ADASSCORES,ADAS Sub-Scores and Total Scores,Is there a special mention on the participant?,N,1,1��Yes. See SpecialMention_English.xlsx; 0=No,,No suitable variable found.,
+695,J-ADNI,s.m.,ADAS,ADAS-Cognitive Behavior,Is there a special mention on the participant?,N,1,1��Yes. See SpecialMention_English.xlsx; 0=No,,No suitable variable found.,
+696,J-ADNI,s.m.,VITALS,Vital Signs,Is there a special mention on the participant?,N,1,1��Yes. See SpecialMention_English.xlsx; 0=No,,No suitable variable found.,
+697,J-ADNI,state,PHYSICAL,Physical Exam,status of data fixation,N,1,1��data cleaning completed at the data center; 0=data consistency confirmed by investigator,,country of residence,4216765.0
+698,J-ADNI,state,PDXCONV,Diagnostic Summary,status of data fixation,N,1,1��data cleaning completed at the data center; 0=data consistency confirmed by investigator,,country of residence,4216765.0
+699,J-ADNI,state,NPIQ,Neuropsychiatric Inventory Q,status of data fixation,N,1,1��data cleaning completed at the data center; 0=data consistency confirmed by investigator,,country of residence,4216765.0
+700,J-ADNI,state,NEUROEXM,Neurological Exam,status of data fixation,N,1,1��data cleaning completed at the data center; 0=data consistency confirmed by investigator,,country of residence,4216765.0
+701,J-ADNI,state,NEUROBAT,Neuropsychological Battery,status of data fixation,N,1,1��data cleaning completed at the data center; 0=data consistency confirmed by investigator,,country of residence,4216765.0
+702,J-ADNI,state,PTDEMOG,Participant Demographic Information,status of data fixation,N,1,1��data cleaning completed at the data center; 0=data consistency confirmed by investigator,,country of residence,4216765.0
+703,J-ADNI,state,MODHACH,Modified Hachinski,status of data fixation,N,1,1��data cleaning completed at the data center; 0=data consistency confirmed by investigator,,country of residence,4216765.0
+704,J-ADNI,state,MMSE,Mini Mental State Exam,status of data fixation,N,1,1��data cleaning completed at the data center; 0=data consistency confirmed by investigator,,country of residence,4216765.0
+705,J-ADNI,state,MEDHIST,Medical History,status of data fixation,N,1,1��data cleaning completed at the data center; 0=data consistency confirmed by investigator,,country of residence,4216765.0
+706,J-ADNI,state,INCLUSIO,Inclusion Criteria,status of data fixation,N,1,1��data cleaning completed at the data center; 0=data consistency confirmed by investigator,,country of residence,4216765.0
+707,J-ADNI,state,RECFHQ,Family History Questionnaire Subtable,status of data fixation,N,1,1��data cleaning completed at the data center; 0=data consistency confirmed by investigator,,country of residence,4216765.0
+708,J-ADNI,state,GDSCALE,Geriatric Depression Scale,status of data fixation,N,1,1��data cleaning completed at the data center; 0=data consistency confirmed by investigator,,country of residence,4216765.0
+709,J-ADNI,state,FHQ,Family History Questionnaire,status of data fixation,N,1,1��data cleaning completed at the data center; 0=data consistency confirmed by investigator,,country of residence,4216765.0
+710,J-ADNI,state,REGISTRY,Registry,status of data fixation,N,1,1��data cleaning completed at the data center; 0=data consistency confirmed by investigator,,country of residence,4216765.0
+711,J-ADNI,state,FAQ,Functional Assessment Questionnaire,status of data fixation,N,1,1��data cleaning completed at the data center; 0=data consistency confirmed by investigator,,country of residence,4216765.0
+712,J-ADNI,state,EXCLUSIO,Exclusion Criteria,status of data fixation,N,1,1��data cleaning completed at the data center; 0=data consistency confirmed by investigator,,country of residence,4216765.0
+713,J-ADNI,state,TREATDIS,Early Discontinuation and Withdrawal,status of data fixation,N,1,1��data cleaning completed at the data center; 0=data consistency confirmed by investigator,,country of residence,4216765.0
+714,J-ADNI,state,CDR,Clinical Dementia Rating,status of data fixation,N,1,1��data cleaning completed at the data center; 0=data consistency confirmed by investigator,,country of residence,4216765.0
+715,J-ADNI,state,BLSCHECK,Baseline Symptoms Checklist,status of data fixation,N,1,1��data cleaning completed at the data center; 0=data consistency confirmed by investigator,,country of residence,4216765.0
+716,J-ADNI,state,BLCHANGE,Diagnostic Summary - Baseline Changes,status of data fixation,N,1,1��data cleaning completed at the data center; 0=data consistency confirmed by investigator,,country of residence,4216765.0
+717,J-ADNI,state,ARM,,status of data fixation,N,1,1��data cleaning completed at the data center; 0=data consistency confirmed by investigator,,country of residence,4216765.0
+718,J-ADNI,state,ADSXLIST,Diagnosis and Symptoms Checklist,status of data fixation,N,1,1��data cleaning completed at the data center; 0=data consistency confirmed by investigator,,country of residence,4216765.0
+719,J-ADNI,state,ADASSCORES,ADAS Sub-Scores and Total Scores,status of data fixation,N,1,1��data cleaning completed at the data center; 0=data consistency confirmed by investigator,,country of residence,4216765.0
+720,J-ADNI,state,ADAS,ADAS-Cognitive Behavior,status of data fixation,N,1,1��data cleaning completed at the data center; 0=data consistency confirmed by investigator,,country of residence,4216765.0
+721,J-ADNI,state,VITALS,Vital Signs,status of data fixation,N,1,1��data cleaning completed at the data center; 0=data consistency confirmed by investigator,,country of residence,4216765.0
+722,J-ADNI,SX,ADSXLIST,Diagnosis and Symptoms Checklist,,N,10 digits,,,No suitable variable found.,
+723,J-ADNI,SX,NPIQ,Neuropsychiatric Inventory Q,,N,10 digits,,,No suitable variable found.,
+724,J-ADNI,SX,FHQ,Family History Questionnaire,,N,10 digits,,,No suitable variable found.,
+725,J-ADNI,SX,REGISTRY,Registry,,N,10 digits,,,No suitable variable found.,
+726,J-ADNI,SX,MEDHIST,Medical History,,N,10 digits,,,No suitable variable found.,
+727,J-ADNI,SX,GDSCALE,Geriatric Depression Scale,,N,10 digits,,,No suitable variable found.,
+728,J-ADNI,SX,RECFHQ,Family History Questionnaire Subtable,,N,10 digits,,,No suitable variable found.,
+729,J-ADNI,SX,INCLUSIO,Inclusion Criteria,,N,10 digits,,,No suitable variable found.,
+730,J-ADNI,SX,PDXCONV,Diagnostic Summary,,N,10 digits,,,No suitable variable found.,
+731,J-ADNI,SX,ARM,,,N,10 digits,,,No suitable variable found.,
+732,J-ADNI,SX,VITALS,Vital Signs,,N,10 digits,,,No suitable variable found.,
+733,J-ADNI,SX,NEUROEXM,Neurological Exam,,N,10 digits,,,No suitable variable found.,
+734,J-ADNI,SX,NEUROBAT,Neuropsychological Battery,,N,10 digits,,,No suitable variable found.,
+735,J-ADNI,SX,PTDEMOG,Participant Demographic Information,,N,10 digits,,,No suitable variable found.,
+736,J-ADNI,SX,PHYSICAL,Physical Exam,,N,10 digits,,,No suitable variable found.,
+737,J-ADNI,SX,BLCHANGE,Diagnostic Summary - Baseline Changes,,N,10 digits,,,No suitable variable found.,
+738,J-ADNI,SX,BLSCHECK,Baseline Symptoms Checklist,,N,10 digits,,,No suitable variable found.,
+739,J-ADNI,SX,CDR,Clinical Dementia Rating,,N,10 digits,,,No suitable variable found.,
+740,J-ADNI,SX,TREATDIS,Early Discontinuation and Withdrawal,,N,10 digits,,,No suitable variable found.,
+741,J-ADNI,SX,ADAS,ADAS-Cognitive Behavior,,N,10 digits,,,No suitable variable found.,
+742,J-ADNI,SX,ADASSCORES,ADAS Sub-Scores and Total Scores,,N,10 digits,,,No suitable variable found.,
+743,J-ADNI,SX,MODHACH,Modified Hachinski,,N,10 digits,,,No suitable variable found.,
+744,J-ADNI,SX,EXCLUSIO,Exclusion Criteria,,N,10 digits,,,No suitable variable found.,
+745,J-ADNI,SX,FAQ,Functional Assessment Questionnaire,,N,10 digits,,,No suitable variable found.,
+746,J-ADNI,SX,MMSE,Mini Mental State Exam,,N,10 digits,,,No suitable variable found.,
+747,J-ADNI,TOTAL11,ADASSCORES,ADAS Sub-Scores and Total Scores,Classic 70 point total. Excludes Q4 (Delayed Word Recall) and Q14 (Number Cancellation).,N,"5,2",,,No suitable variable found.,
+748,J-ADNI,TOTALMOD,ADASSCORES,ADAS Sub-Scores and Total Scores,85 point total includingQ4 (Delayed Word Recall) and Q14 (Number Cancellation).,N,"5,2",,,No suitable variable found.,
+749,J-ADNI,TRAAERRCOM,NEUROBAT,Neuropsychological Battery,Errors of Commission,N,2,,,No suitable variable found.,
+750,J-ADNI,TRAAERROM,NEUROBAT,Neuropsychological Battery,Errors of Omission,N,2,,,No suitable variable found.,
+751,J-ADNI,TRAASCOR,NEUROBAT,Neuropsychological Battery,Part A - Time to Complete,N,3,,,No suitable variable found.,
+752,J-ADNI,TRABERRCOM,NEUROBAT,Neuropsychological Battery,Errors of Commission,N,2,,,No suitable variable found.,
+753,J-ADNI,TRABERROM,NEUROBAT,Neuropsychological Battery,Errors of Omission,N,2,,,No suitable variable found.,
+754,J-ADNI,TRABSCOR,NEUROBAT,Neuropsychological Battery,Part B - Time to complete,N,3,,,trail making test (tmt) b,4165596.0
+755,J-ADNI,TYPE,ARM,,ID Type,T,20,S=Study Participant;P=Phantom;V=Volunteer,,participant id,46234739.0
+756,J-ADNI,USERDATE,PHYSICAL,Physical Exam,Date record created,S,100 digits,,,patient qualification,
+757,J-ADNI,USERDATE,PDXCONV,Diagnostic Summary,Date record created,S,100 digits,,,patient qualification,
+758,J-ADNI,USERDATE,NPIQ,Neuropsychiatric Inventory Q,Date record created,S,100 digits,,,patient qualification,
+759,J-ADNI,USERDATE,NEUROEXM,Neurological Exam,Date record created,S,100 digits,,,patient qualification,
+760,J-ADNI,USERDATE,NEUROBAT,Neuropsychological Battery,Date record created,S,100 digits,,,patient qualification,
+761,J-ADNI,USERDATE,PTDEMOG,Participant Demographic Information,Date record created,S,100 digits,,,patient qualification,
+762,J-ADNI,USERDATE,MODHACH,Modified Hachinski,Date record created,S,100 digits,,,patient qualification,
+763,J-ADNI,USERDATE,MMSE,Mini Mental State Exam,Date record created,S,100 digits,,,patient qualification,
+764,J-ADNI,USERDATE,MEDHIST,Medical History,Date record created,S,100 digits,,,patient qualification,
+765,J-ADNI,USERDATE,INCLUSIO,Inclusion Criteria,Date record created,S,100 digits,,,patient qualification,
+766,J-ADNI,USERDATE,RECFHQ,Family History Questionnaire Subtable,Date record created,S,100 digits,,,patient qualification,
+767,J-ADNI,USERDATE,GDSCALE,Geriatric Depression Scale,Date record created,S,100,,,patient qualification,
+768,J-ADNI,USERDATE,FHQ,Family History Questionnaire,Date record created,S,100 digits,,,patient qualification,
+769,J-ADNI,USERDATE,REGISTRY,Registry,Date record created,S,100 digits,,,patient qualification,
+770,J-ADNI,USERDATE,FAQ,Functional Assessment Questionnaire,Date record created,S,100 digits,,,patient qualification,
+771,J-ADNI,USERDATE,EXCLUSIO,Exclusion Criteria,Date record created,S,100 digits,,,patient qualification,
+772,J-ADNI,USERDATE,TREATDIS,Early Discontinuation and Withdrawal,Date record created,S,100 digits,,,patient qualification,
+773,J-ADNI,USERDATE,CDR,Clinical Dementia Rating,Date record created,S,100 digits,,,patient qualification,
+774,J-ADNI,USERDATE,BLSCHECK,Baseline Symptoms Checklist,Date record created,S,100 digits,,,patient qualification,
+775,J-ADNI,USERDATE,BLCHANGE,Diagnostic Summary - Baseline Changes,Date record created,S,100 digits,,,patient qualification,
+776,J-ADNI,USERDATE,ARM,,Date record created,S,100 digits,,,patient qualification,
+777,J-ADNI,USERDATE,ADSXLIST,Diagnosis and Symptoms Checklist,Date record created,S,100 digits,,,patient qualification,
+778,J-ADNI,USERDATE,ADASSCORES,ADAS Sub-Scores and Total Scores,Date record created,S,100 digits,,,patient qualification,
+779,J-ADNI,USERDATE,ADAS,ADAS-Cognitive Behavior,Date record created,S,100 digits,,,patient qualification,
+780,J-ADNI,USERDATE,VITALS,Vital Signs,Date record created,S,100 digits,,,patient qualification,
+781,J-ADNI,USERDATE2,VITALS,Vital Signs,Date record last updated,S,100 digits,,,No suitable variable found.,
+782,J-ADNI,USERDATE2,BLCHANGE,Diagnostic Summary - Baseline Changes,Date record last updated,S,100 digits,,,No suitable variable found.,
+783,J-ADNI,USERDATE2,BLSCHECK,Baseline Symptoms Checklist,Date record last updated,S,100 digits,,,No suitable variable found.,
+784,J-ADNI,USERDATE2,CDR,Clinical Dementia Rating,Date record last updated,S,100 digits,,,No suitable variable found.,
+785,J-ADNI,USERDATE2,TREATDIS,Early Discontinuation and Withdrawal,Date record last updated,S,100 digits,,,No suitable variable found.,
+786,J-ADNI,USERDATE2,MODHACH,Modified Hachinski,Date record last updated,S,100 digits,,,No suitable variable found.,
+787,J-ADNI,USERDATE2,PHYSICAL,Physical Exam,Date record last updated,S,100 digits,,,No suitable variable found.,
+788,J-ADNI,USERDATE2,REGISTRY,Registry,Date record last updated,S,100 digits,,,No suitable variable found.,
+789,J-ADNI,USERDATE2,MEDHIST,Medical History,Date record last updated,S,100 digits,,,No suitable variable found.,
+790,J-ADNI,USERDATE2,ADAS,ADAS-Cognitive Behavior,Date record last updated,S,100 digits,,,No suitable variable found.,
+791,J-ADNI,USERDATE2,FAQ,Functional Assessment Questionnaire,Date record last updated,S,100 digits,,,No suitable variable found.,
+792,J-ADNI,USERDATE2,PDXCONV,Diagnostic Summary,Date record last updated,S,100 digits,,,No suitable variable found.,
+793,J-ADNI,USERDATE2,RECFHQ,Family History Questionnaire Subtable,Date record last updated,S,100 digits,,,No suitable variable found.,
+794,J-ADNI,USERDATE2,ADASSCORES,ADAS Sub-Scores and Total Scores,Date record last updated,S,100 digits,,,No suitable variable found.,
+795,J-ADNI,USERDATE2,NPIQ,Neuropsychiatric Inventory Q,Date record last updated,S,100 digits,,,No suitable variable found.,
+796,J-ADNI,USERDATE2,INCLUSIO,Inclusion Criteria,Date record last updated,S,100 digits,,,No suitable variable found.,
+797,J-ADNI,USERDATE2,ADSXLIST,Diagnosis and Symptoms Checklist,Date record last updated,S,100 digits,,,No suitable variable found.,
+798,J-ADNI,USERDATE2,ARM,,Date record last updated,S,100 digits,,,No suitable variable found.,
+799,J-ADNI,USERDATE2,NEUROEXM,Neurological Exam,Date record last updated,S,100 digits,,,No suitable variable found.,
+800,J-ADNI,USERDATE2,EXCLUSIO,Exclusion Criteria,Date record last updated,S,100 digits,,,No suitable variable found.,
+801,J-ADNI,USERDATE2,NEUROBAT,Neuropsychological Battery,Date record last updated,S,100 digits,,,No suitable variable found.,
+802,J-ADNI,USERDATE2,GDSCALE,Geriatric Depression Scale,Date record last updated,S,100 digits,,,No suitable variable found.,
+803,J-ADNI,USERDATE2,MMSE,Mini Mental State Exam,Date record last updated,S,100 digits,,,No suitable variable found.,
+804,J-ADNI,USERDATE2,PTDEMOG,Participant Demographic Information,Date record last updated,S,100 digits,,,No suitable variable found.,
+805,J-ADNI,USERDATE2,FHQ,Family History Questionnaire,Date record last updated,S,100 digits,,,No suitable variable found.,
+806,J-ADNI,USERID,GDSCALE,Geriatric Depression Scale,,T,100 characters,,,patient qualification,
+807,J-ADNI,USERID,FHQ,Family History Questionnaire,,T,100 characters,,,patient qualification,
+808,J-ADNI,USERID,REGISTRY,Registry,,T,100 characters,,,patient qualification,
+809,J-ADNI,USERID,MEDHIST,Medical History,,T,100 characters,,,patient qualification,
+810,J-ADNI,USERID,FAQ,Functional Assessment Questionnaire,,T,100 characters,,,patient qualification,
+811,J-ADNI,USERID,MMSE,Mini Mental State Exam,,T,100 characters,,,patient qualification,
+812,J-ADNI,USERID,VITALS,Vital Signs,,T,100 characters,,,patient qualification,
+813,J-ADNI,USERID,EXCLUSIO,Exclusion Criteria,,T,100 characters,,,patient qualification,
+814,J-ADNI,USERID,MODHACH,Modified Hachinski,,T,100 characters,,,patient qualification,
+815,J-ADNI,USERID,TREATDIS,Early Discontinuation and Withdrawal,,T,100 characters,,,patient qualification,
+816,J-ADNI,USERID,CDR,Clinical Dementia Rating,,T,100 characters,,,patient qualification,
+817,J-ADNI,USERID,BLSCHECK,Baseline Symptoms Checklist,,T,100 characters,,,patient qualification,
+818,J-ADNI,USERID,BLCHANGE,Diagnostic Summary - Baseline Changes,,T,100 characters,,,patient qualification,
+819,J-ADNI,USERID,PTDEMOG,Participant Demographic Information,,T,100 characters,,,patient qualification,
+820,J-ADNI,USERID,NEUROBAT,Neuropsychological Battery,,T,100 characters,,,patient qualification,
+821,J-ADNI,USERID,NEUROEXM,Neurological Exam,,T,100 characters,,,patient qualification,
+822,J-ADNI,USERID,ARM,,,T,100 characters,,,patient qualification,
+823,J-ADNI,USERID,ADSXLIST,Diagnosis and Symptoms Checklist,,T,100 characters,,,patient qualification,
+824,J-ADNI,USERID,NPIQ,Neuropsychiatric Inventory Q,,T,100 characters,,,patient qualification,
+825,J-ADNI,USERID,PDXCONV,Diagnostic Summary,,T,100 characters,,,patient qualification,
+826,J-ADNI,USERID,ADASSCORES,ADAS Sub-Scores and Total Scores,,T,100 characters,,,patient qualification,
+827,J-ADNI,USERID,ADAS,ADAS-Cognitive Behavior,,T,100 characters,,,patient qualification,
+828,J-ADNI,USERID,INCLUSIO,Inclusion Criteria,,T,100 characters,,,patient qualification,
+829,J-ADNI,USERID,RECFHQ,Family History Questionnaire Subtable,,T,100 characters,,,patient qualification,
+830,J-ADNI,USERID,PHYSICAL,Physical Exam,,T,100 characters,,,patient qualification,
+831,J-ADNI,USERID2,RECFHQ,Family History Questionnaire Subtable,,T,100 characters,,,patient qualification,
+832,J-ADNI,USERID2,PDXCONV,Diagnostic Summary,,T,100 characters,,,patient qualification,
+833,J-ADNI,USERID2,PTDEMOG,Participant Demographic Information,,T,100 characters,,,patient qualification,
+834,J-ADNI,USERID2,FAQ,Functional Assessment Questionnaire,,T,100 characters,,,patient qualification,
+835,J-ADNI,USERID2,ADAS,ADAS-Cognitive Behavior,,T,100 characters,,,patient qualification,
+836,J-ADNI,USERID2,MEDHIST,Medical History,,T,100 characters,,,patient qualification,
+837,J-ADNI,USERID2,REGISTRY,Registry,,T,100 characters,,,patient qualification,
+838,J-ADNI,USERID2,CDR,Clinical Dementia Rating,,T,100 characters,,,patient qualification,
+839,J-ADNI,USERID2,GDSCALE,Geriatric Depression Scale,,T,100 characters,,,patient qualification,
+840,J-ADNI,USERID2,FHQ,Family History Questionnaire,,T,100 characters,,,patient qualification,
+841,J-ADNI,USERID2,MODHACH,Modified Hachinski,,T,100 characters,,,patient qualification,
+842,J-ADNI,USERID2,TREATDIS,Early Discontinuation and Withdrawal,,T,100 characters,,,patient qualification,
+843,J-ADNI,USERID2,MMSE,Mini Mental State Exam,,T,100 characters,,,patient qualification,
+844,J-ADNI,USERID2,NEUROBAT,Neuropsychological Battery,,T,100 characters,,,patient qualification,
+845,J-ADNI,USERID2,BLCHANGE,Diagnostic Summary - Baseline Changes,,T,100 characters,,,patient qualification,
+846,J-ADNI,USERID2,EXCLUSIO,Exclusion Criteria,,T,100 characters,,,patient qualification,
+847,J-ADNI,USERID2,NEUROEXM,Neurological Exam,,T,100 characters,,,patient qualification,
+848,J-ADNI,USERID2,VITALS,Vital Signs,,T,100 characters,,,patient qualification,
+849,J-ADNI,USERID2,ARM,,,T,100 characters,,,patient qualification,
+850,J-ADNI,USERID2,BLSCHECK,Baseline Symptoms Checklist,,T,100 characters,,,patient qualification,
+851,J-ADNI,USERID2,PHYSICAL,Physical Exam,,T,100 characters,,,patient qualification,
+852,J-ADNI,USERID2,INCLUSIO,Inclusion Criteria,,T,100 characters,,,patient qualification,
+853,J-ADNI,USERID2,ADSXLIST,Diagnosis and Symptoms Checklist,,T,100 characters,,,patient qualification,
+854,J-ADNI,USERID2,NPIQ,Neuropsychiatric Inventory Q,,T,100 characters,,,patient qualification,
+855,J-ADNI,USERID2,ADASSCORES,ADAS Sub-Scores and Total Scores,,T,100 characters,,,patient qualification,
+856,J-ADNI,VERIFY,PHYSICAL,Physical Exam,,N,1 digit,,,patient qualification,
+857,J-ADNI,VERIFY,ADAS,ADAS-Cognitive Behavior,,N,1 digit,,,patient qualification,
+858,J-ADNI,VERIFY,FHQ,Family History Questionnaire,,N,1 digit,,,patient qualification,
+859,J-ADNI,VERIFY,ADSXLIST,Diagnosis and Symptoms Checklist,,N,1 digit,,,patient qualification,
+860,J-ADNI,VERIFY,VITALS,Vital Signs,,N,1 digit,,,patient qualification,
+861,J-ADNI,VERIFY,INCLUSIO,Inclusion Criteria,,N,1 digit,,,patient qualification,
+862,J-ADNI,VERIFY,NEUROEXM,Neurological Exam,,N,1 digit,,,patient qualification,
+863,J-ADNI,VERIFY,ADASSCORES,ADAS Sub-Scores and Total Scores,,N,1 digit,,,patient qualification,
+864,J-ADNI,VERIFY,PTDEMOG,Participant Demographic Information,,N,1 digit,,,patient qualification,
+865,J-ADNI,VERIFY,NEUROBAT,Neuropsychological Battery,,N,1 digit,,,patient qualification,
+866,J-ADNI,VERIFY,RECFHQ,Family History Questionnaire Subtable,,N,1 digit,,,patient qualification,
+867,J-ADNI,VERIFY,PDXCONV,Diagnostic Summary,,N,1 digit,,,patient qualification,
+868,J-ADNI,VERIFY,REGISTRY,Registry,,N,1 digit,,,patient qualification,
+869,J-ADNI,VERIFY,CDR,Clinical Dementia Rating,,N,1 digit,,,patient qualification,
+870,J-ADNI,VERIFY,FAQ,Functional Assessment Questionnaire,,N,1 digit,,,patient qualification,
+871,J-ADNI,VERIFY,GDSCALE,Geriatric Depression Scale,,N,1 digit,,,patient qualification,
+872,J-ADNI,VERIFY,NPIQ,Neuropsychiatric Inventory Q,,N,1 digit,,,patient qualification,
+873,J-ADNI,VERIFY,MODHACH,Modified Hachinski,,N,1 digit,,,patient qualification,
+874,J-ADNI,VERIFY,MEDHIST,Medical History,,N,1 digit,,,patient qualification,
+875,J-ADNI,VERIFY,EXCLUSIO,Exclusion Criteria,,N,1 digit,,,patient qualification,
+876,J-ADNI,VERIFY,BLSCHECK,Baseline Symptoms Checklist,,N,1 digit,,,patient qualification,
+877,J-ADNI,VERIFY,BLCHANGE,Diagnostic Summary - Baseline Changes,,N,1 digit,,,patient qualification,
+878,J-ADNI,VERIFY,MMSE,Mini Mental State Exam,,N,1 digit,,,patient qualification,
+879,J-ADNI,VERIFY,TREATDIS,Early Discontinuation and Withdrawal,,N,1 digit,,,patient qualification,
+880,J-ADNI,VISCODE,MMSE,Mini Mental State Exam,,T,20 characters,,,No suitable variable found.,
+881,J-ADNI,VISCODE,BLSCHECK,Baseline Symptoms Checklist,,T,20 characters,,,No suitable variable found.,
+882,J-ADNI,VISCODE,BLCHANGE,Diagnostic Summary - Baseline Changes,,T,20 characters,,,No suitable variable found.,
+883,J-ADNI,VISCODE,RECFHQ,Family History Questionnaire Subtable,,T,20 characters,,,No suitable variable found.,
+884,J-ADNI,VISCODE,MODHACH,Modified Hachinski,,T,20 characters,,,No suitable variable found.,
+885,J-ADNI,VISCODE,PTDEMOG,Participant Demographic Information,,T,20 characters,,,No suitable variable found.,
+886,J-ADNI,VISCODE,EXCLUSIO,Exclusion Criteria,,T,20 characters,,,No suitable variable found.,
+887,J-ADNI,VISCODE,PHYSICAL,Physical Exam,,T,20 characters,,,No suitable variable found.,
+888,J-ADNI,VISCODE,NEUROBAT,Neuropsychological Battery,,T,20 characters,,,No suitable variable found.,
+889,J-ADNI,VISCODE,NEUROEXM,Neurological Exam,,T,20 characters,,,No suitable variable found.,
+890,J-ADNI,VISCODE,VITALS,Vital Signs,,T,20 characters,,,No suitable variable found.,
+891,J-ADNI,VISCODE,NPIQ,Neuropsychiatric Inventory Q,,T,20 characters,,,No suitable variable found.,
+892,J-ADNI,VISCODE,FAQ,Functional Assessment Questionnaire,,T,20 characters,,,No suitable variable found.,
+893,J-ADNI,VISCODE,ADSXLIST,Diagnosis and Symptoms Checklist,,T,20 characters,,,No suitable variable found.,
+894,J-ADNI,VISCODE,PDXCONV,Diagnostic Summary,,T,20 characters,,,No suitable variable found.,
+895,J-ADNI,VISCODE,INCLUSIO,Inclusion Criteria,,T,20 characters,,,No suitable variable found.,
+896,J-ADNI,VISCODE,ADASSCORES,ADAS Sub-Scores and Total Scores,,T,20 characters,,,No suitable variable found.,
+897,J-ADNI,VISCODE,ADAS,ADAS-Cognitive Behavior,,T,20 characters,,,No suitable variable found.,
+898,J-ADNI,VISCODE,FHQ,Family History Questionnaire,,T,20 characters,,,No suitable variable found.,
+899,J-ADNI,VISCODE,GDSCALE,Geriatric Depression Scale,,T,20 characters,,,No suitable variable found.,
+900,J-ADNI,VISCODE,REGISTRY,Registry,,T,20 characters,,,No suitable variable found.,
+901,J-ADNI,VISCODE,TREATDIS,Early Discontinuation and Withdrawal,,T,20 characters,,,No suitable variable found.,
+902,J-ADNI,VISCODE,MEDHIST,Medical History,,T,20 characters,,,No suitable variable found.,
+903,J-ADNI,VISCODE,CDR,Clinical Dementia Rating,,T,20 characters,,,No suitable variable found.,
+904,J-ADNI,VSBPDIA,VITALS,Vital Signs,Diastolic - mmHg,N,3,36..130,,No suitable variable found.,
+905,J-ADNI,VSBPSYS,VITALS,Vital Signs,Systolic - mmHg,N,3,76..250,,No suitable variable found.,
+906,J-ADNI,VSCOMM,VITALS,Vital Signs,7. Comments regarding vital signs:,T,1000,,,No suitable variable found.,
+907,J-ADNI,VSHEIGHT,VITALS,Vital Signs,2a. Height,N,"4,1",,,No suitable variable found.,
+908,J-ADNI,VSHTUNIT,VITALS,Vital Signs,2b. Height Units,N,1,1=inches; 2=centimeters,,No suitable variable found.,
+909,J-ADNI,VSPULSE,VITALS,Vital Signs,4. Seated Pulse Rate (per minute),N,3,40..130,,No suitable variable found.,
+910,J-ADNI,VSRESP,VITALS,Vital Signs,5. Respirations (per minute),N,2,6..40,,No suitable variable found.,
+911,J-ADNI,VSTEMP,VITALS,Vital Signs,6a. Temperature,N,"4,1",,,No suitable variable found.,
+912,J-ADNI,VSTMPSRC,VITALS,Vital Signs,6b. Temperature Source,N,1,1=Oral; 2=Tympanic; 3=Other,,No suitable variable found.,
+913,J-ADNI,VSTMPUNT,VITALS,Vital Signs,6c. Temperature Units,N,1,1=Fahrenheit; 2=Celsius,,No suitable variable found.,
+914,J-ADNI,VSWEIGHT,VITALS,Vital Signs,1a. Weight,N,"4,1",,,weight,37111521.0
+915,J-ADNI,VSWTUNIT,VITALS,Vital Signs,1b. Weight Units,N,1,1=pounds; 2=kilograms,,No suitable variable found.,
+916,J-ADNI,WDFOLLOWUP,TREATDIS,Early Discontinuation and Withdrawal,2. Follow-up:  (check all that apply),T,20,1=Agrees to return for all follow-up visits.;2=Agrees to return for final visit.;3=Agrees to unscheduled visit.;4=Refuses/unable to return for any future visits.,,No suitable variable found.,
+917,J-ADNI,WDPARTCOM,TREATDIS,Early Discontinuation and Withdrawal,"Please provide any additional information regarding the withdrawal.  If individual procedures are being discontinued for different reasons, please provide an explanation.",T,1000,,,No suitable variable found.,
+918,J-ADNI,WDPARTIAL,TREATDIS,Early Discontinuation and Withdrawal,"If Partial, what is the participant withdrawing from?",T,20,1=1.5 T MRI;2=3.0 T MRI;3=PET;4=Lumbar Puncture;5=PIB,,No suitable variable found.,
+919,J-ADNI,WDRAWTYPE,TREATDIS,Early Discontinuation and Withdrawal,"1. Is this a Full or Partial Withdrawal or Completion of ADNI 1, not continuing to extension protocol?",N,1,"1=Full;2=Partial;3=Completion of ADNI 1, not continuing to extension protocol",,No suitable variable found.,
+920,J-ADNI,WDREASON,TREATDIS,Early Discontinuation and Withdrawal,Reason for Withdrawal,T,20,1=Adverse Event;2=Death;3=Safety Risk;4=Protocol Violation;5=Non-Compliance;6=Investigator Judgment;7=Consent Withdrawn;8=Study Terminated;9=Loss of Study Partner;10=Lost to Follow-Up;11=Coordinating Center Request,,No suitable variable found.,
+921,J-ADNI,USERDATE,CONVERSIONS,Conversions Confirmed by Conversion Committee,Date record created,D,,-4,-4,patient qualification,
+922,J-ADNI,RID,CONVERSIONS,Conversions Confirmed by Conversion Committee,Participant roster ID,N,38 digits,-4,-4,participant id,46234739.0
+923,J-ADNI,VISCODE,CONVERSIONS,Conversions Confirmed by Conversion Committee,,T,10 characters,-4,-4,No suitable variable found.,
+924,J-ADNI,TYPE,CONVERSIONS,Conversions Confirmed by Conversion Committee,Conversion/Reversion Type,T,10 characters,-4,-4,No suitable variable found.,
+925,J-ADNI,VISCODE,MRIQC,MRI Scan Information,Visit,T,7,SC=Screening;SC Scan=Screening;BL=Baseline;BL Scan=Baseline;6M=6 months from Baseline;12M=12 months;18M=18 months;24M=24 months;36M=36 months,,visit,
+926,J-ADNI,ID,MRIQC,MRI Scan Information,Participant ID,T,9,,,participant id,46234739.0
+927,J-ADNI,MRI Achievements(1.5T) VISCODE,MRIQC,MRI Scan Information - 1.5T Scanner,Visit,T,7,SC=Screening;SC Scan=Screening;BL=Baseline;BL Scan=Baseline;6M=6 months from Baseline;12M=12 months;18M=18 months;24M=24 months;36M=36 months,,No suitable variable found.,
+928,J-ADNI,MRI Achievements(1.5T) ID,MRIQC,MRI Scan Information - 1.5T Scanner,Participant ID,T,9,,,participant id,46234739.0
+929,J-ADNI,MRI Achievements(1.5T) EXAMDATE,MRIQC,MRI Scan Information - 1.5T Scanner,Scan Date,D,10,,,No suitable variable found.,
+930,J-ADNI,MRI Achievements(1.5T) PASS_FOR_IMAGING_TOTAL_QC,MRIQC,MRI Scan Information - 1.5T Scanner,Is image quality control passed?,N,1,1=OK;0=NG,,No suitable variable found.,
+931,J-ADNI,MRI Achievements(1.5T) PASS_FOR_IMAGE_READING,MRIQC,MRI Scan Information - 1.5T Scanner,Are there brain anomalies caused by non-Alzheimer's disease?,N,1,1=No;0=Yes,,No suitable variable found.,
+932,J-ADNI,MRI Achievements(1.5T) EQUIPMENT_ID,MRIQC,MRI Scan Information - 1.5T Scanner,Product Name of MRI Scanner,T,6,,,patient qualification,
+933,J-ADNI,MRI Achievements(1.5T) PHANTOM_ID,MRIQC,MRI Scan Information - 1.5T Scanner,Phantom ID,T,8,,,participant id,46234739.0
+934,J-ADNI,MRI Achievements(1.5T) VERSION,MRIQC,MRI Scan Information - 1.5T Scanner,Version Number of MRI Scanner,T,70,,,No suitable variable found.,
+935,J-ADNI,MRI Achievements(1.5T) IMAGING_NUMBER,MRIQC,MRI Scan Information - 1.5T Scanner,Number of MRI Scans,N,1,,,No suitable variable found.,
+936,J-ADNI,MRI Achievements(domestic 1.5T) VISCODE,MRIQC,MRI Scan Information - Domestic 1.5T Scanner,Visit,T,7,SC=Screening;SC Scan=Screening;BL=Baseline;BL Scan=Baseline;6M=6 months from Baseline;12M=12 months;18M=18 months;24M=24 months;36M=36 months,,No suitable variable found.,
+937,J-ADNI,MRI Achievements(domestic 1.5T) ID,MRIQC,MRI Scan Information - Domestic 1.5T Scanner,Participant ID,T,9,,,participant id,46234739.0
+938,J-ADNI,MRI Achievements(domestic 1.5T) EXAMDATE,MRIQC,MRI Scan Information - Domestic 1.5T Scanner,Scan Date,D,10,,,No suitable variable found.,
+939,J-ADNI,MRI Achievements(domestic 1.5T) PASS_FOR_IMAGING_TOTAL_QC,MRIQC,MRI Scan Information - Domestic 1.5T Scanner,Is image quality control passed?,N,1,1=OK;0=NG,,No suitable variable found.,
+940,J-ADNI,MRI Achievements(domestic 1.5T) PASS_FOR_IMAGE_READING,MRIQC,MRI Scan Information - Domestic 1.5T Scanner,Are there brain anomalies caused by non-Alzheimer's disease?,N,1,1=No;0=Yes,,No suitable variable found.,
+941,J-ADNI,MRI Achievements(domestic 1.5T) EQUIPMENT_ID,MRIQC,MRI Scan Information - Domestic 1.5T Scanner,Product Name of MRI Scanner,T,6,,,patient qualification,
+942,J-ADNI,MRI Achievements(domestic 1.5T) PHANTOM_ID,MRIQC,MRI Scan Information - Domestic 1.5T Scanner,Phantom ID,T,8,,,participant id,46234739.0
+943,J-ADNI,MRI Achievements(domestic 1.5T) VERSION,MRIQC,MRI Scan Information - Domestic 1.5T Scanner,Version Number of MRI Scanner,T,70,,,No suitable variable found.,
+944,J-ADNI,MRI Achievements(domestic 1.5T) IMAGING_NUMBER,MRIQC,MRI Scan Information - Domestic 1.5T Scanner,Number of MRI Scans,N,1,,,No suitable variable found.,
+945,J-ADNI,MRI Achievements(3T) VISCODE,MRIQC,MRI Scan Information - 3T Scanner,Visit,T,7,SC=Screening;SC Scan=Screening;BL=Baseline;BL Scan=Baseline;6M=6 months from Baseline;12M=12 months;18M=18 months;24M=24 months;36M=36 months,,No suitable variable found.,
+946,J-ADNI,MRI Achievements(3T) ID,MRIQC,MRI Scan Information - 3T Scanner,Participant ID,T,9,,,participant id,46234739.0
+947,J-ADNI,MRI Achievements(3T) EXAMDATE,MRIQC,MRI Scan Information - 3T Scanner,Scan Date,D,10,,,No suitable variable found.,
+948,J-ADNI,MRI Achievements(3T) PASS_FOR_IMAGING_TOTAL_QC,MRIQC,MRI Scan Information - 3T Scanner,Is image quality control passed?,N,1,1=OK;0=NG,,No suitable variable found.,
+949,J-ADNI,MRI Achievements(3T) PASS_FOR_IMAGE_READING,MRIQC,MRI Scan Information - 3T Scanner,Are there brain anomalies caused by non-Alzheimer's disease?,N,1,1=No;0=Yes,,No suitable variable found.,
+950,J-ADNI,MRI Achievements(3T) EQUIPMENT_ID,MRIQC,MRI Scan Information - 3T Scanner,Product Name of MRI Scanner,T,6,,,patient qualification,
+951,J-ADNI,MRI Achievements(3T) PHANTOM_ID,MRIQC,MRI Scan Information - 3T Scanner,Phantom ID,T,8,,,No suitable variable found.,
+952,J-ADNI,MRI Achievements(3T) VERSION,MRIQC,MRI Scan Information - 3T Scanner,Version Number of MRI Scanner,T,70,,,No suitable variable found.,
+953,J-ADNI,MRI Achievements(3T) IMAGING_NUMBER,MRIQC,MRI Scan Information - 3T Scanner,Number of MRI Scans,N,1,,,No suitable variable found.,
+954,J-ADNI,VISCODE,PETQC,PET Scan Information,Visit,T,7,SC=Screening;SC Scan=Screening;BL=Baseline;BL Scan=Baseline;6M=6 months from Baseline;12M=12 months;18M=18 months;24M=24 months;36M=36 months,,visit,
+955,J-ADNI,ID,PETQC,PET Scan Information,Participant ID,T,9,,,participant id,46234739.0
+956,J-ADNI,PET QC(FDG) SCANNER_VENDOR,PETQC,PET Scan Information - FDG,Vender Name of PET Scanner,T,8,,,No suitable variable found.,
+957,J-ADNI,PET QC(FDG) SCANNER_MODEL,PETQC,PET Scan Information - FDG,Model Name of PET Scanner,T,30,,,No suitable variable found.,
+958,J-ADNI,PET QC(FDG) SUBJECT_ID,PETQC,PET Scan Information - FDG,Participant ID,T,9,,,participant id,46234739.0
+959,J-ADNI,PET QC(FDG) VISIT_ID,PETQC,PET Scan Information - FDG,Visit,T,7,SC=Screening;SC Scan=Screening;BL=Baseline;BL Scan=Baseline;6M=6 months from Baseline;12M=12 months;18M=18 months;24M=24 months;36M=36 months,,visit,
+960,J-ADNI,PET QC(FDG) DATE_OF_SCAN,PETQC,PET Scan Information - FDG,Scan Date,D,10,,,No suitable variable found.,
+961,J-ADNI,PET QC(FDG) PET_AGENT,PETQC,PET Scan Information - FDG,PET drug,T,3,,,No suitable variable found.,
+962,J-ADNI,PET QC(FDG) RESCAN,PETQC,PET Scan Information - FDG,First PET scan?,T,2,no=Rescanning,,No suitable variable found.,
+963,J-ADNI,PET QC(FDG) BLOOD_GLUCOSE,PETQC,PET Scan Information - FDG,Blood Glucose Level at the Time of FDG PET Scan,T,10,,mg/dL,No suitable variable found.,
+964,J-ADNI,PET QC(FDG) BODY_WEIGHT,PETQC,PET Scan Information - FDG,Body Weight of Patient,T,7,,kg,No suitable variable found.,
+965,J-ADNI,PET QC(FDG) INJECTED_RIACTIVITY,PETQC,PET Scan Information - FDG,Injected Activity,T,9,,MBq,No suitable variable found.,
+966,J-ADNI,PET QC(FDG) UPTAKE_TIME,PETQC,PET Scan Information - FDG,Uptake Time,T,8,,min,av45 pet,
+967,J-ADNI,PET QC(FDG) MOTION_WITH_PETSCAN,PETQC,PET Scan Information - FDG,Degree of Body Motion (Six Levels) estimated from Motion Correction Parameters,T,13,A=No Motion;Mild=Mild;Mild to Mod=Mild to Moderate;Mod=Moderate;Mod to Severe=Moderate to Severe;Severe=Severe,,No suitable variable found.,
+968,J-ADNI,PET QC(FDG) OMITTED_FRAMES,PETQC,PET Scan Information - FDG,Numbers of Omitted Frames as the Result of the Evaluation of Body Motion,T,9,,,No suitable variable found.,
+969,J-ADNI,PET QC(FDG) BRAIN_OUT_OF_FOV,PETQC,PET Scan Information - FDG,Is a part of brain out of field of view (FOV) ?,T,3,Yes=Missing;No=Not Missing,,brainsegvol from qdec aseg,
+970,J-ADNI,PET QC(FDG) BRAIN_OUT_OF_FOV_TOP_SLICES,PETQC,PET Scan Information - FDG,Extent of brain beyond top slice expresssed as  estimated number of slicess (Thickness 1.5mm/slice).,N,1,,,brain volume,44784284.0
+971,J-ADNI,PET QC(FDG) BRAIN_OUT_OF_FOV_BOTTOM_SLICES,PETQC,PET Scan Information - FDG,Extent of brain beyond bottom slice expresssed as  estimated number of slicess (Thickness 1.5mm/slice).,N,2,,,brainsegvol from qdec aseg,
+972,J-ADNI,PET QC(FDG) PROTOCOL_DEVIATION,PETQC,PET Scan Information - FDG,Was a protocol deviation detected?,T,9,"deviation=Protocol Deviation Detected,-=No Protocol Deviation",,No suitable variable found.,
+973,J-ADNI,PET QC(FDG) WITH_QCCOMMENT,PETQC,PET Scan Information - FDG,Comment on QC for Reseachers?,T,282,,,No suitable variable found.,
+974,J-ADNI,PET QC(FDG) INTERPRETATION,PETQC,PET Scan Information - FDG,"Interpretation by Inter-rater Agreement. At Baseline, Silverman 7 Categories (Progressive: P1, P1�{_, P2, P3, Nonprogressive: N1, N2, N3) [1]. At Follow-Ups, Comparison with Baseline (change(+), change(++), stable). [1] Silverman DS, Small GW, Chang CY, et al. Positron Emission Tomography in Evaluation of Dementia: Regional Brain Metabolism and Long-term Outcome. JAMA. 2001;286(17):2120-2127. doi:10.1001/jama.286.17.2120.",T,10,N1=Normal Metabolism;N2=Global Hypometabolism;N3=Focal Hypometabolism;P1=Bilateral Parietal and Temporal Hypometabolism (AD Pattern);P1+=AD-variant Pattern;P2=Frontal Predominant Hypometabolism;P3=Hypometabolism of Both Caudate and Lentiform Nuclei;stable=No Change from Baseline;change(+)=Weak Change from Baseline;change(++)=Strong Change from Baseline,,No suitable variable found.,
+975,J-ADNI,PET QC(BF227) SCANNER_VENDOR,PETQC,PET Scan Information - BF227,Vender Name of PET Scanner,T,8,,,No suitable variable found.,
+976,J-ADNI,PET QC(BF227) SCANNER_MODEL,PETQC,PET Scan Information - BF227,Model Name of PET Scanner,T,30,,,No suitable variable found.,
+977,J-ADNI,PET QC(BF227) SUBJECT_ID,PETQC,PET Scan Information - BF227,Participant ID,T,9,,,participant id,46234739.0
+978,J-ADNI,PET QC(BF227) VISIT_ID,PETQC,PET Scan Information - BF227,Visit,T,7,SC=Screening;SC Scan=Screening;BL=Baseline;BL Scan=Baseline;6M=6 months from Baseline;12M=12 months;18M=18 months;24M=24 months;36M=36 months,,No suitable variable found.,
+979,J-ADNI,PET QC(BF227) DATE_OF_SCAN,PETQC,PET Scan Information - BF227,Scan Date,D,10,,,No suitable variable found.,
+980,J-ADNI,PET QC(BF227) PET_AGENT,PETQC,PET Scan Information - BF227,PET drug ,T,3,,,No suitable variable found.,
+981,J-ADNI,PET QC(BF227) RESCAN,PETQC,PET Scan Information - BF227,First PET scan?,T,2,no=Rescanning,,No suitable variable found.,
+982,J-ADNI,PET QC(BF227) BODY_WEIGHT,PETQC,PET Scan Information - BF227,Body Weight of Patient,T,7,,kg,No suitable variable found.,
+983,J-ADNI,PET QC(BF227) INJECTED_RIACTIVITY,PETQC,PET Scan Information - BF227,Injected Activity,T,9,,MBq,No suitable variable found.,
+984,J-ADNI,PET QC(BF227) UPTAKE_TIME,PETQC,PET Scan Information - BF227,Uptake Time,T,8,,min,av45 pet,
+985,J-ADNI,PET QC(BF227) MOTION_WITH_PETSCAN,PETQC,PET Scan Information - BF227,Degree of Body Motion (Six Levels) estimated from Motion Correction Parameters,T,13,A=No Motion;Mild=Mild;Mild to Mod=Mild to Moderate;Mod=Moderate;Mod to Severe=Moderate to Severe;Severe=Severe,,No suitable variable found.,
+986,J-ADNI,PET QC(BF227) OMITTED_FRAMES,PETQC,PET Scan Information - BF227,Numbers of Omitted Frames as the Result of the Evaluation of Body Motion,T,9,,,No suitable variable found.,
+987,J-ADNI,PET QC(BF227) BRAIN_OUT_OF_FOV,PETQC,PET Scan Information - BF227,Is a part of brain out of field of view (FOV) ?,T,3,Yes=Missing;No=Not Missing,,brainsegvol from qdec aseg,
+988,J-ADNI,PET QC(BF227) BRAIN_OUT_OF_FOV_TOP_SLICES,PETQC,PET Scan Information - BF227,Extent of brain beyond top slice expresssed as  estimated number of slicess (Thickness 1.5mm/slice),N,1,,,brain volume,44784284.0
+989,J-ADNI,PET QC(BF227) BRAIN_OUT_OF_FOV_BOTTOM_SLICES,PETQC,PET Scan Information - BF227,Extent of brain beyond bottom slice expresssed as  estimated number of slicess (Thickness 1.5mm/slice) .,N,2,,,brain volume,44784284.0
+990,J-ADNI,PET QC(BF227) MOTION_WITH_AMYLOID_DYNAMIC_SCAN,PETQC,PET Scan Information - BF227,Body Motion in PIB or BF227 Dynamic Scan Estimated by Visual Interpretation and Time Activity Curve (TAC),T,0,motion suspected=Body motion was suspected;no motion=Body motion was not observed,,av45 pet,
+991,J-ADNI,PET QC(BF227) QUANTITATIVE_CAPABILITY_OF_DYNAMIC_SCAN,PETQC,PET Scan Information - BF227,Capability of Quantitative Analysis on the Dyamic scan data in regard to count rate saturation. ,T,0,capable=capable;incapable=incapable,,No suitable variable found.,
+992,J-ADNI,PET QC(BF227) PROTOCOL_DEVIATION,PETQC,PET Scan Information - BF227,Was a protocol deviation detected?,T,9,"deviation=Protocol Deviation Detected,-=No Protocol Deviation",,No suitable variable found.,
+993,J-ADNI,PET QC(BF227) WITH_QCCOMMENT,PETQC,PET Scan Information - BF227,Comment on QC for Reseachers?,T,212,,,No suitable variable found.,
+994,J-ADNI,PET QC(BF227) INTERPRETATION,PETQC,PET Scan Information - BF227,"Binary Interpretation by Inter-rater Agreement.  (Positive or Negative). For BF227, Only Baseline scan was interpreted.",T,10,positive=Accumulation Detected;negative=No Accumulation Detected,,No suitable variable found.,
+995,J-ADNI,PET QC(PIB) SCANNER_VENDOR,PETQC,PET Scan Information - PIB,Vender Name of PET Scanner,T,8,,,No suitable variable found.,
+996,J-ADNI,PET QC(PIB) SCANNER_MODEL,PETQC,PET Scan Information - PIB,Model Name of PET Scanner,T,30,,,No suitable variable found.,
+997,J-ADNI,PET QC(PIB) SUBJECT_ID,PETQC,PET Scan Information - PIB,Participant ID,T,9,,,participant id,46234739.0
+998,J-ADNI,PET QC(PIB) VISIT_ID,PETQC,PET Scan Information - PIB,Visit,T,7,SC=Screening;SC Scan=Screening;BL=Baseline;BL Scan=Baseline;6M=6 months from Baseline;12M=12 months;18M=18 months;24M=24 months;36M=36 months,,visit,
+999,J-ADNI,PET QC(PIB) DATE_OF_SCAN,PETQC,PET Scan Information - PIB,Scan Date,D,10,,,No suitable variable found.,
+1000,J-ADNI,PET QC(PIB) PET_AGENT,PETQC,PET Scan Information - PIB,PET drug ,T,3,,,No suitable variable found.,
+1001,J-ADNI,PET QC(PIB) RESCAN,PETQC,PET Scan Information - PIB,First PET scan?,T,2,no=Rescanning,,No suitable variable found.,
+1002,J-ADNI,PET QC(PIB) BODY_WEIGHT,PETQC,PET Scan Information - PIB,Body Weight of Patient,T,7,,kg,No suitable variable found.,
+1003,J-ADNI,PET QC(PIB) INJECTED_RIACTIVITY,PETQC,PET Scan Information - PIB,Injected Activity,T,9,,MBq,No suitable variable found.,
+1004,J-ADNI,PET QC(PIB) UPTAKE_TIME,PETQC,PET Scan Information - PIB,Uptake Time,T,8,,min,av45 pet,
+1005,J-ADNI,PET QC(PIB) MOTION_WITH_PETSCAN,PETQC,PET Scan Information - PIB,Degree of Body Motion (Six Levels) estimated from Motion Correction Parameters,T,13,A=No Motion;Mild=Mild;Mild to Mod=Mild to Moderate;Mod=Moderate;Mod to Severe=Moderate to Severe;Severe=Severe,,No suitable variable found.,
+1006,J-ADNI,PET QC(PIB) OMITTED_FRAMES,PETQC,PET Scan Information - PIB,Numbers of Omitted Frames as the Result of the Evaluation of Body Motion,T,9,,,No suitable variable found.,
+1007,J-ADNI,PET QC(PIB) BRAIN_OUT_OF_FOV,PETQC,PET Scan Information - PIB,Is a part of brain out of field of view (FOV) ?,T,3,Yes=Missing;No=Not Missing,,brainsegvol from qdec aseg,
+1008,J-ADNI,PET QC(PIB) BRAIN_OUT_OF_FOV_TOP_SLICES,PETQC,PET Scan Information - PIB,Extent of brain beyond top slice expresssed as  estimated number of slicess (Thickness 1.5mm/slice),N,1,,,brain volume,44784284.0
+1009,J-ADNI,PET QC(PIB) BRAIN_OUT_OF_FOV_BOTTOM_SLICES,PETQC,PET Scan Information - PIB,Extent of brain beyond bottom slice expresssed as  estimated number of slicess  (Thickness 1.5mm/slice),N,2,,,brain volume,44784284.0
+1010,J-ADNI,PET QC(PIB) MOTION_WITH_AMYLOID_DYNAMIC_SCAN,PETQC,PET Scan Information - PIB,Body Motion in PIB or BF227 Dynamic Scan Estimated by Visual Interpretation and Time Activity Curve (TAC),T,0,motion suspected=Body motion was suspected;no motion=Body motion was not observed,,av45 pet,
+1011,J-ADNI,PET QC(PIB) QUANTITATIVE_CAPABILITY_OF_DYNAMIC_SCAN,PETQC,PET Scan Information - PIB,Capability of Quantitative Analysis on the Dyamic scan data in regard to count rate saturation. ,T,0,capable=capable;incapable=incapable,,No suitable variable found.,
+1012,J-ADNI,PET QC(PIB) PROTOCOL_DEVIATION,PETQC,PET Scan Information - PIB,Was a protocol deviation detected?,T,9,"deviation=Protocol Deviation Detected,-=No Protocol Deviation",,No suitable variable found.,
+1013,J-ADNI,PET QC(PIB) WITH_QCCOMMENT,PETQC,PET Scan Information - PIB,Comment on QC for Reseachers?,T,288,,,No suitable variable found.,
+1014,J-ADNI,PET QC(PIB) INTERPRETATION,PETQC,PET Scan Information - PIB,"Interpretation by Inter-rater Agreement. At Baseline, 3 Levels (positive, negative and equivocal). At Follow-Ups, Comparison with Baseline (change(+), change(++), stable).",T,10,positive=Accumulation Detected;negative=No Accumulation Detected;equivocal=Equivocal Accumulation;stable=No Change from Baseline;change(+)=Weak Change from Baseline;change(++)=Strong Change from Baseline,,No suitable variable found.,
+1015,J-ADNI,ID,CSF,Cerebrospinal Fluid (CSF),Participant ID,T,8,,,participant id,46234739.0
+1016,J-ADNI,VISCODE,CSF,Cerebrospinal Fluid (CSF),Visit,T,3,SC=Screening;SC Scan=Screening;BL=Baseline;BL Scan=Baseline;6M=6 months from Baseline;12M=12 months;18M=18 months;24M=24 months;36M=36 months,,visit,
+1017,J-ADNI,CSF EXAMDATE,CSF,Cerebrospinal Fluid (CSF),Date of Examining Cerebrospinal Fluid (CSF),D,10,,,cerebrospinal fluid volume,
+1018,J-ADNI,CSF TAU,CSF,Cerebrospinal Fluid (CSF),Concentration of Tau,N,"3,2",,pg/mL,ttau in csf,37393375.0
+1019,J-ADNI,CSF AB,CSF,Cerebrospinal Fluid (CSF),Concentration of Ab1-42,N,"3,2",,pg/mL,a-beta 1-42 in csf,3042810.0
+1020,J-ADNI,CSF PTAU,CSF,Cerebrospinal Fluid (CSF),Concentration of P-tau,N,"2,2",,pg/mL,ptau in csf,37027027.0
+1021,J-ADNI,CSF NUM_MEASUREMENTS,CSF,Cerebrospinal Fluid (CSF),"Number of Measurements of TAU, AB or PTAU per Assay",T,1,,,ptau in csf,37027027.0
+1022,J-ADNI,CSF REMARK_CSF,CSF,Cerebrospinal Fluid (CSF),Remark on CSF Measurement,T,93,,,No suitable variable found.,
+1023,J-ADNI,ID,APOE,ApoE Genotyping,Participant ID,T,8,,,participant id,46234739.0
+1024,J-ADNI,VISCODE,APOE,ApoE Genotyping,Visit,T,7,SC=Screening;SC Scan=Screening;BL=Baseline;BL Scan=Baseline;6M=6 months from Baseline;12M=12 months;18M=18 months;24M=24 months;36M=36 months,,visit,
+1025,J-ADNI,APOE,APOE,ApoE Genotyping,ApoE Genotype,T,3,2*3=2*3;2*4=2*4;3*3=3*3;3*4=3*4;4*4=4*4,,apoe,40773017.0
+1026,J-ADNI,ID,BLOOD,Peripheral Blood,Participant ID,T,8,,,participant id,46234739.0
+1027,J-ADNI,VISCODE,BLOOD,Peripheral Blood,Visit,T,7,SC=Screening;SC Scan=Screening;BL=Baseline;BL Scan=Baseline;6M=6 months from Baseline;12M=12 months;18M=18 months;24M=24 months;36M=36 months,,visit,
+1028,J-ADNI,COHORT,BLOOD,Peripheral Blood,Cohort at Baseline,T,3,NL=Normal;MCI=Mild Cognitive Impairment;AD=Alzheimer's Disease,,No suitable variable found.,
+1029,J-ADNI,EXAMDATE,BLOOD,Peripheral Blood,Examination Date,D,10,,,visit,
+1030,J-ADNI,EXAMITEM,BLOOD,Peripheral Blood,Name of Examination Item,T,98,See BLOOD_EXAMITEM for detail,,verbal fluency tests (semantic) animal,
+1031,J-ADNI,VALUE,BLOOD,Peripheral Blood,Measured Value,T,6,(-)=Negative;(+-) =Pseudopositive;(1+) =Weak Positive;(2+)=Positive;(3+)=Strong Positive,,No suitable variable found.,
+1032,J-ADNI,COMMENT1,BLOOD,Peripheral Blood,Reported Comment,T,78,,,No suitable variable found.,
+1033,J-ADNI,COMMENT2,BLOOD,Peripheral Blood,Reported Comment,T,78,,,No suitable variable found.,
+1034,J-ADNI,EXAMITEM,BLOOD_EXAMITEM,Description of EXAMITEM in BLOOD,EXAMITEM in BLOOD,T,9,,,high blood pressure,45883495.0
+1035,J-ADNI,TEXT,BLOOD_EXAMITEM,Description of EXAMITEM in BLOOD,Description of EXAMITEM,T,98,,,No suitable variable found.,
+1036,J-ADNI,SOURCE,BLOOD_EXAMITEM,Description of EXAMITEM in BLOOD,Source Material,T,44,,,No suitable variable found.,
+1037,J-ADNI,UNIT,BLOOD_EXAMITEM,Description of EXAMITEM in BLOOD,Unit for EXAMITEM,T,10,,,No suitable variable found.,
+1038,J-ADNI,NORMAL_VALUES,BLOOD_EXAMITEM,Description of EXAMITEM in BLOOD,Normal Values for EXAMITEM,T,67,,,No suitable variable found.,
