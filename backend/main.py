@@ -45,7 +45,7 @@ from fastapi.middleware.cors import CORSMiddleware
 print("Loading FASTAPI...")
 
 
-version="0.2.10"
+version="0.2.11"
 
 
 app = FastAPI(
@@ -307,7 +307,8 @@ def process_csv(df, variableColumnName, definitionColumnName, k, w_1, w_2, bypas
     total = len(df)
     with open(f"tmp/{uuid}.txt", "w") as f:
         f.write(f"Mapping {total} Variables...\n")
-        f.write(f"This can take a couple of minutes")
+        f.write(f"This can take a couple of minutes.\n")
+        f.write(f"Refresh this page in a couple of minutes or once you see this process is done.\n")
     for i, row in df.iterrows():
         print(f"Mapping {i+1}/{total} Variables...")
         with open(f"tmp/{uuid}.txt", "a") as f:
